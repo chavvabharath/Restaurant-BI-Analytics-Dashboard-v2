@@ -1,0 +1,29 @@
+Item,Category,Stock,Reorder_Level,Supplier,Unit_Price,Stock_Status
+Chicken Burger,Main Course,67,21,Global Traders,18.93,In Stock
+Veg Burger,Main Course,124,28,ABC Suppliers,18.81,In Stock
+Pizza,Main Course,289,25,Fresh Foods Ltd,15.38,In Stock
+Pasta,Main Course,25,25,Quality Foods,6.64,Low Stock
+Biryani,Main Course,23,55,ABC Suppliers,6.17,Low Stock
+Fried Rice,Main Course,289,46,Quality Foods,6.68,In Stock
+Noodles,Main Course,152,20,Global Traders,19.33,In Stock
+Grilled Chicken,Main Course,226,41,Global Traders,8.03,In Stock
+Paneer Curry,Main Course,182,26,Fresh Foods Ltd,3.68,In Stock
+Steak,Main Course,193,42,Fresh Foods Ltd,15.69,In Stock
+Coke,Beverages,245,54,Prime Distributors,4.43,In Stock
+Pepsi,Beverages,50,55,ABC Suppliers,8.39,In Stock
+Sprite,Beverages,195,56,Fresh Foods Ltd,6.02,In Stock
+Coffee,Beverages,33,34,Fresh Foods Ltd,19.67,Low Stock
+Tea,Beverages,129,26,Prime Distributors,10.43,In Stock
+Orange Juice,Beverages,196,30,Global Traders,10.2,In Stock
+Lemonade,Beverages,146,24,Global Traders,15.81,In Stock
+Milkshake,Beverages,283,35,Prime Distributors,5.34,In Stock
+Ice Cream,Desserts,148,60,Global Traders,17.67,In Stock
+Brownie,Desserts,176,23,Fresh Foods Ltd,6.88,In Stock
+Cheesecake,Desserts,171,45,Global Traders,7.79,In Stock
+Chocolate Cake,Desserts,300,40,Prime Distributors,6.5,In Stock
+Donut,Desserts,212,49,Global Traders,4.86,In Stock
+French Fries,Snacks,136,55,ABC Suppliers,14.17,In Stock
+Garlic Bread,Snacks,229,57,Global Traders,10.89,In Stock
+Chicken Wings,Snacks,80,52,Fresh Foods Ltd,13.1,In Stock
+Nachos,Snacks,66,29,ABC Suppliers,16.24,In Stock
+Spring Rolls,Snacks,226,58,Prime Distributors,2.99,In Stock

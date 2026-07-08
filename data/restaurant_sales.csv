@@ -1,0 +1,1001 @@
+Order_ID,Date,Time,Month,Day,Customer_ID,Customer_Type,Gender,Age,Table_No,Waiter,Category,Item,Quantity,Unit_Price,Sales,Discount,Tax,Total_Bill,Payment_Method,Order_Type,Rating,Profit
+ORD00001,24-11-2025,00:44:12,November,Monday,CUST2679,New,Female,20,1,Sophia,Starters,Spring Rolls,3,6.99,20.97,0.77,4.04,24.24,Card,Dine-in,5,5.47
+ORD00002,05-11-2025,16:12:03,November,Wednesday,CUST5557,New,Male,62,14,Olivia,Starters,Garlic Bread,5,4.99,24.95,1.57,4.68,28.06,Apple Pay,Dine-in,3,7.42
+ORD00003,22-06-2025,04:33:24,June,Sunday,CUST5333,New,Female,52,4,David,Starters,Spring Rolls,4,6.99,27.96,0.41,5.51,33.06,Cash,Delivery,4,10.39
+ORD00004,18-11-2025,20:53:49,November,Tuesday,CUST4733,Returning,Male,32,4,David,Desserts,Cheesecake,2,6.99,13.98,1.48,2.5,15,Apple Pay,Takeaway,5,3.21
+ORD00005,06-07-2025,07:49:49,July,Sunday,CUST2169,New,Male,28,15,David,Main Course,Burger,3,11.99,35.97,1.13,6.97,41.81,Apple Pay,Delivery,5,10.11
+ORD00006,13-10-2025,17:15:03,October,Monday,CUST6168,Returning,Female,22,7,Olivia,Main Course,Burger,1,11.99,11.99,0.41,2.32,13.9,Card,Delivery,4,2.95
+ORD00007,22-07-2025,22:00:52,July,Tuesday,CUST9830,Returning,Female,55,13,Olivia,Drinks,Coffee,3,3.99,11.97,0.25,2.34,14.06,Card,Dine-in,5,4.24
+ORD00008,10-09-2025,08:35:08,September,Wednesday,CUST7916,New,Female,42,20,Emily,Starters,Spring Rolls,1,6.99,6.99,0.16,1.37,8.2,Online,Takeaway,5,1.87
+ORD00009,06-01-2025,10:37:09,January,Monday,CUST8433,New,Female,50,6,Sophia,Starters,Chicken Wings,3,8.99,26.97,0.45,5.3,31.82,Apple Pay,Delivery,5,8.36
+ORD00010,08-11-2025,20:04:21,November,Saturday,CUST9689,New,Female,49,1,Sophia,Main Course,Butter Chicken,3,15.99,47.97,5.49,8.5,50.98,Apple Pay,Takeaway,3,14.06
+ORD00011,30-01-2025,12:59:15,January,Thursday,CUST9727,New,Male,60,16,Daniel,Main Course,Veg Biryani,1,12.99,12.99,1.43,2.31,13.87,Apple Pay,Delivery,5,4.3
+ORD00012,05-08-2025,06:00:47,August,Tuesday,CUST7118,Returning,Female,25,8,Emma,Main Course,Paneer Butter Masala,3,13.99,41.97,2.51,7.89,47.35,Cash,Takeaway,3,13.84
+ORD00013,29-10-2025,05:26:10,October,Wednesday,CUST4750,New,Male,39,3,Emma,Main Course,Paneer Butter Masala,1,13.99,13.99,0.15,2.77,16.61,Apple Pay,Delivery,4,4.77
+ORD00014,20-04-2025,06:41:27,April,Sunday,CUST4119,New,Male,60,14,Olivia,Main Course,Fish & Chips,2,17.99,35.98,4.23,6.35,38.1,Google Pay,Takeaway,4,11.78
+ORD00015,28-01-2025,20:07:02,January,Tuesday,CUST2790,New,Male,30,18,Emily,Starters,Spring Rolls,4,6.99,27.96,3.05,4.98,29.89,Card,Takeaway,3,9.22
+ORD00016,23-05-2025,20:40:41,May,Friday,CUST2604,New,Male,23,8,Daniel,Drinks,Coffee,1,3.99,3.99,0.27,0.74,4.46,Google Pay,Takeaway,4,1.41
+ORD00017,20-04-2025,07:01:20,April,Sunday,CUST5345,Returning,Female,45,18,Emily,Drinks,Coke,2,2.99,5.98,0.34,1.13,6.77,Card,Dine-in,4,2.24
+ORD00018,22-04-2025,20:22:14,April,Tuesday,CUST9238,New,Male,50,3,Daniel,Starters,Spring Rolls,3,6.99,20.97,0.18,4.16,24.95,Cash,Delivery,3,7.02
+ORD00019,12-12-2025,19:17:27,December,Friday,CUST1651,New,Female,60,19,Olivia,Main Course,Pasta,1,13.49,13.49,1.91,2.32,13.9,Apple Pay,Dine-in,5,3.88
+ORD00020,10-06-2025,21:52:54,June,Tuesday,CUST8491,Returning,Male,18,15,Sophia,Main Course,Pizza,4,16.99,67.96,1.33,13.33,79.96,Cash,Delivery,3,23.11
+ORD00021,17-09-2025,02:00:06,September,Wednesday,CUST7054,Returning,Male,46,18,Michael,Desserts,Ice Cream,3,4.99,14.97,1.98,2.6,15.59,Online,Delivery,5,4.96
+ORD00022,05-01-2025,16:44:18,January,Sunday,CUST2891,New,Male,35,10,Emma,Desserts,Cheesecake,1,6.99,6.99,0.98,1.2,7.21,Apple Pay,Dine-in,5,1.62
+ORD00023,21-11-2025,11:09:57,November,Friday,CUST1832,New,Female,35,2,James,Desserts,Cheesecake,4,6.99,27.96,1.05,5.38,32.29,Apple Pay,Dine-in,5,10.39
+ORD00024,15-05-2025,15:12:19,May,Thursday,CUST2832,New,Male,52,2,Olivia,Main Course,Fish & Chips,5,17.99,89.95,9.52,16.09,96.52,Online,Delivery,3,26.87
+ORD00025,09-08-2025,09:57:01,August,Saturday,CUST1653,Returning,Male,61,8,Sophia,Main Course,Chicken Biryani,3,14.99,44.97,2.46,8.5,51.01,Apple Pay,Delivery,4,16.58
+ORD00026,14-11-2025,01:39:11,November,Friday,CUST7755,New,Male,65,11,David,Main Course,Paneer Butter Masala,2,13.99,27.98,4.1,4.78,28.66,Card,Takeaway,3,8.87
+ORD00027,26-12-2025,06:22:48,December,Friday,CUST8541,Returning,Female,32,8,James,Starters,Soup,1,5.99,5.99,0.77,1.04,6.26,Card,Takeaway,4,1.48
+ORD00028,23-05-2025,02:43:34,May,Friday,CUST9785,Returning,Male,25,9,Daniel,Starters,Chicken Wings,3,8.99,26.97,2.6,4.87,29.24,Online,Takeaway,3,7.55
+ORD00029,25-02-2025,23:35:21,February,Tuesday,CUST2894,Returning,Male,34,2,David,Drinks,Tea,3,2.49,7.47,0.49,1.4,8.38,Cash,Delivery,5,2.78
+ORD00030,18-12-2025,15:52:42,December,Thursday,CUST6409,Returning,Male,64,10,Michael,Main Course,Burger,4,11.99,47.96,0.5,9.49,56.95,Google Pay,Takeaway,4,16.59
+ORD00031,23-12-2025,07:25:33,December,Tuesday,CUST7211,New,Female,43,18,James,Desserts,Cheesecake,2,6.99,13.98,0.4,2.72,16.3,Apple Pay,Takeaway,3,4.75
+ORD00032,09-08-2025,01:08:30,August,Saturday,CUST8752,New,Male,36,17,Olivia,Desserts,Brownie,4,5.99,23.96,1.59,4.47,26.84,Cash,Dine-in,5,6.31
+ORD00033,08-06-2025,23:23:11,June,Sunday,CUST8784,New,Female,44,19,Emma,Main Course,Paneer Butter Masala,2,13.99,27.98,0.1,5.58,33.46,Google Pay,Takeaway,4,7.99
+ORD00034,05-05-2025,21:58:34,May,Monday,CUST9486,Returning,Male,53,8,Sophia,Main Course,Chicken Biryani,1,14.99,14.99,1.75,2.65,15.89,Google Pay,Dine-in,4,3.74
+ORD00035,08-12-2025,05:30:08,December,Monday,CUST7991,Returning,Male,65,16,Emily,Desserts,Brownie,5,5.99,29.95,3.66,5.26,31.55,Apple Pay,Dine-in,5,10.09
+ORD00036,22-05-2025,20:50:47,May,Thursday,CUST4841,Returning,Female,38,18,Sophia,Drinks,Coffee,3,3.99,11.97,0.79,2.24,13.42,Card,Dine-in,3,3.99
+ORD00037,16-07-2025,03:07:03,July,Wednesday,CUST8633,Returning,Male,31,14,David,Main Course,Paneer Butter Masala,1,13.99,13.99,0.87,2.62,15.74,Online,Delivery,3,3.93
+ORD00038,22-10-2025,03:25:28,October,Wednesday,CUST7389,Returning,Male,49,8,Michael,Drinks,Fresh Juice,1,4.49,4.49,0.63,0.77,4.63,Google Pay,Takeaway,3,1.14
+ORD00039,19-07-2025,02:06:13,July,Saturday,CUST3091,New,Female,55,19,James,Desserts,Cheesecake,4,6.99,27.96,3.04,4.98,29.9,Cash,Delivery,4,9.37
+ORD00040,11-03-2025,16:04:39,March,Tuesday,CUST8449,Returning,Female,42,9,David,Drinks,Coffee,1,3.99,3.99,0.16,0.77,4.6,Apple Pay,Dine-in,4,1.15
+ORD00041,10-01-2025,12:09:52,January,Friday,CUST1659,New,Male,30,1,Daniel,Starters,Chicken Wings,2,8.99,17.98,1.75,3.25,19.48,Card,Dine-in,4,5.96
+ORD00042,09-12-2025,17:36:57,December,Tuesday,CUST3749,New,Male,37,4,James,Starters,Garlic Bread,4,4.99,19.96,2.09,3.57,21.44,Apple Pay,Delivery,5,6.52
+ORD00043,12-07-2025,23:28:27,July,Saturday,CUST4978,New,Female,61,20,Sophia,Drinks,Coffee,1,3.99,3.99,0.35,0.73,4.37,Online,Dine-in,4,1.36
+ORD00044,30-09-2025,15:39:37,September,Tuesday,CUST7882,Returning,Male,45,12,Emily,Drinks,Tea,1,2.49,2.49,0.19,0.46,2.76,Card,Takeaway,3,0.69
+ORD00045,25-09-2025,18:46:20,September,Thursday,CUST5397,Returning,Male,23,9,Emily,Desserts,Cheesecake,5,6.99,34.95,4.06,6.18,37.07,Card,Takeaway,5,9.88
+ORD00046,09-11-2025,22:33:16,November,Sunday,CUST8988,New,Female,34,11,Michael,Drinks,Tea,1,2.49,2.49,0.18,0.46,2.77,Online,Delivery,4,0.69
+ORD00047,12-10-2025,21:55:53,October,Sunday,CUST4937,Returning,Female,46,1,Sophia,Starters,Garlic Bread,1,4.99,4.99,0.18,0.96,5.77,Apple Pay,Dine-in,4,1.5
+ORD00048,21-12-2025,14:28:06,December,Sunday,CUST6632,Returning,Female,40,15,Michael,Main Course,Pizza,5,16.99,84.95,4.7,16.05,96.3,Apple Pay,Takeaway,3,26.72
+ORD00049,03-03-2025,01:36:40,March,Monday,CUST4033,New,Male,65,16,Michael,Main Course,Burger,1,11.99,11.99,1.34,2.13,12.78,Online,Delivery,5,4.18
+ORD00050,25-05-2025,02:41:24,May,Sunday,CUST1231,New,Female,20,2,Michael,Starters,Garlic Bread,3,4.99,14.97,0.51,2.89,17.35,Card,Delivery,4,4
+ORD00051,22-02-2025,03:22:08,February,Saturday,CUST1841,Returning,Female,25,3,David,Starters,Chicken Wings,4,8.99,35.96,2.58,6.68,40.06,Google Pay,Dine-in,5,10.05
+ORD00052,19-11-2025,00:29:38,November,Wednesday,CUST2395,New,Male,53,14,Emma,Starters,Garlic Bread,2,4.99,9.98,1.21,1.75,10.52,Online,Takeaway,4,3.44
+ORD00053,15-08-2025,11:20:10,August,Friday,CUST2625,New,Male,34,3,Daniel,Desserts,Cheesecake,4,6.99,27.96,1.28,5.34,32.02,Card,Dine-in,5,9.16
+ORD00054,08-02-2025,05:06:21,February,Saturday,CUST5771,New,Male,36,10,Emily,Main Course,Chicken Biryani,4,14.99,59.96,4.05,11.18,67.09,Cash,Delivery,3,18.96
+ORD00055,16-05-2025,23:11:30,May,Friday,CUST5352,New,Male,21,6,Michael,Main Course,Pasta,1,13.49,13.49,1.1,2.48,14.87,Online,Delivery,5,4.3
+ORD00056,28-05-2025,17:19:31,May,Wednesday,CUST5460,Returning,Female,23,20,James,Drinks,Coke,4,2.99,11.96,1.24,2.14,12.86,Google Pay,Delivery,4,3.81
+ORD00057,06-11-2025,13:13:38,November,Thursday,CUST1339,Returning,Male,29,16,Emily,Desserts,Ice Cream,1,4.99,4.99,0.17,0.96,5.78,Apple Pay,Dine-in,5,1.69
+ORD00058,12-08-2025,04:47:09,August,Tuesday,CUST2713,New,Female,44,16,Michael,Drinks,Coke,4,2.99,11.96,0.62,2.27,13.61,Google Pay,Delivery,3,3.4
+ORD00059,21-08-2025,08:35:18,August,Thursday,CUST7622,New,Female,44,2,Emma,Starters,Chicken Wings,3,8.99,26.97,1.31,5.13,30.79,Online,Takeaway,5,10.15
+ORD00060,13-09-2025,18:21:47,September,Saturday,CUST5719,Returning,Female,25,1,Emma,Drinks,Coke,2,2.99,5.98,0.24,1.15,6.89,Card,Takeaway,5,1.55
+ORD00061,08-01-2025,20:45:51,January,Wednesday,CUST8560,New,Male,49,10,Michael,Drinks,Coke,2,2.99,5.98,0.89,1.02,6.11,Google Pay,Takeaway,4,1.97
+ORD00062,05-05-2025,14:54:30,May,Monday,CUST3236,New,Female,44,11,Michael,Drinks,Coffee,4,3.99,15.96,0.46,3.1,18.6,Cash,Takeaway,5,5.27
+ORD00063,02-06-2025,19:34:35,June,Monday,CUST9903,Returning,Female,38,7,Emma,Drinks,Coffee,4,3.99,15.96,1.29,2.93,17.6,Online,Takeaway,3,4.43
+ORD00064,30-07-2025,13:42:32,July,Wednesday,CUST7325,New,Female,20,5,Olivia,Starters,Chicken Wings,4,8.99,35.96,3.8,6.43,38.59,Cash,Takeaway,3,11.95
+ORD00065,27-09-2025,02:58:14,September,Saturday,CUST3529,New,Female,34,11,David,Drinks,Coke,2,2.99,5.98,0.37,1.12,6.73,Cash,Takeaway,5,1.95
+ORD00066,01-10-2025,18:58:26,October,Wednesday,CUST2121,New,Female,32,3,David,Drinks,Tea,4,2.49,9.96,1.3,1.73,10.39,Cash,Delivery,5,2.21
+ORD00067,21-02-2025,20:01:32,February,Friday,CUST1919,Returning,Female,41,14,Daniel,Drinks,Coffee,3,3.99,11.97,1.62,2.07,12.42,Card,Delivery,4,2.66
+ORD00068,17-10-2025,15:58:15,October,Friday,CUST4945,Returning,Male,32,15,Michael,Main Course,Butter Chicken,2,15.99,31.98,0.38,6.32,37.92,Google Pay,Takeaway,5,12.03
+ORD00069,05-01-2025,16:38:37,January,Sunday,CUST6661,Returning,Female,62,9,Emily,Drinks,Tea,5,2.49,12.45,0.3,2.43,14.58,Apple Pay,Dine-in,4,3.84
+ORD00070,05-09-2025,09:48:34,September,Friday,CUST5837,New,Female,35,1,James,Starters,Garlic Bread,4,4.99,19.96,1.71,3.65,21.9,Online,Delivery,4,6.14
+ORD00071,27-05-2025,23:33:46,May,Tuesday,CUST3240,New,Male,37,15,James,Main Course,Burger,2,11.99,23.98,2.29,4.34,26.03,Online,Takeaway,5,7.44
+ORD00072,09-03-2025,13:39:12,March,Sunday,CUST3165,Returning,Female,28,9,Emily,Starters,Chicken Wings,3,8.99,26.97,3.02,4.79,28.74,Apple Pay,Delivery,4,6.62
+ORD00073,28-02-2025,22:43:20,February,Friday,CUST7511,Returning,Male,43,1,Michael,Drinks,Coke,2,2.99,5.98,0.68,1.06,6.36,Online,Dine-in,4,1.5
+ORD00074,08-07-2025,06:19:01,July,Tuesday,CUST2775,New,Female,19,20,Olivia,Desserts,Cheesecake,4,6.99,27.96,3.45,4.9,29.41,Online,Dine-in,5,9.58
+ORD00075,02-02-2025,01:14:46,February,Sunday,CUST1609,Returning,Female,25,4,Emma,Drinks,Tea,4,2.49,9.96,0.17,1.96,11.75,Online,Dine-in,4,2.51
+ORD00076,21-08-2025,04:52:47,August,Thursday,CUST3531,Returning,Male,49,20,David,Desserts,Cheesecake,5,6.99,34.95,2.2,6.55,39.3,Apple Pay,Dine-in,5,11.83
+ORD00077,09-07-2025,15:25:13,July,Wednesday,CUST2627,Returning,Female,21,13,Michael,Main Course,Fish & Chips,4,17.99,71.96,10.26,12.34,74.04,Card,Dine-in,4,23.34
+ORD00078,16-02-2025,05:12:23,February,Sunday,CUST3063,New,Male,53,7,Emma,Main Course,Chicken Biryani,1,14.99,14.99,1.77,2.64,15.86,Card,Takeaway,3,3.79
+ORD00079,02-11-2025,10:40:32,November,Sunday,CUST3858,New,Male,26,1,Olivia,Starters,Chicken Wings,2,8.99,17.98,2.66,3.06,18.38,Card,Delivery,4,5.07
+ORD00080,09-01-2025,05:00:21,January,Thursday,CUST2862,New,Female,46,12,Sophia,Main Course,Pizza,1,16.99,16.99,0.32,3.33,20,Google Pay,Delivery,3,5.22
+ORD00081,11-11-2025,17:05:05,November,Tuesday,CUST8847,Returning,Female,61,4,Emily,Starters,Chicken Wings,4,8.99,35.96,3.47,6.5,38.99,Google Pay,Dine-in,3,8.27
+ORD00082,14-06-2025,16:54:17,June,Saturday,CUST9984,Returning,Female,56,17,Michael,Main Course,Veg Biryani,2,12.99,25.98,1.07,4.98,29.89,Google Pay,Delivery,5,8.59
+ORD00083,09-08-2025,12:10:08,August,Saturday,CUST8398,New,Female,39,15,David,Starters,Spring Rolls,5,6.99,34.95,3.78,6.23,37.4,Google Pay,Delivery,3,8.8
+ORD00084,10-06-2025,16:08:18,June,Tuesday,CUST8770,New,Male,23,3,David,Drinks,Tea,3,2.49,7.47,0.42,1.41,8.46,Cash,Delivery,5,1.92
+ORD00085,10-07-2025,13:51:22,July,Thursday,CUST3002,Returning,Female,60,14,James,Main Course,Chicken Biryani,5,14.99,74.95,10.75,12.84,77.04,Apple Pay,Delivery,4,21.46
+ORD00086,30-06-2025,16:32:50,June,Monday,CUST2773,Returning,Female,25,9,Emma,Starters,Garlic Bread,2,4.99,9.98,0.98,1.8,10.8,Google Pay,Delivery,5,2.55
+ORD00087,11-11-2025,04:02:02,November,Tuesday,CUST6062,Returning,Female,18,6,Daniel,Starters,Chicken Wings,1,8.99,8.99,0.24,1.75,10.5,Online,Delivery,4,3.11
+ORD00088,05-02-2025,10:44:20,February,Wednesday,CUST7878,Returning,Female,28,12,Michael,Main Course,Chicken Biryani,1,14.99,14.99,1.68,2.66,15.97,Apple Pay,Delivery,5,3.76
+ORD00089,13-02-2025,16:28:33,February,Thursday,CUST2336,Returning,Female,60,14,Emily,Starters,Garlic Bread,2,4.99,9.98,1.13,1.77,10.62,Online,Takeaway,4,2.28
+ORD00090,20-05-2025,01:18:22,May,Tuesday,CUST8972,Returning,Male,32,13,James,Main Course,Veg Biryani,3,12.99,38.97,2.51,7.29,43.75,Cash,Dine-in,4,10.66
+ORD00091,19-04-2025,05:19:57,April,Saturday,CUST8055,New,Male,42,18,Emma,Main Course,Pizza,3,16.99,50.97,2.51,9.69,58.15,Online,Delivery,5,12.17
+ORD00092,01-07-2025,13:39:27,July,Tuesday,CUST2275,Returning,Female,54,13,David,Starters,Soup,1,5.99,5.99,0.39,1.12,6.72,Apple Pay,Dine-in,4,1.79
+ORD00093,11-01-2025,06:42:17,January,Saturday,CUST6928,New,Female,24,8,David,Desserts,Ice Cream,5,4.99,24.95,1.72,4.65,27.88,Online,Takeaway,5,8.21
+ORD00094,10-02-2025,18:43:44,February,Monday,CUST2251,New,Male,40,12,Daniel,Drinks,Tea,3,2.49,7.47,0.25,1.44,8.66,Card,Dine-in,3,2.65
+ORD00095,12-05-2025,18:06:02,May,Monday,CUST2234,New,Female,47,19,Emily,Main Course,Butter Chicken,5,15.99,79.95,1.83,15.62,93.74,Online,Delivery,5,28.43
+ORD00096,16-11-2025,13:41:59,November,Sunday,CUST8245,Returning,Female,55,2,Olivia,Desserts,Cheesecake,3,6.99,20.97,0.47,4.1,24.6,Online,Dine-in,4,5.33
+ORD00097,25-08-2025,08:27:26,August,Monday,CUST2479,Returning,Female,55,18,James,Drinks,Coke,1,2.99,2.99,0.17,0.56,3.38,Google Pay,Delivery,5,0.83
+ORD00098,07-04-2025,22:26:45,April,Monday,CUST8381,New,Female,63,3,Daniel,Desserts,Cheesecake,4,6.99,27.96,2.1,5.17,31.03,Cash,Dine-in,5,10.18
+ORD00099,13-08-2025,16:21:46,August,Wednesday,CUST7697,Returning,Male,58,11,Sophia,Drinks,Coffee,3,3.99,11.97,0.67,2.26,13.56,Apple Pay,Dine-in,5,3.3
+ORD00100,14-12-2025,01:52:18,December,Sunday,CUST3463,Returning,Male,55,5,Olivia,Drinks,Tea,3,2.49,7.47,0.81,1.33,7.99,Apple Pay,Delivery,5,2.32
+ORD00101,06-12-2025,10:58:48,December,Saturday,CUST7171,Returning,Male,60,17,Sophia,Drinks,Coffee,5,3.99,19.95,2.12,3.57,21.4,Google Pay,Delivery,4,4.68
+ORD00102,10-01-2025,13:24:54,January,Friday,CUST8967,New,Male,26,5,Sophia,Desserts,Brownie,2,5.99,11.98,1.71,2.05,12.32,Apple Pay,Dine-in,5,3.09
+ORD00103,04-10-2025,02:40:15,October,Saturday,CUST3658,New,Male,64,15,James,Starters,Chicken Wings,5,8.99,44.95,0.88,8.81,52.88,Google Pay,Takeaway,5,13.51
+ORD00104,02-05-2025,03:08:21,May,Friday,CUST8684,New,Female,61,19,Emily,Drinks,Tea,4,2.49,9.96,0.35,1.92,11.53,Google Pay,Takeaway,4,2.75
+ORD00105,15-09-2025,20:27:57,September,Monday,CUST5096,New,Female,41,18,Sophia,Drinks,Coffee,2,3.99,7.98,0.96,1.4,8.42,Online,Dine-in,4,1.9
+ORD00106,12-02-2025,01:58:16,February,Wednesday,CUST8167,New,Male,46,12,James,Main Course,Pizza,4,16.99,67.96,9.23,11.75,70.48,Google Pay,Dine-in,4,15.98
+ORD00107,15-09-2025,20:06:06,September,Monday,CUST1461,Returning,Male,63,11,Daniel,Desserts,Ice Cream,4,4.99,19.96,2.98,3.4,20.38,Card,Dine-in,4,5.2
+ORD00108,30-08-2025,11:21:17,August,Saturday,CUST1311,Returning,Male,27,18,David,Main Course,Fish & Chips,4,17.99,71.96,6.64,13.06,78.38,Cash,Takeaway,3,25.21
+ORD00109,04-06-2025,06:41:35,June,Wednesday,CUST8489,New,Male,49,20,James,Starters,Spring Rolls,2,6.99,13.98,0.88,2.62,15.72,Online,Delivery,3,4.84
+ORD00110,15-03-2025,05:52:48,March,Saturday,CUST7825,New,Male,51,12,Sophia,Desserts,Brownie,1,5.99,5.99,0.55,1.09,6.53,Online,Delivery,5,1.56
+ORD00111,17-09-2025,05:54:40,September,Wednesday,CUST7116,Returning,Male,40,3,Olivia,Starters,Soup,4,5.99,23.96,0.16,4.76,28.56,Card,Delivery,5,7.33
+ORD00112,18-11-2025,01:59:39,November,Tuesday,CUST3868,Returning,Female,58,6,Daniel,Starters,Chicken Wings,2,8.99,17.98,0.12,3.57,21.43,Cash,Delivery,4,5.93
+ORD00113,19-01-2025,14:17:30,January,Sunday,CUST6170,Returning,Female,52,16,Michael,Desserts,Ice Cream,1,4.99,4.99,0.59,0.88,5.28,Cash,Delivery,3,1.68
+ORD00114,27-05-2025,17:43:24,May,Tuesday,CUST8159,Returning,Female,42,11,Daniel,Desserts,Ice Cream,3,4.99,14.97,0.61,2.87,17.23,Google Pay,Delivery,4,5.31
+ORD00115,08-07-2025,07:24:23,July,Tuesday,CUST3956,Returning,Female,24,3,Olivia,Desserts,Ice Cream,4,4.99,19.96,0.24,3.94,23.66,Apple Pay,Takeaway,4,6.71
+ORD00116,05-11-2025,16:39:40,November,Wednesday,CUST6776,Returning,Female,58,2,Sophia,Drinks,Coffee,4,3.99,15.96,0.84,3.02,18.14,Google Pay,Takeaway,5,3.88
+ORD00117,14-12-2025,15:42:22,December,Sunday,CUST8179,New,Male,22,8,Olivia,Main Course,Chicken Biryani,2,14.99,29.98,3.82,5.23,31.39,Apple Pay,Takeaway,5,9.2
+ORD00118,17-01-2025,00:09:26,January,Friday,CUST3255,Returning,Female,38,9,Emma,Main Course,Fish & Chips,3,17.99,53.97,3.01,10.19,61.15,Cash,Dine-in,5,18.57
+ORD00119,06-04-2025,05:44:00,April,Sunday,CUST8311,New,Female,62,16,Emma,Drinks,Fresh Juice,5,4.49,22.45,0.4,4.41,26.46,Cash,Dine-in,3,8.08
+ORD00120,20-08-2025,12:58:09,August,Wednesday,CUST6236,Returning,Male,53,18,Michael,Main Course,Fish & Chips,1,17.99,17.99,2.19,3.16,18.96,Apple Pay,Dine-in,5,6.24
+ORD00121,30-12-2025,07:25:33,December,Tuesday,CUST3275,New,Female,19,12,Olivia,Main Course,Burger,5,11.99,59.95,2.02,11.59,69.52,Google Pay,Delivery,3,23.04
+ORD00122,10-11-2025,19:19:56,November,Monday,CUST8842,Returning,Female,54,3,Daniel,Starters,Spring Rolls,3,6.99,20.97,1.25,3.94,23.66,Apple Pay,Delivery,3,7.05
+ORD00123,19-08-2025,08:43:03,August,Tuesday,CUST3981,New,Female,50,2,Sophia,Drinks,Tea,2,2.49,4.98,0.66,0.86,5.18,Online,Dine-in,4,1.59
+ORD00124,26-03-2025,07:01:47,March,Wednesday,CUST5653,New,Female,30,18,Michael,Main Course,Burger,2,11.99,23.98,1.24,4.55,27.29,Card,Delivery,4,8.89
+ORD00125,11-11-2025,06:30:25,November,Tuesday,CUST6531,New,Male,23,2,Michael,Starters,Garlic Bread,5,4.99,24.95,3.52,4.29,25.72,Card,Delivery,4,5.85
+ORD00126,13-11-2025,09:07:47,November,Thursday,CUST8912,New,Female,37,15,Sophia,Starters,Soup,5,5.99,29.95,1.3,5.73,34.38,Cash,Dine-in,4,11.27
+ORD00127,01-08-2025,00:22:18,August,Friday,CUST6231,Returning,Female,26,12,Sophia,Drinks,Fresh Juice,2,4.49,8.98,0.46,1.7,10.22,Apple Pay,Dine-in,4,2.31
+ORD00128,04-03-2025,08:52:10,March,Tuesday,CUST7293,Returning,Male,28,11,Olivia,Desserts,Brownie,2,5.99,11.98,0.25,2.35,14.08,Card,Dine-in,4,3.02
+ORD00129,21-09-2025,13:28:44,September,Sunday,CUST7442,Returning,Male,31,19,Olivia,Drinks,Fresh Juice,3,4.49,13.47,1,2.49,14.96,Cash,Dine-in,4,3.29
+ORD00130,11-09-2025,23:58:13,September,Thursday,CUST3194,Returning,Female,43,12,James,Drinks,Tea,5,2.49,12.45,0.02,2.49,14.92,Google Pay,Dine-in,5,3.31
+ORD00131,15-10-2025,04:14:03,October,Wednesday,CUST8378,Returning,Male,26,4,David,Main Course,Burger,5,11.99,59.95,2.6,11.47,68.82,Apple Pay,Takeaway,5,17.66
+ORD00132,07-07-2025,17:53:06,July,Monday,CUST1742,New,Male,63,11,Emily,Main Course,Paneer Butter Masala,5,13.99,69.95,5.34,12.92,77.53,Online,Takeaway,3,21
+ORD00133,07-11-2025,20:51:05,November,Friday,CUST5902,Returning,Female,63,19,Michael,Main Course,Burger,5,11.99,59.95,2.86,11.42,68.51,Google Pay,Dine-in,4,17.64
+ORD00134,19-06-2025,20:08:20,June,Thursday,CUST1436,Returning,Female,59,19,Emma,Starters,Soup,5,5.99,29.95,1.38,5.71,34.28,Cash,Delivery,4,10.99
+ORD00135,29-03-2025,08:30:48,March,Saturday,CUST2800,New,Male,46,11,David,Drinks,Coffee,2,3.99,7.98,0.04,1.59,9.53,Card,Takeaway,5,3.11
+ORD00136,15-04-2025,01:59:19,April,Tuesday,CUST6325,Returning,Female,38,6,Emily,Drinks,Fresh Juice,1,4.49,4.49,0.48,0.8,4.81,Online,Takeaway,5,1.31
+ORD00137,01-07-2025,19:37:00,July,Tuesday,CUST5890,New,Female,36,7,Emily,Desserts,Cheesecake,4,6.99,27.96,0.81,5.43,32.58,Apple Pay,Takeaway,4,7.79
+ORD00138,14-10-2025,16:38:48,October,Tuesday,CUST7464,Returning,Male,36,2,Michael,Desserts,Brownie,1,5.99,5.99,0.52,1.09,6.56,Cash,Takeaway,4,1.81
+ORD00139,02-12-2025,01:37:29,December,Tuesday,CUST5442,Returning,Male,24,20,Emma,Desserts,Cheesecake,4,6.99,27.96,0.9,5.41,32.47,Card,Dine-in,5,10.13
+ORD00140,29-09-2025,14:49:58,September,Monday,CUST8739,New,Male,18,18,Daniel,Main Course,Paneer Butter Masala,1,13.99,13.99,0.21,2.76,16.54,Google Pay,Delivery,4,4.13
+ORD00141,02-09-2025,03:42:00,September,Tuesday,CUST2465,New,Male,29,14,Daniel,Main Course,Pizza,3,16.99,50.97,2.18,9.76,58.55,Cash,Takeaway,4,12.63
+ORD00142,06-04-2025,21:12:38,April,Sunday,CUST6489,Returning,Female,59,18,Emily,Desserts,Ice Cream,1,4.99,4.99,0.22,0.95,5.72,Card,Delivery,4,1.62
+ORD00143,20-05-2025,00:32:59,May,Tuesday,CUST5215,New,Male,65,11,Michael,Main Course,Veg Biryani,3,12.99,38.97,0.95,7.6,45.62,Online,Delivery,3,12.12
+ORD00144,31-03-2025,19:24:13,March,Monday,CUST2562,New,Male,48,11,Emma,Drinks,Fresh Juice,5,4.49,22.45,1.1,4.27,25.62,Cash,Takeaway,4,6.62
+ORD00145,01-05-2025,02:16:52,May,Thursday,CUST1187,Returning,Female,62,8,James,Drinks,Tea,3,2.49,7.47,0.34,1.43,8.56,Cash,Takeaway,4,2.56
+ORD00146,23-03-2025,12:02:53,March,Sunday,CUST7021,New,Male,26,16,Daniel,Drinks,Tea,1,2.49,2.49,0.24,0.45,2.7,Google Pay,Delivery,5,0.88
+ORD00147,11-07-2025,00:01:28,July,Friday,CUST5054,New,Female,51,12,Sophia,Drinks,Fresh Juice,5,4.49,22.45,2.7,3.95,23.7,Online,Dine-in,3,7.38
+ORD00148,08-10-2025,15:11:36,October,Wednesday,CUST2904,New,Female,23,17,Emily,Main Course,Butter Chicken,2,15.99,31.98,1.57,6.08,36.49,Cash,Takeaway,3,9.98
+ORD00149,20-09-2025,22:40:41,September,Saturday,CUST6049,New,Female,34,1,Emma,Drinks,Fresh Juice,5,4.49,22.45,0.19,4.45,26.71,Online,Dine-in,3,7.11
+ORD00150,05-08-2025,20:40:44,August,Tuesday,CUST2130,Returning,Male,36,14,Daniel,Desserts,Cheesecake,1,6.99,6.99,0.57,1.28,7.7,Card,Delivery,5,1.66
+ORD00151,27-11-2025,07:01:48,November,Thursday,CUST7184,Returning,Male,61,18,Daniel,Drinks,Tea,4,2.49,9.96,0.67,1.86,11.15,Apple Pay,Dine-in,3,3.6
+ORD00152,03-10-2025,22:31:15,October,Friday,CUST5888,Returning,Female,52,13,Emma,Drinks,Coffee,2,3.99,7.98,1,1.4,8.38,Card,Takeaway,4,2.54
+ORD00153,21-03-2025,21:11:53,March,Friday,CUST1256,New,Male,22,4,James,Desserts,Ice Cream,1,4.99,4.99,0.02,0.99,5.96,Google Pay,Delivery,5,1.73
+ORD00154,27-12-2025,11:18:16,December,Saturday,CUST4559,New,Male,50,10,Emma,Starters,Garlic Bread,1,4.99,4.99,0.3,0.94,5.63,Online,Takeaway,5,1.34
+ORD00155,03-11-2025,19:14:12,November,Monday,CUST9540,New,Female,37,9,James,Desserts,Ice Cream,3,4.99,14.97,1.97,2.6,15.6,Online,Delivery,5,5.17
+ORD00156,31-03-2025,19:01:17,March,Monday,CUST7244,Returning,Female,44,5,Michael,Drinks,Fresh Juice,1,4.49,4.49,0.65,0.77,4.61,Google Pay,Dine-in,5,1.5
+ORD00157,31-08-2025,00:44:22,August,Sunday,CUST8586,New,Female,44,18,Daniel,Main Course,Paneer Butter Masala,3,13.99,41.97,5.4,7.31,43.88,Google Pay,Dine-in,4,9.93
+ORD00158,15-04-2025,19:42:42,April,Tuesday,CUST2514,New,Male,35,13,James,Desserts,Cheesecake,1,6.99,6.99,0.97,1.2,7.22,Cash,Dine-in,5,2.27
+ORD00159,10-12-2025,03:27:24,December,Wednesday,CUST1251,New,Male,65,4,Emily,Main Course,Fish & Chips,2,17.99,35.98,4.69,6.26,37.55,Card,Delivery,5,9.39
+ORD00160,27-12-2025,15:49:46,December,Saturday,CUST7236,Returning,Female,37,9,Olivia,Main Course,Pasta,2,13.49,26.98,2.23,4.95,29.7,Online,Takeaway,4,9.07
+ORD00161,20-02-2025,04:09:01,February,Thursday,CUST4625,New,Male,34,18,David,Drinks,Tea,2,2.49,4.98,0.28,0.94,5.64,Apple Pay,Dine-in,3,1.47
+ORD00162,18-06-2025,21:56:45,June,Wednesday,CUST6530,Returning,Female,64,16,Emily,Main Course,Pasta,5,13.49,67.45,8.43,11.8,70.82,Card,Delivery,4,19.18
+ORD00163,28-03-2025,22:56:55,March,Friday,CUST1962,New,Male,60,2,James,Main Course,Fish & Chips,2,17.99,35.98,4.95,6.21,37.24,Google Pay,Dine-in,5,10.28
+ORD00164,29-04-2025,12:50:56,April,Tuesday,CUST1990,Returning,Female,19,1,David,Starters,Garlic Bread,1,4.99,4.99,0.16,0.97,5.8,Cash,Dine-in,5,1.54
+ORD00165,21-05-2025,06:03:09,May,Wednesday,CUST3937,New,Male,51,5,Emma,Desserts,Ice Cream,5,4.99,24.95,3.04,4.38,26.29,Card,Delivery,5,7.69
+ORD00166,10-05-2025,11:18:40,May,Saturday,CUST8520,New,Male,37,3,James,Desserts,Brownie,4,5.99,23.96,0.28,4.74,28.42,Cash,Takeaway,4,9.33
+ORD00167,13-07-2025,21:09:32,July,Sunday,CUST8109,Returning,Male,51,2,Emma,Drinks,Coke,1,2.99,2.99,0.32,0.53,3.2,Card,Delivery,5,0.7
+ORD00168,01-09-2025,11:50:39,September,Monday,CUST9897,New,Male,38,1,Emma,Desserts,Ice Cream,1,4.99,4.99,0.51,0.9,5.38,Online,Dine-in,5,1.31
+ORD00169,23-07-2025,02:59:56,July,Wednesday,CUST7375,Returning,Female,65,5,Sophia,Starters,Chicken Wings,2,8.99,17.98,1.52,3.29,19.75,Online,Delivery,4,5.51
+ORD00170,28-01-2025,07:05:00,January,Tuesday,CUST7499,Returning,Male,58,9,Emily,Starters,Soup,2,5.99,11.98,1.51,2.09,12.56,Google Pay,Dine-in,4,3.15
+ORD00171,11-10-2025,16:33:35,October,Saturday,CUST2404,Returning,Male,63,3,Sophia,Drinks,Fresh Juice,2,4.49,8.98,0.92,1.61,9.67,Apple Pay,Dine-in,4,2.81
+ORD00172,31-12-2025,12:59:18,December,Wednesday,CUST6050,Returning,Female,35,4,Daniel,Main Course,Pasta,3,13.49,40.47,2.19,7.66,45.94,Cash,Dine-in,4,10.1
+ORD00173,18-08-2025,08:34:16,August,Monday,CUST6315,Returning,Male,36,14,David,Drinks,Coke,1,2.99,2.99,0.04,0.59,3.54,Cash,Delivery,5,0.98
+ORD00174,05-05-2025,18:34:28,May,Monday,CUST9079,New,Male,28,14,Michael,Main Course,Pasta,2,13.49,26.98,0.56,5.28,31.7,Google Pay,Takeaway,4,7.8
+ORD00175,09-02-2025,01:26:17,February,Sunday,CUST4203,Returning,Male,26,10,James,Desserts,Brownie,2,5.99,11.98,1.3,2.14,12.82,Google Pay,Takeaway,5,3.46
+ORD00176,14-07-2025,21:05:44,July,Monday,CUST3230,Returning,Female,56,7,Emily,Desserts,Brownie,3,5.99,17.97,1.16,3.36,20.17,Apple Pay,Dine-in,4,6.28
+ORD00177,13-06-2025,03:44:41,June,Friday,CUST6339,Returning,Female,43,12,Sophia,Desserts,Cheesecake,4,6.99,27.96,4.06,4.78,28.68,Online,Dine-in,5,8.78
+ORD00178,07-10-2025,01:47:51,October,Tuesday,CUST5773,New,Female,61,16,Daniel,Main Course,Chicken Biryani,4,14.99,59.96,8.48,10.3,61.78,Apple Pay,Dine-in,4,14.49
+ORD00179,04-12-2025,06:23:57,December,Thursday,CUST8851,Returning,Female,52,2,Olivia,Main Course,Pasta,4,13.49,53.96,0.6,10.67,64.03,Online,Delivery,5,21.27
+ORD00180,13-02-2025,21:53:46,February,Thursday,CUST7547,Returning,Female,24,1,Sophia,Starters,Garlic Bread,3,4.99,14.97,0.37,2.92,17.52,Apple Pay,Dine-in,5,4.99
+ORD00181,23-09-2025,14:01:23,September,Tuesday,CUST9199,New,Female,19,16,Sophia,Main Course,Fish & Chips,3,17.99,53.97,3.17,10.16,60.96,Apple Pay,Takeaway,3,18.59
+ORD00182,01-03-2025,16:35:13,March,Saturday,CUST9537,Returning,Female,48,4,Emily,Main Course,Burger,3,11.99,35.97,1.85,6.82,40.94,Google Pay,Takeaway,3,12.54
+ORD00183,03-06-2025,10:48:50,June,Tuesday,CUST3692,New,Male,53,6,Olivia,Starters,Spring Rolls,1,6.99,6.99,0.89,1.22,7.32,Online,Takeaway,4,2.12
+ORD00184,29-04-2025,08:35:32,April,Tuesday,CUST1478,New,Female,55,14,David,Drinks,Coffee,2,3.99,7.98,0.77,1.44,8.65,Cash,Delivery,3,2.27
+ORD00185,16-04-2025,06:06:52,April,Wednesday,CUST9796,New,Female,38,7,Emily,Desserts,Cheesecake,1,6.99,6.99,0.61,1.28,7.66,Cash,Takeaway,5,2.36
+ORD00186,08-09-2025,17:31:53,September,Monday,CUST6700,Returning,Female,57,6,Michael,Desserts,Cheesecake,4,6.99,27.96,2.56,5.08,30.48,Online,Delivery,3,8.59
+ORD00187,11-12-2025,20:40:57,December,Thursday,CUST7116,New,Female,44,20,Daniel,Main Course,Burger,1,11.99,11.99,0.43,2.31,13.87,Online,Takeaway,4,3.09
+ORD00188,06-04-2025,10:12:16,April,Sunday,CUST4065,Returning,Female,57,2,Olivia,Drinks,Coffee,5,3.99,19.95,0.5,3.89,23.34,Cash,Takeaway,3,5.71
+ORD00189,10-04-2025,06:11:10,April,Thursday,CUST8272,Returning,Male,23,19,James,Drinks,Fresh Juice,4,4.49,17.96,1.84,3.22,19.34,Card,Takeaway,3,5.03
+ORD00190,21-05-2025,12:42:50,May,Wednesday,CUST9115,New,Male,35,18,Olivia,Main Course,Pizza,2,16.99,33.98,3.98,6,36,Online,Dine-in,5,10.05
+ORD00191,14-08-2025,18:03:26,August,Thursday,CUST5055,Returning,Male,46,9,Olivia,Main Course,Pasta,1,13.49,13.49,1.49,2.4,14.4,Cash,Takeaway,3,4.18
+ORD00192,02-05-2025,19:29:41,May,Friday,CUST3281,New,Male,21,19,Olivia,Main Course,Burger,5,11.99,59.95,5.69,10.85,65.11,Online,Takeaway,5,14.92
+ORD00193,03-10-2025,12:21:27,October,Friday,CUST9428,New,Male,44,2,Michael,Main Course,Burger,3,11.99,35.97,1.56,6.88,41.29,Card,Delivery,3,9.98
+ORD00194,08-05-2025,08:58:48,May,Thursday,CUST9019,New,Female,58,14,David,Main Course,Burger,2,11.99,23.98,2.74,4.25,25.49,Google Pay,Dine-in,5,7.46
+ORD00195,17-02-2025,06:41:26,February,Monday,CUST1040,New,Female,58,12,Sophia,Drinks,Tea,3,2.49,7.47,0.51,1.39,8.35,Online,Takeaway,3,2.25
+ORD00196,08-08-2025,04:34:59,August,Friday,CUST9967,New,Female,39,2,James,Main Course,Fish & Chips,3,17.99,53.97,2.61,10.27,61.63,Cash,Delivery,4,15.02
+ORD00197,09-01-2025,11:28:25,January,Thursday,CUST8009,New,Male,59,10,Daniel,Starters,Garlic Bread,4,4.99,19.96,1.37,3.72,22.31,Apple Pay,Dine-in,5,7.41
+ORD00198,04-07-2025,19:01:51,July,Friday,CUST1848,Returning,Female,64,8,David,Desserts,Ice Cream,3,4.99,14.97,1.49,2.7,16.18,Cash,Delivery,3,4.68
+ORD00199,01-01-2025,08:48:16,January,Wednesday,CUST8291,New,Male,62,11,Sophia,Main Course,Fish & Chips,1,17.99,17.99,0.36,3.53,21.16,Google Pay,Delivery,3,5.01
+ORD00200,02-09-2025,00:10:53,September,Tuesday,CUST2690,Returning,Female,37,5,David,Starters,Garlic Bread,4,4.99,19.96,0.27,3.94,23.63,Card,Delivery,5,7.3
+ORD00201,15-03-2025,12:02:58,March,Saturday,CUST4490,New,Female,57,15,Emma,Starters,Spring Rolls,5,6.99,34.95,3.41,6.31,37.85,Cash,Dine-in,3,9.97
+ORD00202,05-03-2025,19:58:22,March,Wednesday,CUST5537,New,Male,53,20,Michael,Drinks,Tea,4,2.49,9.96,0.47,1.9,11.39,Cash,Delivery,4,2.57
+ORD00203,16-04-2025,12:39:01,April,Wednesday,CUST4921,Returning,Female,25,8,Emily,Main Course,Pasta,3,13.49,40.47,3.92,7.31,43.86,Online,Dine-in,5,13.43
+ORD00204,07-01-2025,06:16:00,January,Tuesday,CUST7895,Returning,Male,48,3,James,Desserts,Brownie,2,5.99,11.98,0.7,2.26,13.54,Online,Dine-in,3,4.24
+ORD00205,15-05-2025,15:17:03,May,Thursday,CUST5693,Returning,Female,62,13,Sophia,Main Course,Chicken Biryani,1,14.99,14.99,2.13,2.57,15.43,Online,Delivery,5,3.98
+ORD00206,20-03-2025,06:13:47,March,Thursday,CUST3545,Returning,Female,55,3,Michael,Desserts,Ice Cream,3,4.99,14.97,0.18,2.96,17.75,Google Pay,Delivery,3,5.74
+ORD00207,30-01-2025,17:13:43,January,Thursday,CUST1901,Returning,Male,25,1,Daniel,Main Course,Veg Biryani,4,12.99,51.96,0.9,10.21,61.27,Cash,Dine-in,4,17.45
+ORD00208,27-06-2025,21:55:00,June,Friday,CUST5403,New,Male,39,14,Michael,Desserts,Ice Cream,3,4.99,14.97,0.29,2.94,17.62,Online,Dine-in,4,5.39
+ORD00209,31-12-2025,09:36:34,December,Wednesday,CUST3734,Returning,Male,34,4,Sophia,Starters,Soup,4,5.99,23.96,1.84,4.42,26.54,Card,Delivery,5,5.71
+ORD00210,02-01-2025,10:28:10,January,Thursday,CUST3458,New,Male,53,14,Emma,Starters,Spring Rolls,2,6.99,13.98,0.1,2.78,16.66,Apple Pay,Dine-in,4,4.23
+ORD00211,13-06-2025,08:18:39,June,Friday,CUST1862,New,Male,51,2,David,Desserts,Ice Cream,5,4.99,24.95,1.4,4.71,28.26,Cash,Takeaway,4,7.66
+ORD00212,09-06-2025,22:25:44,June,Monday,CUST5777,Returning,Male,47,12,Emily,Desserts,Ice Cream,5,4.99,24.95,1.71,4.65,27.89,Card,Delivery,5,7.1
+ORD00213,06-05-2025,04:41:21,May,Tuesday,CUST1157,Returning,Male,60,13,Michael,Main Course,Chicken Biryani,4,14.99,59.96,0.22,11.95,71.69,Cash,Dine-in,5,19.79
+ORD00214,02-05-2025,02:31:10,May,Friday,CUST5584,New,Male,32,17,David,Drinks,Fresh Juice,1,4.49,4.49,0.66,0.77,4.6,Apple Pay,Takeaway,5,1.04
+ORD00215,13-02-2025,04:31:37,February,Thursday,CUST8126,New,Male,36,9,Olivia,Starters,Garlic Bread,4,4.99,19.96,0.22,3.95,23.69,Google Pay,Delivery,5,6.62
+ORD00216,17-06-2025,17:01:55,June,Tuesday,CUST3230,New,Male,24,6,Emily,Desserts,Brownie,3,5.99,17.97,0.63,3.47,20.81,Google Pay,Takeaway,4,6.79
+ORD00217,03-03-2025,07:19:38,March,Monday,CUST2964,New,Male,61,10,James,Desserts,Ice Cream,4,4.99,19.96,0.92,3.81,22.85,Card,Takeaway,3,5.52
+ORD00218,16-02-2025,03:21:22,February,Sunday,CUST5262,New,Male,43,15,Emma,Main Course,Burger,4,11.99,47.96,3.69,8.85,53.12,Cash,Takeaway,3,15.56
+ORD00219,13-03-2025,00:00:25,March,Thursday,CUST3141,New,Female,41,3,Michael,Starters,Spring Rolls,1,6.99,6.99,0.87,1.22,7.34,Cash,Dine-in,3,2.43
+ORD00220,12-04-2025,16:17:55,April,Saturday,CUST6432,New,Male,47,2,Daniel,Drinks,Coffee,1,3.99,3.99,0.54,0.69,4.14,Online,Takeaway,5,1.29
+ORD00221,22-07-2025,14:28:41,July,Tuesday,CUST4517,New,Female,35,15,Daniel,Drinks,Coke,4,2.99,11.96,1.23,2.15,12.88,Cash,Delivery,5,2.96
+ORD00222,12-11-2025,07:48:28,November,Wednesday,CUST1999,New,Female,42,5,David,Main Course,Pizza,4,16.99,67.96,4.2,12.75,76.51,Card,Delivery,5,21.21
+ORD00223,08-05-2025,23:10:37,May,Thursday,CUST6636,Returning,Female,35,6,James,Starters,Soup,3,5.99,17.97,1.29,3.34,20.02,Apple Pay,Delivery,3,6.13
+ORD00224,16-01-2025,19:33:01,January,Thursday,CUST4813,New,Male,33,8,Michael,Desserts,Ice Cream,4,4.99,19.96,1.59,3.67,22.04,Online,Delivery,3,6.71
+ORD00225,23-04-2025,10:14:25,April,Wednesday,CUST6878,New,Female,54,19,Daniel,Drinks,Tea,2,2.49,4.98,0.13,0.97,5.82,Online,Dine-in,4,1.64
+ORD00226,05-10-2025,03:47:15,October,Sunday,CUST4584,New,Female,18,11,Emma,Desserts,Ice Cream,4,4.99,19.96,0.11,3.97,23.82,Card,Takeaway,5,5.13
+ORD00227,01-04-2025,18:24:17,April,Tuesday,CUST3320,New,Female,22,12,David,Desserts,Ice Cream,1,4.99,4.99,0.11,0.98,5.86,Online,Dine-in,4,1.74
+ORD00228,04-06-2025,18:34:17,June,Wednesday,CUST8982,Returning,Male,63,18,Olivia,Desserts,Ice Cream,2,4.99,9.98,1.1,1.78,10.66,Card,Delivery,5,2.8
+ORD00229,31-03-2025,06:27:26,March,Monday,CUST7415,New,Male,56,11,Emma,Drinks,Tea,3,2.49,7.47,0.14,1.47,8.8,Online,Dine-in,4,2.63
+ORD00230,14-03-2025,10:27:28,March,Friday,CUST3750,New,Female,46,1,Michael,Desserts,Cheesecake,1,6.99,6.99,0.25,1.35,8.09,Card,Dine-in,5,2.68
+ORD00231,04-02-2025,09:42:15,February,Tuesday,CUST8179,Returning,Male,44,16,David,Desserts,Brownie,1,5.99,5.99,0.65,1.07,6.41,Apple Pay,Delivery,4,1.37
+ORD00232,21-02-2025,18:31:17,February,Friday,CUST1547,Returning,Male,38,9,Sophia,Drinks,Coffee,2,3.99,7.98,0.54,1.49,8.93,Cash,Takeaway,3,2.75
+ORD00233,12-07-2025,04:29:24,July,Saturday,CUST6536,Returning,Male,45,6,David,Main Course,Veg Biryani,5,12.99,64.95,9.18,11.15,66.92,Card,Dine-in,3,22.12
+ORD00234,19-06-2025,12:35:52,June,Thursday,CUST9849,Returning,Female,37,8,Sophia,Main Course,Paneer Butter Masala,4,13.99,55.96,5.85,10.02,60.13,Cash,Takeaway,5,17.95
+ORD00235,09-10-2025,20:20:16,October,Thursday,CUST5825,Returning,Male,24,1,Emma,Drinks,Coffee,1,3.99,3.99,0.22,0.75,4.52,Card,Delivery,4,1.18
+ORD00236,11-02-2025,10:52:05,February,Tuesday,CUST5341,New,Female,29,12,David,Drinks,Coke,3,2.99,8.97,1.06,1.58,9.49,Apple Pay,Dine-in,4,2.54
+ORD00237,23-01-2025,17:32:49,January,Thursday,CUST2009,New,Male,23,12,David,Desserts,Brownie,4,5.99,23.96,0.95,4.6,27.61,Online,Dine-in,5,8.64
+ORD00238,01-02-2025,16:31:42,February,Saturday,CUST4860,Returning,Female,23,13,James,Drinks,Fresh Juice,5,4.49,22.45,2.31,4.03,24.17,Online,Delivery,5,7.86
+ORD00239,20-10-2025,14:40:37,October,Monday,CUST4471,New,Male,20,14,Sophia,Main Course,Veg Biryani,4,12.99,51.96,1.35,10.12,60.73,Google Pay,Dine-in,5,20.13
+ORD00240,17-03-2025,08:01:20,March,Monday,CUST6343,Returning,Female,18,20,David,Desserts,Brownie,1,5.99,5.99,0.08,1.18,7.09,Cash,Takeaway,3,1.97
+ORD00241,17-03-2025,00:57:18,March,Monday,CUST9775,Returning,Female,34,13,Emily,Starters,Spring Rolls,5,6.99,34.95,4.09,6.17,37.03,Online,Delivery,4,11.35
+ORD00242,20-01-2025,06:15:27,January,Monday,CUST7581,New,Female,39,8,James,Main Course,Pizza,4,16.99,67.96,1.47,13.3,79.79,Google Pay,Takeaway,4,22.69
+ORD00243,11-01-2025,04:23:24,January,Saturday,CUST2609,New,Male,37,15,Olivia,Desserts,Brownie,3,5.99,17.97,0.76,3.44,20.65,Apple Pay,Delivery,4,5.57
+ORD00244,06-11-2025,10:59:41,November,Thursday,CUST8937,Returning,Male,50,6,Sophia,Starters,Garlic Bread,4,4.99,19.96,0.63,3.87,23.2,Apple Pay,Delivery,5,7.22
+ORD00245,26-07-2025,13:49:30,July,Saturday,CUST1944,New,Male,47,2,Olivia,Main Course,Chicken Biryani,2,14.99,29.98,0.87,5.82,34.93,Card,Takeaway,4,10.91
+ORD00246,26-08-2025,21:27:08,August,Tuesday,CUST8308,New,Female,55,18,Olivia,Drinks,Coke,1,2.99,2.99,0.11,0.58,3.46,Apple Pay,Dine-in,4,0.93
+ORD00247,19-12-2025,12:46:01,December,Friday,CUST4511,New,Male,61,7,Michael,Starters,Chicken Wings,1,8.99,8.99,0.52,1.69,10.16,Google Pay,Delivery,3,2.32
+ORD00248,16-12-2025,17:50:43,December,Tuesday,CUST1138,New,Female,56,10,Michael,Starters,Soup,2,5.99,11.98,1.16,2.16,12.98,Google Pay,Takeaway,4,3.68
+ORD00249,24-08-2025,21:18:49,August,Sunday,CUST7506,New,Male,50,12,Michael,Desserts,Ice Cream,4,4.99,19.96,0.9,3.81,22.87,Apple Pay,Delivery,3,6.25
+ORD00250,04-09-2025,12:59:30,September,Thursday,CUST5278,Returning,Male,27,17,Emma,Starters,Chicken Wings,3,8.99,26.97,2.59,4.88,29.26,Cash,Delivery,4,9.25
+ORD00251,05-12-2025,05:24:11,December,Friday,CUST5843,Returning,Female,43,13,James,Desserts,Cheesecake,2,6.99,13.98,1.51,2.49,14.96,Online,Delivery,5,4.34
+ORD00252,08-04-2025,11:20:35,April,Tuesday,CUST8794,Returning,Female,28,18,Daniel,Desserts,Cheesecake,2,6.99,13.98,1.44,2.51,15.05,Apple Pay,Dine-in,4,4.34
+ORD00253,07-03-2025,23:41:06,March,Friday,CUST6499,New,Male,40,8,Michael,Desserts,Cheesecake,5,6.99,34.95,4,6.19,37.14,Google Pay,Takeaway,4,8.59
+ORD00254,14-05-2025,17:40:34,May,Wednesday,CUST2166,Returning,Male,50,4,David,Desserts,Brownie,1,5.99,5.99,0.42,1.11,6.68,Online,Takeaway,4,2.12
+ORD00255,28-01-2025,07:09:28,January,Tuesday,CUST8496,New,Female,63,6,Sophia,Main Course,Butter Chicken,2,15.99,31.98,1.64,6.07,36.41,Google Pay,Takeaway,5,12.08
+ORD00256,01-04-2025,06:41:55,April,Tuesday,CUST3762,New,Female,23,5,David,Desserts,Cheesecake,1,6.99,6.99,0,1.4,8.39,Google Pay,Takeaway,4,2.03
+ORD00257,02-09-2025,01:16:57,September,Tuesday,CUST1230,Returning,Male,19,1,Emma,Drinks,Coke,1,2.99,2.99,0.24,0.55,3.3,Card,Delivery,4,0.99
+ORD00258,09-06-2025,15:11:43,June,Monday,CUST2069,New,Female,36,15,Olivia,Main Course,Veg Biryani,4,12.99,51.96,3.92,9.61,57.65,Google Pay,Delivery,3,14.22
+ORD00259,25-06-2025,19:42:57,June,Wednesday,CUST7609,New,Male,32,5,Emma,Drinks,Tea,2,2.49,4.98,0.12,0.97,5.83,Cash,Delivery,5,1.88
+ORD00260,28-03-2025,17:11:00,March,Friday,CUST9761,New,Male,60,4,James,Starters,Chicken Wings,1,8.99,8.99,0.51,1.7,10.18,Cash,Delivery,3,2.93
+ORD00261,02-08-2025,06:31:37,August,Saturday,CUST3508,New,Male,37,14,Sophia,Drinks,Fresh Juice,1,4.49,4.49,0.37,0.82,4.94,Online,Takeaway,5,1.32
+ORD00262,07-11-2025,17:22:55,November,Friday,CUST5631,New,Male,49,7,Emma,Main Course,Pasta,1,13.49,13.49,1.04,2.49,14.94,Apple Pay,Delivery,3,4.27
+ORD00263,03-07-2025,23:27:24,July,Thursday,CUST4402,Returning,Female,33,1,James,Drinks,Tea,2,2.49,4.98,0.03,0.99,5.94,Cash,Dine-in,5,1.61
+ORD00264,09-12-2025,11:02:26,December,Tuesday,CUST2659,Returning,Male,47,10,Michael,Drinks,Coffee,1,3.99,3.99,0.47,0.7,4.22,Google Pay,Dine-in,3,0.92
+ORD00265,31-03-2025,18:52:23,March,Monday,CUST2898,New,Male,18,5,Daniel,Starters,Chicken Wings,3,8.99,26.97,3.24,4.75,28.48,Apple Pay,Takeaway,4,7.05
+ORD00266,15-11-2025,21:01:10,November,Saturday,CUST2865,Returning,Female,47,9,David,Desserts,Cheesecake,1,6.99,6.99,0.39,1.32,7.92,Google Pay,Takeaway,5,1.99
+ORD00267,27-03-2025,15:11:22,March,Thursday,CUST2699,Returning,Female,54,15,Daniel,Starters,Garlic Bread,1,4.99,4.99,0.73,0.85,5.11,Online,Takeaway,4,1.6
+ORD00268,10-11-2025,17:41:48,November,Monday,CUST7738,Returning,Male,22,9,Olivia,Starters,Garlic Bread,4,4.99,19.96,2.76,3.44,20.64,Cash,Delivery,5,4.59
+ORD00269,26-09-2025,18:48:38,September,Friday,CUST2560,Returning,Male,48,12,David,Main Course,Burger,5,11.99,59.95,4.7,11.05,66.3,Card,Delivery,5,19.62
+ORD00270,28-01-2025,05:10:00,January,Tuesday,CUST3709,New,Female,38,8,Olivia,Starters,Garlic Bread,5,4.99,24.95,3.18,4.35,26.12,Apple Pay,Dine-in,5,8.22
+ORD00271,25-04-2025,09:23:57,April,Friday,CUST8341,New,Female,46,11,Sophia,Drinks,Fresh Juice,2,4.49,8.98,0.11,1.77,10.64,Google Pay,Delivery,5,2.81
+ORD00272,10-01-2025,19:48:44,January,Friday,CUST2489,Returning,Male,59,15,Olivia,Starters,Soup,4,5.99,23.96,0.13,4.77,28.6,Apple Pay,Dine-in,3,7.92
+ORD00273,21-08-2025,01:28:18,August,Thursday,CUST6952,Returning,Male,24,8,James,Desserts,Cheesecake,5,6.99,34.95,3.15,6.36,38.16,Apple Pay,Takeaway,5,11.37
+ORD00274,30-05-2025,08:05:11,May,Friday,CUST3301,Returning,Male,34,20,Emma,Desserts,Cheesecake,1,6.99,6.99,0.05,1.39,8.33,Card,Dine-in,4,1.91
+ORD00275,21-04-2025,01:24:49,April,Monday,CUST3018,Returning,Female,60,19,Daniel,Drinks,Coffee,3,3.99,11.97,0.19,2.36,14.14,Google Pay,Dine-in,5,3.68
+ORD00276,25-01-2025,05:22:07,January,Saturday,CUST3845,New,Male,42,20,Olivia,Drinks,Fresh Juice,5,4.49,22.45,2.63,3.96,23.78,Online,Takeaway,4,7.66
+ORD00277,08-11-2025,03:33:39,November,Saturday,CUST8419,New,Male,44,20,Michael,Main Course,Pizza,4,16.99,67.96,9.82,11.63,69.77,Online,Takeaway,5,23
+ORD00278,11-10-2025,03:17:06,October,Saturday,CUST6657,New,Male,50,18,Olivia,Main Course,Paneer Butter Masala,2,13.99,27.98,2.62,5.07,30.43,Cash,Takeaway,5,7.45
+ORD00279,03-09-2025,22:15:43,September,Wednesday,CUST1414,Returning,Male,21,2,Emma,Drinks,Tea,4,2.49,9.96,1.21,1.75,10.5,Apple Pay,Dine-in,4,2.87
+ORD00280,16-12-2025,21:11:18,December,Tuesday,CUST9866,New,Female,46,4,Emma,Desserts,Ice Cream,1,4.99,4.99,0.52,0.89,5.36,Online,Takeaway,3,1.32
+ORD00281,19-09-2025,17:38:39,September,Friday,CUST6122,New,Male,65,9,Emma,Desserts,Cheesecake,1,6.99,6.99,0.97,1.2,7.22,Online,Takeaway,3,1.85
+ORD00282,21-11-2025,11:09:12,November,Friday,CUST4170,Returning,Female,29,3,Daniel,Desserts,Cheesecake,5,6.99,34.95,3.87,6.22,37.3,Card,Delivery,5,8.69
+ORD00283,03-03-2025,16:46:57,March,Monday,CUST3636,Returning,Male,39,15,Daniel,Drinks,Coke,4,2.99,11.96,0.5,2.29,13.75,Cash,Dine-in,4,3.32
+ORD00284,02-11-2025,03:23:51,November,Sunday,CUST2194,Returning,Male,29,17,Sophia,Starters,Chicken Wings,4,8.99,35.96,4.26,6.34,38.04,Online,Dine-in,4,10.54
+ORD00285,06-10-2025,06:59:11,October,Monday,CUST6437,Returning,Female,36,7,Emily,Drinks,Coke,3,2.99,8.97,0.3,1.73,10.4,Online,Delivery,3,2.44
+ORD00286,28-02-2025,11:39:20,February,Friday,CUST4994,New,Female,42,4,David,Desserts,Brownie,2,5.99,11.98,1.63,2.07,12.42,Apple Pay,Delivery,5,3.54
+ORD00287,25-05-2025,22:22:56,May,Sunday,CUST1718,Returning,Male,38,17,Sophia,Starters,Chicken Wings,5,8.99,44.95,5.41,7.91,47.45,Cash,Dine-in,5,12.53
+ORD00288,01-10-2025,22:36:58,October,Wednesday,CUST7950,New,Male,52,14,Sophia,Starters,Spring Rolls,2,6.99,13.98,1.41,2.51,15.08,Card,Dine-in,4,4.6
+ORD00289,19-06-2025,05:54:24,June,Thursday,CUST2154,New,Female,44,13,Emily,Starters,Spring Rolls,1,6.99,6.99,0.06,1.39,8.32,Google Pay,Takeaway,4,2.56
+ORD00290,09-01-2025,07:31:49,January,Thursday,CUST2036,New,Male,40,17,Sophia,Drinks,Coke,5,2.99,14.95,0.01,2.99,17.93,Apple Pay,Delivery,4,5.35
+ORD00291,07-11-2025,15:40:19,November,Friday,CUST1504,Returning,Male,52,8,Daniel,Starters,Chicken Wings,4,8.99,35.96,2.06,6.78,40.68,Google Pay,Delivery,4,12.66
+ORD00292,21-11-2025,04:08:16,November,Friday,CUST3316,New,Male,18,19,David,Main Course,Pizza,3,16.99,50.97,7.32,8.73,52.38,Online,Delivery,3,10.99
+ORD00293,06-06-2025,12:42:48,June,Friday,CUST9397,New,Male,29,8,Michael,Main Course,Burger,2,11.99,23.98,1.48,4.5,27,Card,Dine-in,3,7.81
+ORD00294,10-12-2025,05:22:28,December,Wednesday,CUST5107,New,Male,64,19,Emily,Starters,Soup,5,5.99,29.95,0.33,5.92,35.54,Apple Pay,Takeaway,3,10.39
+ORD00295,10-12-2025,19:21:49,December,Wednesday,CUST6206,Returning,Female,39,20,Michael,Main Course,Veg Biryani,3,12.99,38.97,3.62,7.07,42.42,Online,Dine-in,5,13.61
+ORD00296,18-10-2025,21:48:47,October,Saturday,CUST4629,Returning,Female,41,5,Olivia,Desserts,Brownie,4,5.99,23.96,0.61,4.67,28.02,Google Pay,Takeaway,4,6.93
+ORD00297,03-07-2025,06:29:36,July,Thursday,CUST2343,Returning,Male,52,7,Michael,Desserts,Brownie,5,5.99,29.95,0.49,5.89,35.35,Cash,Delivery,3,10.22
+ORD00298,10-01-2025,01:22:34,January,Friday,CUST5269,Returning,Male,41,13,Emma,Starters,Soup,5,5.99,29.95,0.96,5.8,34.79,Online,Delivery,4,7.41
+ORD00299,10-03-2025,15:00:51,March,Monday,CUST4913,New,Male,46,6,Daniel,Drinks,Coke,4,2.99,11.96,0.65,2.26,13.57,Online,Delivery,5,2.85
+ORD00300,16-03-2025,18:48:29,March,Sunday,CUST2029,Returning,Female,32,2,Emma,Drinks,Tea,1,2.49,2.49,0.08,0.48,2.89,Online,Takeaway,4,0.78
+ORD00301,29-08-2025,13:47:48,August,Friday,CUST9542,Returning,Female,55,18,Daniel,Drinks,Coke,1,2.99,2.99,0.44,0.51,3.06,Google Pay,Delivery,4,0.76
+ORD00302,07-07-2025,09:26:57,July,Monday,CUST7649,Returning,Female,49,16,James,Starters,Chicken Wings,4,8.99,35.96,5.25,6.14,36.85,Online,Dine-in,4,8.7
+ORD00303,26-03-2025,15:47:50,March,Wednesday,CUST4062,New,Female,56,4,Emma,Main Course,Veg Biryani,5,12.99,64.95,6.27,11.74,70.42,Google Pay,Takeaway,5,16.53
+ORD00304,28-02-2025,15:09:28,February,Friday,CUST7732,New,Male,20,5,Daniel,Drinks,Fresh Juice,4,4.49,17.96,0.57,3.48,20.87,Card,Delivery,5,4.77
+ORD00305,21-01-2025,00:38:38,January,Tuesday,CUST7642,New,Female,23,7,Emily,Main Course,Chicken Biryani,2,14.99,29.98,1.16,5.76,34.58,Online,Takeaway,4,7.98
+ORD00306,29-03-2025,14:02:26,March,Saturday,CUST3979,Returning,Male,64,11,Emily,Main Course,Pasta,5,13.49,67.45,1.44,13.2,79.21,Online,Delivery,3,22.27
+ORD00307,28-04-2025,16:25:18,April,Monday,CUST9263,Returning,Male,56,4,Daniel,Drinks,Fresh Juice,2,4.49,8.98,0.15,1.77,10.6,Google Pay,Delivery,5,2.48
+ORD00308,20-01-2025,06:44:56,January,Monday,CUST9835,New,Female,51,14,Olivia,Starters,Spring Rolls,4,6.99,27.96,2.77,5.04,30.23,Cash,Delivery,5,9.71
+ORD00309,08-08-2025,13:43:50,August,Friday,CUST2600,Returning,Male,34,16,Emma,Main Course,Fish & Chips,4,17.99,71.96,3.78,13.64,81.82,Cash,Takeaway,5,25.27
+ORD00310,06-10-2025,20:36:26,October,Monday,CUST1116,New,Male,42,7,Olivia,Drinks,Tea,2,2.49,4.98,0,1,5.98,Google Pay,Takeaway,3,1.8
+ORD00311,21-03-2025,00:12:27,March,Friday,CUST6990,Returning,Female,31,14,Emily,Drinks,Tea,3,2.49,7.47,0.96,1.3,7.81,Card,Takeaway,5,2.04
+ORD00312,12-10-2025,23:24:17,October,Sunday,CUST7522,New,Male,65,8,Emily,Drinks,Tea,3,2.49,7.47,0.65,1.36,8.18,Card,Dine-in,3,2.5
+ORD00313,18-09-2025,07:33:00,September,Thursday,CUST1852,New,Female,58,1,Sophia,Drinks,Tea,5,2.49,12.45,1.15,2.26,13.56,Card,Takeaway,5,3.99
+ORD00314,11-08-2025,08:16:29,August,Monday,CUST1618,Returning,Female,57,17,Michael,Starters,Spring Rolls,3,6.99,20.97,0.7,4.05,24.32,Online,Dine-in,3,5.31
+ORD00315,24-11-2025,07:13:35,November,Monday,CUST9489,Returning,Male,20,20,Emma,Drinks,Fresh Juice,1,4.49,4.49,0.14,0.87,5.22,Online,Dine-in,5,1.52
+ORD00316,19-01-2025,08:05:28,January,Sunday,CUST5520,Returning,Female,60,13,David,Desserts,Ice Cream,1,4.99,4.99,0.73,0.85,5.11,Online,Dine-in,5,1.12
+ORD00317,08-01-2025,18:10:59,January,Wednesday,CUST6703,Returning,Female,32,20,Emma,Starters,Spring Rolls,5,6.99,34.95,1.49,6.69,40.15,Google Pay,Takeaway,5,12.53
+ORD00318,03-01-2025,12:43:32,January,Friday,CUST9243,Returning,Female,25,17,Michael,Desserts,Ice Cream,4,4.99,19.96,1.52,3.69,22.13,Online,Delivery,4,6.16
+ORD00319,22-12-2025,15:19:15,December,Monday,CUST6565,Returning,Female,55,1,Emily,Drinks,Fresh Juice,5,4.49,22.45,1.63,4.16,24.98,Cash,Takeaway,3,5.96
+ORD00320,15-07-2025,12:01:51,July,Tuesday,CUST9776,New,Female,33,10,Sophia,Main Course,Paneer Butter Masala,3,13.99,41.97,2.6,7.87,47.24,Google Pay,Delivery,5,11.93
+ORD00321,25-06-2025,04:23:19,June,Wednesday,CUST5408,New,Male,49,7,Emma,Starters,Garlic Bread,4,4.99,19.96,0.94,3.8,22.82,Card,Takeaway,3,5.38
+ORD00322,28-04-2025,11:18:26,April,Monday,CUST2964,New,Female,57,1,James,Main Course,Paneer Butter Masala,5,13.99,69.95,3.74,13.24,79.45,Google Pay,Takeaway,5,24.29
+ORD00323,11-06-2025,16:26:42,June,Wednesday,CUST9374,Returning,Female,32,19,Daniel,Drinks,Tea,4,2.49,9.96,0.27,1.94,11.63,Cash,Delivery,4,3.53
+ORD00324,02-09-2025,22:46:25,September,Tuesday,CUST8490,New,Female,38,1,James,Starters,Chicken Wings,4,8.99,35.96,4.64,6.26,37.58,Card,Takeaway,5,11.48
+ORD00325,21-02-2025,09:16:38,February,Friday,CUST5306,New,Female,48,20,Olivia,Desserts,Brownie,5,5.99,29.95,3.87,5.22,31.3,Apple Pay,Dine-in,4,7.25
+ORD00326,06-08-2025,03:18:40,August,Wednesday,CUST8384,New,Male,54,8,Sophia,Main Course,Pasta,3,13.49,40.47,2.22,7.65,45.9,Apple Pay,Dine-in,5,11.86
+ORD00327,10-08-2025,15:28:54,August,Sunday,CUST8749,New,Male,44,16,Daniel,Drinks,Coffee,2,3.99,7.98,0.96,1.4,8.42,Online,Delivery,5,2.53
+ORD00328,11-06-2025,19:32:10,June,Wednesday,CUST7527,New,Male,21,7,Michael,Drinks,Tea,3,2.49,7.47,0.63,1.37,8.21,Google Pay,Delivery,3,2.29
+ORD00329,19-08-2025,21:32:38,August,Tuesday,CUST5222,Returning,Male,44,4,Olivia,Desserts,Brownie,3,5.99,17.97,0.97,3.4,20.4,Online,Dine-in,5,5.67
+ORD00330,22-10-2025,21:12:24,October,Wednesday,CUST8322,New,Female,57,10,Emily,Main Course,Pizza,3,16.99,50.97,2.49,9.7,58.18,Card,Dine-in,5,15.83
+ORD00331,22-06-2025,21:32:20,June,Sunday,CUST6136,Returning,Female,63,9,David,Drinks,Fresh Juice,1,4.49,4.49,0.05,0.89,5.33,Apple Pay,Takeaway,4,1.34
+ORD00332,28-10-2025,10:57:02,October,Tuesday,CUST4844,Returning,Male,31,6,David,Drinks,Fresh Juice,2,4.49,8.98,0.25,1.75,10.48,Cash,Dine-in,3,2.21
+ORD00333,31-08-2025,16:01:14,August,Sunday,CUST2702,Returning,Male,23,13,Michael,Starters,Spring Rolls,4,6.99,27.96,2.2,5.15,30.91,Card,Dine-in,5,10.29
+ORD00334,26-05-2025,03:56:53,May,Monday,CUST1575,Returning,Female,48,15,Michael,Drinks,Coffee,2,3.99,7.98,0.63,1.47,8.82,Online,Takeaway,3,2.03
+ORD00335,24-12-2025,19:40:28,December,Wednesday,CUST9745,Returning,Female,48,18,Emma,Main Course,Fish & Chips,5,17.99,89.95,5.87,16.82,100.9,Cash,Takeaway,4,29.09
+ORD00336,07-07-2025,10:36:30,July,Monday,CUST3233,Returning,Female,48,18,James,Drinks,Tea,2,2.49,4.98,0.23,0.95,5.7,Google Pay,Takeaway,4,1.19
+ORD00337,05-01-2025,01:52:43,January,Sunday,CUST7121,New,Female,53,14,David,Drinks,Tea,5,2.49,12.45,0.43,2.4,14.42,Card,Dine-in,5,3.02
+ORD00338,27-11-2025,12:05:05,November,Thursday,CUST4924,Returning,Female,59,18,Michael,Drinks,Fresh Juice,2,4.49,8.98,0.35,1.73,10.36,Google Pay,Dine-in,3,2.7
+ORD00339,04-04-2025,01:43:56,April,Friday,CUST5458,Returning,Male,38,1,Daniel,Main Course,Pizza,1,16.99,16.99,1.62,3.07,18.44,Cash,Delivery,3,5.27
+ORD00340,06-04-2025,11:00:35,April,Sunday,CUST1134,New,Male,27,1,Emily,Starters,Chicken Wings,3,8.99,26.97,0.51,5.29,31.75,Card,Takeaway,4,8.36
+ORD00341,09-06-2025,11:19:43,June,Monday,CUST2314,New,Male,35,13,Sophia,Drinks,Tea,4,2.49,9.96,1.04,1.78,10.7,Online,Takeaway,3,2.27
+ORD00342,09-04-2025,05:20:11,April,Wednesday,CUST5078,Returning,Female,33,2,Emma,Desserts,Brownie,1,5.99,5.99,0.11,1.18,7.06,Google Pay,Delivery,3,2.15
+ORD00343,24-09-2025,20:25:39,September,Wednesday,CUST6293,New,Male,65,18,Sophia,Main Course,Fish & Chips,4,17.99,71.96,7.36,12.92,77.52,Apple Pay,Takeaway,5,19.17
+ORD00344,02-06-2025,03:40:01,June,Monday,CUST2850,New,Female,38,1,Daniel,Main Course,Burger,1,11.99,11.99,1.55,2.09,12.53,Apple Pay,Delivery,3,2.95
+ORD00345,22-07-2025,19:22:02,July,Tuesday,CUST3539,Returning,Male,33,6,Emily,Main Course,Chicken Biryani,1,14.99,14.99,1.31,2.74,16.42,Cash,Delivery,5,4.84
+ORD00346,23-06-2025,22:57:27,June,Monday,CUST2759,New,Female,32,11,Olivia,Starters,Spring Rolls,3,6.99,20.97,2.03,3.79,22.73,Google Pay,Delivery,3,6.73
+ORD00347,11-01-2025,04:01:44,January,Saturday,CUST8168,Returning,Female,30,19,Daniel,Drinks,Tea,2,2.49,4.98,0.19,0.96,5.75,Online,Takeaway,4,1.23
+ORD00348,28-08-2025,18:17:39,August,Thursday,CUST8362,Returning,Female,52,12,Emily,Desserts,Cheesecake,5,6.99,34.95,0.84,6.82,40.93,Cash,Delivery,5,11.25
+ORD00349,14-07-2025,21:55:01,July,Monday,CUST4912,Returning,Male,60,18,David,Main Course,Chicken Biryani,5,14.99,74.95,9.63,13.06,78.38,Card,Delivery,5,23.93
+ORD00350,12-09-2025,12:30:06,September,Friday,CUST2577,New,Male,26,6,James,Main Course,Pizza,3,16.99,50.97,3.13,9.57,57.41,Card,Dine-in,4,14.27
+ORD00351,09-04-2025,09:56:45,April,Wednesday,CUST9026,Returning,Male,41,8,Sophia,Starters,Spring Rolls,5,6.99,34.95,3.36,6.32,37.91,Cash,Dine-in,5,9.74
+ORD00352,09-09-2025,10:40:34,September,Tuesday,CUST7814,Returning,Male,57,9,James,Starters,Soup,1,5.99,5.99,0.32,1.13,6.8,Cash,Takeaway,3,2.05
+ORD00353,21-04-2025,22:35:14,April,Monday,CUST9621,New,Male,53,18,David,Starters,Spring Rolls,2,6.99,13.98,1.11,2.57,15.44,Cash,Delivery,5,3.58
+ORD00354,03-07-2025,02:43:32,July,Thursday,CUST7579,Returning,Male,52,20,Emily,Drinks,Fresh Juice,1,4.49,4.49,0.11,0.88,5.26,Apple Pay,Takeaway,5,1.21
+ORD00355,16-06-2025,10:00:08,June,Monday,CUST4943,New,Female,53,9,Olivia,Desserts,Brownie,4,5.99,23.96,2.97,4.2,25.19,Google Pay,Takeaway,4,6.27
+ORD00356,01-01-2025,03:25:31,January,Wednesday,CUST5945,New,Female,32,7,Olivia,Starters,Chicken Wings,5,8.99,44.95,0.11,8.97,53.81,Cash,Delivery,4,12.12
+ORD00357,11-10-2025,23:56:55,October,Saturday,CUST5341,Returning,Male,32,9,Michael,Main Course,Veg Biryani,1,12.99,12.99,0.9,2.42,14.51,Cash,Delivery,4,3.31
+ORD00358,19-10-2025,22:02:39,October,Sunday,CUST2562,Returning,Male,64,19,David,Main Course,Veg Biryani,3,12.99,38.97,4.63,6.87,41.21,Cash,Dine-in,4,9.48
+ORD00359,28-06-2025,10:25:29,June,Saturday,CUST1187,Returning,Male,37,17,James,Drinks,Fresh Juice,1,4.49,4.49,0.59,0.78,4.68,Apple Pay,Delivery,5,1.11
+ORD00360,18-03-2025,20:54:05,March,Tuesday,CUST7436,Returning,Male,32,14,Michael,Desserts,Cheesecake,2,6.99,13.98,0.32,2.73,16.39,Google Pay,Dine-in,3,4.8
+ORD00361,22-06-2025,22:43:12,June,Sunday,CUST5301,New,Female,50,14,Daniel,Starters,Soup,5,5.99,29.95,3.35,5.32,31.92,Card,Takeaway,5,8.84
+ORD00362,12-04-2025,03:54:32,April,Saturday,CUST9589,New,Male,22,9,David,Drinks,Fresh Juice,5,4.49,22.45,0.66,4.36,26.15,Apple Pay,Delivery,5,7.46
+ORD00363,15-02-2025,05:51:14,February,Saturday,CUST6644,New,Female,28,12,Emily,Starters,Soup,4,5.99,23.96,1.31,4.53,27.18,Online,Dine-in,4,6.31
+ORD00364,23-01-2025,17:17:05,January,Thursday,CUST2405,New,Male,33,20,Daniel,Main Course,Paneer Butter Masala,3,13.99,41.97,0.98,8.2,49.19,Apple Pay,Dine-in,4,14.73
+ORD00365,22-12-2025,13:54:29,December,Monday,CUST9814,New,Male,52,17,Michael,Starters,Chicken Wings,4,8.99,35.96,2.54,6.68,40.1,Online,Takeaway,5,10.02
+ORD00366,14-03-2025,00:49:18,March,Friday,CUST5185,New,Male,36,7,Michael,Starters,Soup,5,5.99,29.95,4.07,5.18,31.06,Cash,Takeaway,5,8.52
+ORD00367,05-01-2025,02:39:45,January,Sunday,CUST6901,New,Male,36,13,Emma,Starters,Soup,3,5.99,17.97,1.79,3.24,19.42,Google Pay,Delivery,5,6.26
+ORD00368,20-02-2025,08:47:22,February,Thursday,CUST9202,Returning,Male,20,8,Michael,Desserts,Brownie,5,5.99,29.95,2.39,5.51,33.07,Apple Pay,Takeaway,4,7.66
+ORD00369,22-03-2025,22:40:25,March,Saturday,CUST9212,Returning,Male,58,9,David,Starters,Chicken Wings,3,8.99,26.97,1.44,5.11,30.64,Cash,Delivery,4,7.54
+ORD00370,26-04-2025,09:08:16,April,Saturday,CUST7262,New,Female,33,19,Daniel,Main Course,Burger,4,11.99,47.96,4.73,8.65,51.88,Google Pay,Takeaway,5,11.38
+ORD00371,18-06-2025,18:59:53,June,Wednesday,CUST4314,New,Female,62,17,Daniel,Drinks,Coffee,2,3.99,7.98,0.78,1.44,8.64,Google Pay,Dine-in,5,2.43
+ORD00372,17-10-2025,11:12:51,October,Friday,CUST2939,New,Female,27,1,Olivia,Main Course,Burger,1,11.99,11.99,1,2.2,13.19,Google Pay,Takeaway,4,4.31
+ORD00373,15-08-2025,06:23:20,August,Friday,CUST5372,New,Male,32,1,Olivia,Desserts,Ice Cream,2,4.99,9.98,0.16,1.96,11.78,Cash,Delivery,4,2.73
+ORD00374,10-03-2025,16:34:07,March,Monday,CUST3253,New,Male,32,2,David,Drinks,Tea,2,2.49,4.98,0.64,0.87,5.21,Cash,Takeaway,4,1.4
+ORD00375,24-04-2025,08:08:45,April,Thursday,CUST8197,Returning,Female,47,8,David,Main Course,Paneer Butter Masala,1,13.99,13.99,0.37,2.72,16.34,Google Pay,Dine-in,5,5.36
+ORD00376,14-07-2025,02:31:22,July,Monday,CUST9784,New,Male,46,15,James,Desserts,Brownie,5,5.99,29.95,4.22,5.15,30.88,Card,Delivery,5,8.64
+ORD00377,22-07-2025,05:07:12,July,Tuesday,CUST4110,Returning,Female,43,10,Michael,Starters,Soup,5,5.99,29.95,3.44,5.3,31.81,Google Pay,Dine-in,4,10.46
+ORD00378,31-05-2025,07:09:29,May,Saturday,CUST9202,New,Male,55,18,Daniel,Starters,Garlic Bread,4,4.99,19.96,2.48,3.5,20.98,Google Pay,Takeaway,4,5.55
+ORD00379,19-08-2025,06:53:28,August,Tuesday,CUST4308,Returning,Male,34,11,Daniel,Starters,Garlic Bread,4,4.99,19.96,1.77,3.64,21.83,Cash,Dine-in,3,6.49
+ORD00380,28-12-2025,13:46:11,December,Sunday,CUST9383,New,Female,53,13,James,Drinks,Tea,1,2.49,2.49,0.2,0.46,2.75,Card,Takeaway,5,0.7
+ORD00381,04-12-2025,04:25:04,December,Thursday,CUST7874,Returning,Female,64,15,Michael,Main Course,Butter Chicken,2,15.99,31.98,0.86,6.22,37.34,Card,Dine-in,3,11.1
+ORD00382,14-04-2025,08:04:21,April,Monday,CUST9904,New,Female,33,7,Emily,Starters,Chicken Wings,1,8.99,8.99,0.62,1.67,10.04,Google Pay,Takeaway,4,3.17
+ORD00383,10-02-2025,00:06:12,February,Monday,CUST4401,New,Male,27,2,Olivia,Starters,Garlic Bread,5,4.99,24.95,1.04,4.78,28.69,Cash,Dine-in,3,8.23
+ORD00384,08-12-2025,23:36:58,December,Monday,CUST3920,New,Female,57,20,Daniel,Desserts,Brownie,1,5.99,5.99,0.04,1.19,7.14,Google Pay,Delivery,5,1.86
+ORD00385,04-07-2025,20:36:27,July,Friday,CUST2108,Returning,Male,36,16,Daniel,Starters,Spring Rolls,3,6.99,20.97,1.02,3.99,23.94,Cash,Delivery,4,7.67
+ORD00386,18-06-2025,02:48:11,June,Wednesday,CUST9666,New,Female,64,20,Michael,Drinks,Coffee,2,3.99,7.98,0.73,1.45,8.7,Google Pay,Delivery,4,1.93
+ORD00387,13-05-2025,21:16:47,May,Tuesday,CUST9154,Returning,Male,57,8,Michael,Desserts,Ice Cream,5,4.99,24.95,2.11,4.57,27.41,Card,Dine-in,3,7.49
+ORD00388,13-01-2025,05:01:29,January,Monday,CUST7783,New,Female,40,18,Emma,Drinks,Coke,2,2.99,5.98,0.72,1.05,6.31,Cash,Delivery,3,2.1
+ORD00389,20-12-2025,20:59:50,December,Saturday,CUST6307,New,Male,61,11,Olivia,Desserts,Brownie,1,5.99,5.99,0.28,1.14,6.85,Google Pay,Delivery,5,1.86
+ORD00390,12-11-2025,07:55:59,November,Wednesday,CUST8849,Returning,Male,59,5,Emily,Starters,Garlic Bread,2,4.99,9.98,0.49,1.9,11.39,Card,Delivery,4,2.85
+ORD00391,02-10-2025,21:42:00,October,Thursday,CUST9537,Returning,Female,53,18,James,Desserts,Brownie,4,5.99,23.96,3.33,4.13,24.76,Card,Delivery,5,5.33
+ORD00392,19-06-2025,01:52:05,June,Thursday,CUST7147,New,Female,29,20,Sophia,Desserts,Ice Cream,2,4.99,9.98,0.42,1.91,11.47,Apple Pay,Delivery,4,2.43
+ORD00393,30-12-2025,19:26:39,December,Tuesday,CUST7088,Returning,Female,31,17,Michael,Starters,Chicken Wings,4,8.99,35.96,0.47,7.1,42.59,Card,Dine-in,4,13.54
+ORD00394,20-01-2025,06:34:38,January,Monday,CUST9192,New,Male,39,16,Michael,Main Course,Veg Biryani,4,12.99,51.96,3.94,9.6,57.62,Apple Pay,Dine-in,3,17.76
+ORD00395,22-09-2025,01:31:20,September,Monday,CUST9558,New,Male,37,2,Sophia,Main Course,Paneer Butter Masala,1,13.99,13.99,0.96,2.61,15.64,Apple Pay,Takeaway,3,4.65
+ORD00396,22-02-2025,21:40:10,February,Saturday,CUST4438,Returning,Male,30,10,Michael,Desserts,Ice Cream,5,4.99,24.95,2.84,4.42,26.53,Online,Takeaway,4,7.65
+ORD00397,10-12-2025,03:36:46,December,Wednesday,CUST9422,New,Male,52,12,Olivia,Starters,Chicken Wings,2,8.99,17.98,0.42,3.51,21.07,Apple Pay,Dine-in,5,4.69
+ORD00398,26-05-2025,08:33:44,May,Monday,CUST9856,Returning,Male,26,1,Emily,Main Course,Butter Chicken,1,15.99,15.99,0.75,3.05,18.29,Cash,Dine-in,4,5.85
+ORD00399,28-01-2025,11:46:38,January,Tuesday,CUST8304,Returning,Female,39,7,Sophia,Starters,Soup,4,5.99,23.96,0.64,4.66,27.98,Google Pay,Delivery,3,7.92
+ORD00400,17-02-2025,22:06:01,February,Monday,CUST8625,Returning,Male,32,5,Michael,Drinks,Coke,4,2.99,11.96,0.56,2.28,13.68,Apple Pay,Takeaway,3,3.95
+ORD00401,25-12-2025,03:48:19,December,Thursday,CUST2849,Returning,Female,47,6,Michael,Desserts,Brownie,4,5.99,23.96,1.75,4.44,26.65,Apple Pay,Delivery,5,5.77
+ORD00402,07-03-2025,10:12:55,March,Friday,CUST5949,Returning,Female,55,14,Emma,Starters,Soup,1,5.99,5.99,0.29,1.14,6.84,Online,Dine-in,5,1.98
+ORD00403,23-03-2025,08:38:42,March,Sunday,CUST8063,Returning,Female,52,8,Daniel,Drinks,Fresh Juice,1,4.49,4.49,0.23,0.85,5.11,Cash,Delivery,5,1.59
+ORD00404,21-10-2025,13:38:02,October,Tuesday,CUST2599,Returning,Male,37,13,Sophia,Drinks,Coke,5,2.99,14.95,1.34,2.72,16.33,Online,Dine-in,5,4.07
+ORD00405,02-11-2025,05:42:34,November,Sunday,CUST4565,New,Male,27,5,Emily,Drinks,Tea,4,2.49,9.96,0.96,1.8,10.8,Online,Takeaway,4,2.33
+ORD00406,12-11-2025,01:45:48,November,Wednesday,CUST5989,Returning,Female,23,19,James,Drinks,Coffee,2,3.99,7.98,0.82,1.43,8.59,Online,Delivery,4,2.13
+ORD00407,07-03-2025,02:09:27,March,Friday,CUST1013,Returning,Male,36,1,Emma,Desserts,Ice Cream,3,4.99,14.97,2.02,2.59,15.54,Google Pay,Delivery,5,5.12
+ORD00408,21-07-2025,00:05:19,July,Monday,CUST4460,New,Female,26,7,David,Desserts,Cheesecake,4,6.99,27.96,1.7,5.25,31.51,Apple Pay,Takeaway,3,8.28
+ORD00409,28-05-2025,01:31:54,May,Wednesday,CUST8974,Returning,Male,23,5,David,Main Course,Butter Chicken,1,15.99,15.99,0.17,3.16,18.98,Google Pay,Delivery,5,3.99
+ORD00410,06-08-2025,17:58:06,August,Wednesday,CUST7303,Returning,Male,29,14,James,Main Course,Fish & Chips,5,17.99,89.95,5.72,16.85,101.08,Online,Takeaway,5,31.42
+ORD00411,02-05-2025,00:26:25,May,Friday,CUST1620,Returning,Female,25,19,Emily,Desserts,Brownie,5,5.99,29.95,2.59,5.47,32.83,Cash,Dine-in,5,6.98
+ORD00412,27-09-2025,06:11:21,September,Saturday,CUST2449,New,Female,58,3,Michael,Desserts,Brownie,5,5.99,29.95,0.35,5.92,35.52,Online,Dine-in,4,11.35
+ORD00413,01-10-2025,05:17:29,October,Wednesday,CUST6431,Returning,Female,36,10,Daniel,Starters,Soup,4,5.99,23.96,1.84,4.42,26.54,Cash,Delivery,5,7.09
+ORD00414,05-06-2025,01:04:28,June,Thursday,CUST5780,New,Female,49,3,Daniel,Desserts,Ice Cream,4,4.99,19.96,1.73,3.65,21.88,Online,Dine-in,4,6.12
+ORD00415,10-05-2025,15:16:25,May,Saturday,CUST2827,New,Male,60,15,Olivia,Main Course,Pizza,3,16.99,50.97,6.56,8.88,53.29,Card,Takeaway,5,11.2
+ORD00416,01-05-2025,10:26:22,May,Thursday,CUST2382,New,Male,49,14,David,Drinks,Coffee,5,3.99,19.95,2.58,3.47,20.84,Card,Delivery,4,5.24
+ORD00417,23-11-2025,18:09:47,November,Sunday,CUST5331,New,Male,28,15,David,Main Course,Paneer Butter Masala,5,13.99,69.95,7.71,12.45,74.69,Google Pay,Takeaway,4,18.78
+ORD00418,30-09-2025,12:30:01,September,Tuesday,CUST8122,New,Female,46,13,Olivia,Main Course,Pasta,4,13.49,53.96,3.84,10.02,60.14,Online,Delivery,3,13.62
+ORD00419,19-02-2025,08:28:58,February,Wednesday,CUST6488,Returning,Female,24,9,David,Desserts,Brownie,5,5.99,29.95,4.12,5.17,31,Google Pay,Delivery,5,9.78
+ORD00420,04-05-2025,00:07:18,May,Sunday,CUST1138,New,Male,44,4,Sophia,Main Course,Burger,2,11.99,23.98,1.13,4.57,27.42,Google Pay,Takeaway,3,5.75
+ORD00421,26-05-2025,11:16:54,May,Monday,CUST4552,New,Male,23,20,Daniel,Desserts,Ice Cream,1,4.99,4.99,0.02,0.99,5.96,Google Pay,Delivery,5,1.31
+ORD00422,17-10-2025,07:35:21,October,Friday,CUST2240,Returning,Female,45,11,Michael,Main Course,Veg Biryani,2,12.99,25.98,0.99,5,29.99,Card,Dine-in,4,8
+ORD00423,01-02-2025,06:55:47,February,Saturday,CUST5336,New,Female,22,16,Emma,Drinks,Fresh Juice,3,4.49,13.47,2.01,2.29,13.75,Online,Takeaway,3,3.31
+ORD00424,27-11-2025,23:47:31,November,Thursday,CUST2740,Returning,Female,24,2,Sophia,Drinks,Coke,2,2.99,5.98,0.48,1.1,6.6,Cash,Delivery,5,1.73
+ORD00425,09-05-2025,06:31:19,May,Friday,CUST1619,Returning,Female,27,11,David,Drinks,Coke,4,2.99,11.96,0.27,2.34,14.03,Online,Dine-in,5,4.05
+ORD00426,29-12-2025,01:09:51,December,Monday,CUST2148,New,Male,42,16,Sophia,Drinks,Fresh Juice,4,4.49,17.96,1.09,3.37,20.24,Online,Delivery,4,6.06
+ORD00427,20-06-2025,00:27:03,June,Friday,CUST2485,Returning,Female,23,15,Michael,Desserts,Brownie,1,5.99,5.99,0.57,1.08,6.5,Card,Dine-in,5,2.13
+ORD00428,21-01-2025,05:43:49,January,Tuesday,CUST6886,Returning,Male,58,15,Emma,Drinks,Coffee,3,3.99,11.97,1.25,2.14,12.86,Card,Dine-in,3,4.12
+ORD00429,13-01-2025,19:42:36,January,Monday,CUST6041,Returning,Female,19,2,Olivia,Main Course,Fish & Chips,4,17.99,71.96,0.68,14.26,85.54,Cash,Takeaway,5,23.6
+ORD00430,22-01-2025,22:13:59,January,Wednesday,CUST8509,New,Male,22,2,Daniel,Drinks,Coke,2,2.99,5.98,0.72,1.05,6.31,Google Pay,Delivery,3,1.84
+ORD00431,30-08-2025,22:39:51,August,Saturday,CUST6035,New,Female,57,6,Sophia,Starters,Garlic Bread,2,4.99,9.98,0.02,1.99,11.95,Cash,Dine-in,4,3.44
+ORD00432,01-11-2025,17:16:38,November,Saturday,CUST7586,Returning,Male,61,19,Daniel,Main Course,Veg Biryani,2,12.99,25.98,1.66,4.86,29.18,Apple Pay,Dine-in,3,9.04
+ORD00433,31-10-2025,12:15:06,October,Friday,CUST7801,New,Female,53,6,Emily,Main Course,Burger,1,11.99,11.99,0.22,2.35,14.12,Card,Delivery,3,3.19
+ORD00434,10-03-2025,01:05:58,March,Monday,CUST1104,New,Male,23,19,Michael,Starters,Soup,2,5.99,11.98,0.03,2.39,14.34,Google Pay,Delivery,4,3.86
+ORD00435,21-12-2025,03:57:13,December,Sunday,CUST7750,New,Male,57,2,Daniel,Main Course,Paneer Butter Masala,2,13.99,27.98,2.69,5.06,30.35,Google Pay,Delivery,3,8.31
+ORD00436,18-11-2025,23:23:24,November,Tuesday,CUST2925,New,Female,52,17,Emma,Desserts,Brownie,4,5.99,23.96,0.02,4.79,28.73,Google Pay,Delivery,5,6.83
+ORD00437,17-04-2025,08:30:06,April,Thursday,CUST8772,Returning,Male,28,2,James,Desserts,Ice Cream,2,4.99,9.98,0.17,1.96,11.77,Apple Pay,Takeaway,3,2.67
+ORD00438,11-08-2025,21:52:11,August,Monday,CUST1709,New,Male,52,6,Daniel,Desserts,Brownie,5,5.99,29.95,3.62,5.27,31.6,Cash,Takeaway,5,9.58
+ORD00439,01-03-2025,11:49:48,March,Saturday,CUST4256,Returning,Male,25,11,Emma,Starters,Garlic Bread,4,4.99,19.96,1.77,3.64,21.83,Cash,Dine-in,5,5.44
+ORD00440,31-07-2025,14:23:27,July,Thursday,CUST1890,Returning,Male,31,20,Emily,Main Course,Pasta,2,13.49,26.98,0.3,5.34,32.02,Card,Takeaway,4,9.01
+ORD00441,11-03-2025,15:24:13,March,Tuesday,CUST3084,New,Male,35,5,Sophia,Drinks,Coffee,3,3.99,11.97,1.75,2.04,12.26,Google Pay,Takeaway,4,2.86
+ORD00442,29-03-2025,15:43:49,March,Saturday,CUST3784,New,Male,44,17,Emily,Desserts,Ice Cream,3,4.99,14.97,1.36,2.72,16.33,Card,Delivery,4,5.01
+ORD00443,25-08-2025,21:01:50,August,Monday,CUST6362,Returning,Male,55,5,James,Desserts,Ice Cream,4,4.99,19.96,2.2,3.55,21.31,Google Pay,Dine-in,3,5.1
+ORD00444,29-08-2025,13:18:28,August,Friday,CUST2605,Returning,Female,33,3,James,Starters,Soup,5,5.99,29.95,1.77,5.64,33.82,Google Pay,Dine-in,3,10.47
+ORD00445,03-07-2025,21:12:39,July,Thursday,CUST3650,Returning,Male,47,15,Daniel,Desserts,Ice Cream,1,4.99,4.99,0.01,1,5.98,Google Pay,Dine-in,4,1.74
+ORD00446,17-11-2025,00:20:45,November,Monday,CUST9698,New,Female,45,9,Emma,Drinks,Coke,1,2.99,2.99,0.17,0.56,3.38,Cash,Delivery,4,1
+ORD00447,29-01-2025,07:54:52,January,Wednesday,CUST1669,Returning,Female,29,18,Sophia,Desserts,Ice Cream,1,4.99,4.99,0.29,0.94,5.64,Online,Delivery,3,1.5
+ORD00448,12-03-2025,23:55:24,March,Wednesday,CUST4437,New,Female,40,9,David,Desserts,Ice Cream,5,4.99,24.95,0.42,4.91,29.44,Apple Pay,Dine-in,3,7.89
+ORD00449,10-07-2025,00:40:16,July,Thursday,CUST8703,Returning,Female,57,12,Sophia,Desserts,Brownie,4,5.99,23.96,1.8,4.43,26.59,Card,Takeaway,3,8.3
+ORD00450,11-02-2025,06:58:54,February,Tuesday,CUST3699,Returning,Male,62,5,Emily,Drinks,Coffee,3,3.99,11.97,1.72,2.05,12.3,Card,Dine-in,5,2.68
+ORD00451,18-11-2025,01:33:20,November,Tuesday,CUST3163,Returning,Female,44,15,James,Starters,Chicken Wings,4,8.99,35.96,5.23,6.15,36.88,Apple Pay,Dine-in,3,10.18
+ORD00452,12-01-2025,04:51:40,January,Sunday,CUST6346,Returning,Female,47,10,Daniel,Main Course,Burger,4,11.99,47.96,4.16,8.76,52.56,Apple Pay,Dine-in,4,15.26
+ORD00453,27-04-2025,10:18:47,April,Sunday,CUST6785,Returning,Female,28,20,Daniel,Drinks,Tea,3,2.49,7.47,0.86,1.32,7.93,Online,Takeaway,3,1.7
+ORD00454,31-03-2025,12:47:14,March,Monday,CUST3072,Returning,Female,41,6,Emma,Main Course,Butter Chicken,2,15.99,31.98,0.56,6.28,37.7,Online,Delivery,3,12.54
+ORD00455,07-12-2025,17:11:37,December,Sunday,CUST3663,Returning,Male,19,13,Emily,Desserts,Brownie,2,5.99,11.98,0.67,2.26,13.57,Card,Takeaway,4,3.74
+ORD00456,21-03-2025,20:46:46,March,Friday,CUST3409,Returning,Female,62,4,Emily,Starters,Chicken Wings,3,8.99,26.97,1.92,5.01,30.06,Cash,Dine-in,5,7.35
+ORD00457,10-10-2025,05:19:40,October,Friday,CUST8306,Returning,Male,38,2,Emma,Starters,Chicken Wings,1,8.99,8.99,0.54,1.69,10.14,Online,Delivery,3,3.18
+ORD00458,23-05-2025,16:49:41,May,Friday,CUST2431,Returning,Male,49,11,James,Main Course,Chicken Biryani,1,14.99,14.99,1.21,2.76,16.54,Apple Pay,Takeaway,3,4.37
+ORD00459,07-08-2025,14:23:37,August,Thursday,CUST6047,Returning,Male,31,15,David,Desserts,Brownie,3,5.99,17.97,0.03,3.59,21.53,Google Pay,Takeaway,3,5.41
+ORD00460,06-08-2025,19:36:05,August,Wednesday,CUST5968,Returning,Female,22,19,David,Drinks,Coffee,5,3.99,19.95,1.79,3.63,21.79,Cash,Dine-in,4,4.93
+ORD00461,24-11-2025,11:51:38,November,Monday,CUST3243,New,Male,42,10,Emily,Desserts,Brownie,2,5.99,11.98,1,2.2,13.18,Cash,Takeaway,5,3.91
+ORD00462,05-06-2025,23:20:13,June,Thursday,CUST5303,Returning,Female,25,10,David,Drinks,Fresh Juice,2,4.49,8.98,0.04,1.79,10.73,Card,Takeaway,5,2.24
+ORD00463,27-11-2025,04:05:21,November,Thursday,CUST2093,Returning,Female,54,14,Michael,Main Course,Chicken Biryani,1,14.99,14.99,1.72,2.65,15.92,Google Pay,Delivery,3,4.3
+ORD00464,11-07-2025,20:04:11,July,Friday,CUST8553,New,Female,28,2,Michael,Starters,Chicken Wings,2,8.99,17.98,1.57,3.28,19.69,Apple Pay,Takeaway,5,4.46
+ORD00465,02-07-2025,11:24:27,July,Wednesday,CUST9419,New,Male,24,20,Daniel,Starters,Chicken Wings,3,8.99,26.97,2.14,4.97,29.8,Online,Takeaway,4,9.69
+ORD00466,17-12-2025,00:12:43,December,Wednesday,CUST3354,New,Male,51,10,Olivia,Desserts,Brownie,3,5.99,17.97,0.26,3.54,21.25,Google Pay,Takeaway,4,5.97
+ORD00467,25-03-2025,08:55:43,March,Tuesday,CUST9612,New,Female,47,3,Sophia,Starters,Garlic Bread,2,4.99,9.98,0.75,1.85,11.08,Card,Dine-in,4,3.46
+ORD00468,28-06-2025,12:03:39,June,Saturday,CUST9570,Returning,Male,63,10,James,Desserts,Cheesecake,3,6.99,20.97,0.44,4.11,24.64,Cash,Dine-in,3,6.49
+ORD00469,22-12-2025,08:27:01,December,Monday,CUST2287,Returning,Male,22,1,Emily,Main Course,Paneer Butter Masala,3,13.99,41.97,0.79,8.24,49.42,Google Pay,Dine-in,3,11.1
+ORD00470,25-02-2025,03:26:17,February,Tuesday,CUST2085,Returning,Male,24,4,Emma,Starters,Spring Rolls,4,6.99,27.96,0.5,5.49,32.95,Online,Dine-in,3,7.91
+ORD00471,10-12-2025,04:27:22,December,Wednesday,CUST5544,Returning,Female,28,17,Emma,Desserts,Ice Cream,1,4.99,4.99,0.11,0.98,5.86,Online,Delivery,3,1.77
+ORD00472,20-02-2025,23:32:50,February,Thursday,CUST9800,New,Male,31,17,Emily,Starters,Garlic Bread,2,4.99,9.98,1.44,1.71,10.25,Apple Pay,Delivery,5,2.36
+ORD00473,05-04-2025,08:06:00,April,Saturday,CUST7948,New,Male,44,4,Olivia,Drinks,Coke,2,2.99,5.98,0.75,1.05,6.28,Cash,Takeaway,3,2.08
+ORD00474,24-09-2025,01:10:12,September,Wednesday,CUST1665,New,Female,49,4,David,Main Course,Fish & Chips,3,17.99,53.97,5.71,9.65,57.91,Apple Pay,Takeaway,5,16.1
+ORD00475,09-06-2025,17:09:32,June,Monday,CUST8011,New,Male,48,12,Daniel,Drinks,Coffee,5,3.99,19.95,1.22,3.75,22.48,Cash,Delivery,4,7.45
+ORD00476,11-12-2025,06:41:47,December,Thursday,CUST2953,New,Female,43,19,Sophia,Starters,Soup,4,5.99,23.96,1.88,4.42,26.5,Card,Dine-in,4,7.76
+ORD00477,12-04-2025,04:06:51,April,Saturday,CUST4815,Returning,Female,35,19,Michael,Desserts,Ice Cream,5,4.99,24.95,3.16,4.36,26.15,Google Pay,Takeaway,4,6.77
+ORD00478,08-12-2025,17:29:09,December,Monday,CUST2770,New,Female,49,16,Emma,Drinks,Fresh Juice,5,4.49,22.45,0.94,4.3,25.81,Card,Dine-in,3,7.86
+ORD00479,28-01-2025,08:13:40,January,Tuesday,CUST6356,New,Female,57,20,Sophia,Starters,Soup,1,5.99,5.99,0.87,1.02,6.14,Cash,Delivery,5,1.57
+ORD00480,10-09-2025,23:43:56,September,Wednesday,CUST5287,Returning,Male,20,14,Sophia,Drinks,Coffee,3,3.99,11.97,1.19,2.16,12.94,Google Pay,Takeaway,4,3.49
+ORD00481,12-07-2025,06:06:00,July,Saturday,CUST5965,New,Female,45,5,Michael,Drinks,Fresh Juice,1,4.49,4.49,0.02,0.89,5.36,Google Pay,Takeaway,3,1.49
+ORD00482,19-10-2025,19:34:09,October,Sunday,CUST1913,Returning,Female,49,19,David,Drinks,Fresh Juice,4,4.49,17.96,1.51,3.29,19.74,Online,Delivery,4,4.5
+ORD00483,26-05-2025,00:51:49,May,Monday,CUST7003,Returning,Male,58,11,David,Desserts,Ice Cream,1,4.99,4.99,0.44,0.91,5.46,Cash,Takeaway,4,1.22
+ORD00484,02-07-2025,00:59:45,July,Wednesday,CUST6113,New,Male,37,4,Olivia,Drinks,Tea,1,2.49,2.49,0.25,0.45,2.69,Card,Dine-in,5,0.64
+ORD00485,16-06-2025,12:52:10,June,Monday,CUST5368,New,Female,55,1,Olivia,Starters,Soup,4,5.99,23.96,2.04,4.38,26.3,Google Pay,Delivery,4,8.44
+ORD00486,15-06-2025,18:50:25,June,Sunday,CUST9138,Returning,Male,57,10,Olivia,Starters,Soup,1,5.99,5.99,0.62,1.07,6.44,Google Pay,Dine-in,4,1.51
+ORD00487,22-11-2025,06:05:06,November,Saturday,CUST7586,New,Male,63,19,Sophia,Starters,Garlic Bread,3,4.99,14.97,0.6,2.87,17.24,Online,Takeaway,4,4.23
+ORD00488,04-02-2025,05:35:01,February,Tuesday,CUST5945,Returning,Female,60,18,Olivia,Drinks,Fresh Juice,2,4.49,8.98,0.47,1.7,10.21,Card,Takeaway,4,2.23
+ORD00489,09-05-2025,21:49:01,May,Friday,CUST4056,Returning,Male,60,15,Michael,Drinks,Coffee,1,3.99,3.99,0.38,0.72,4.33,Online,Delivery,4,1.18
+ORD00490,17-10-2025,21:12:22,October,Friday,CUST5919,Returning,Female,38,3,Emma,Starters,Garlic Bread,3,4.99,14.97,1.04,2.79,16.72,Google Pay,Takeaway,4,3.98
+ORD00491,27-11-2025,18:58:26,November,Thursday,CUST3456,New,Male,33,10,Emily,Main Course,Pizza,5,16.99,84.95,3.01,16.39,98.33,Google Pay,Delivery,4,23.42
+ORD00492,05-08-2025,21:38:50,August,Tuesday,CUST5551,New,Male,64,16,James,Starters,Garlic Bread,2,4.99,9.98,0.41,1.91,11.48,Cash,Dine-in,4,2.43
+ORD00493,05-11-2025,10:39:28,November,Wednesday,CUST2479,Returning,Male,33,4,Sophia,Desserts,Ice Cream,4,4.99,19.96,2.68,3.46,20.74,Online,Delivery,5,6.06
+ORD00494,26-09-2025,22:15:22,September,Friday,CUST6134,Returning,Female,65,8,David,Desserts,Brownie,1,5.99,5.99,0.21,1.16,6.94,Card,Dine-in,3,1.55
+ORD00495,31-03-2025,08:12:59,March,Monday,CUST1916,Returning,Female,62,4,Olivia,Main Course,Pizza,4,16.99,67.96,4.16,12.76,76.56,Online,Takeaway,4,24.21
+ORD00496,16-12-2025,17:27:01,December,Tuesday,CUST6049,New,Male,65,2,Emma,Main Course,Pizza,2,16.99,33.98,1.85,6.43,38.56,Apple Pay,Delivery,4,11.48
+ORD00497,08-06-2025,03:07:51,June,Sunday,CUST8248,Returning,Male,43,9,Michael,Desserts,Cheesecake,1,6.99,6.99,0.56,1.29,7.72,Cash,Dine-in,4,1.84
+ORD00498,18-04-2025,02:53:24,April,Friday,CUST7656,New,Female,23,16,Emily,Main Course,Fish & Chips,3,17.99,53.97,7.12,9.37,56.22,Google Pay,Takeaway,5,17.1
+ORD00499,05-08-2025,10:28:55,August,Tuesday,CUST9973,Returning,Female,62,1,James,Starters,Garlic Bread,3,4.99,14.97,1.14,2.77,16.6,Card,Delivery,4,4.19
+ORD00500,25-11-2025,21:09:00,November,Tuesday,CUST2347,New,Male,33,17,Daniel,Main Course,Chicken Biryani,4,14.99,59.96,1.8,11.63,69.79,Online,Delivery,4,17.21
+ORD00501,13-06-2025,01:40:24,June,Friday,CUST6367,Returning,Male,23,14,Olivia,Drinks,Fresh Juice,2,4.49,8.98,0.35,1.73,10.36,Card,Takeaway,4,3.05
+ORD00502,20-10-2025,23:03:20,October,Monday,CUST4747,New,Female,30,9,Daniel,Main Course,Chicken Biryani,1,14.99,14.99,2.08,2.58,15.49,Cash,Takeaway,5,4.48
+ORD00503,08-08-2025,19:45:31,August,Friday,CUST2922,New,Female,47,16,Sophia,Desserts,Ice Cream,1,4.99,4.99,0.72,0.85,5.12,Card,Delivery,3,1.18
+ORD00504,08-04-2025,22:50:38,April,Tuesday,CUST4385,New,Female,64,7,David,Desserts,Brownie,4,5.99,23.96,1.37,4.52,27.11,Card,Takeaway,3,7.11
+ORD00505,15-01-2025,16:08:51,January,Wednesday,CUST7056,Returning,Male,18,16,Daniel,Desserts,Brownie,2,5.99,11.98,1.11,2.17,13.04,Apple Pay,Delivery,4,4.2
+ORD00506,18-12-2025,09:51:43,December,Thursday,CUST2561,New,Male,39,8,Emily,Main Course,Pasta,4,13.49,53.96,5.96,9.6,57.6,Apple Pay,Delivery,5,13.84
+ORD00507,03-11-2025,11:54:23,November,Monday,CUST7466,Returning,Male,53,2,Daniel,Starters,Spring Rolls,3,6.99,20.97,1.59,3.88,23.26,Apple Pay,Dine-in,5,5.95
+ORD00508,10-09-2025,07:50:38,September,Wednesday,CUST8093,New,Female,25,11,James,Desserts,Brownie,2,5.99,11.98,0.16,2.36,14.18,Card,Takeaway,4,4.21
+ORD00509,04-07-2025,03:43:25,July,Friday,CUST5321,Returning,Female,28,11,Emily,Drinks,Tea,3,2.49,7.47,0.69,1.36,8.14,Card,Delivery,5,2.47
+ORD00510,22-11-2025,06:49:50,November,Saturday,CUST1587,Returning,Female,28,15,David,Drinks,Coke,2,2.99,5.98,0.13,1.17,7.02,Cash,Takeaway,3,1.66
+ORD00511,15-08-2025,20:30:18,August,Friday,CUST3425,New,Female,23,7,Michael,Desserts,Cheesecake,5,6.99,34.95,2.54,6.48,38.89,Card,Dine-in,5,10.5
+ORD00512,18-09-2025,12:51:42,September,Thursday,CUST1067,New,Female,22,8,Emily,Desserts,Cheesecake,5,6.99,34.95,1.11,6.77,40.61,Cash,Takeaway,3,13.53
+ORD00513,26-05-2025,09:58:47,May,Monday,CUST6300,New,Male,23,15,Emily,Starters,Soup,3,5.99,17.97,1.59,3.28,19.66,Google Pay,Delivery,4,6.43
+ORD00514,01-11-2025,18:41:31,November,Saturday,CUST6323,New,Male,21,10,Olivia,Starters,Chicken Wings,1,8.99,8.99,0.88,1.62,9.73,Cash,Delivery,3,3.18
+ORD00515,08-10-2025,02:57:04,October,Wednesday,CUST7535,New,Male,31,6,David,Drinks,Coke,4,2.99,11.96,0.46,2.3,13.8,Google Pay,Takeaway,5,3.29
+ORD00516,01-12-2025,21:50:15,December,Monday,CUST6080,New,Female,60,4,Olivia,Main Course,Veg Biryani,3,12.99,38.97,2.87,7.22,43.32,Online,Dine-in,4,11.37
+ORD00517,17-08-2025,17:29:16,August,Sunday,CUST7922,Returning,Male,45,14,Sophia,Drinks,Fresh Juice,3,4.49,13.47,1.14,2.47,14.8,Cash,Delivery,4,3.86
+ORD00518,26-08-2025,18:23:54,August,Tuesday,CUST2375,Returning,Female,45,3,Emily,Main Course,Butter Chicken,4,15.99,63.96,5.06,11.78,70.68,Apple Pay,Dine-in,3,20.44
+ORD00519,17-12-2025,10:36:17,December,Wednesday,CUST2253,New,Male,50,14,David,Desserts,Ice Cream,5,4.99,24.95,1.6,4.67,28.02,Cash,Takeaway,5,7.83
+ORD00520,19-10-2025,23:30:23,October,Sunday,CUST1266,New,Female,29,6,David,Desserts,Brownie,3,5.99,17.97,1.58,3.28,19.67,Cash,Dine-in,4,5.99
+ORD00521,27-12-2025,20:23:47,December,Saturday,CUST8371,Returning,Female,29,7,Daniel,Desserts,Brownie,5,5.99,29.95,3.25,5.34,32.04,Cash,Delivery,5,9.71
+ORD00522,13-05-2025,10:35:03,May,Tuesday,CUST1217,New,Female,47,13,Emily,Starters,Soup,5,5.99,29.95,0.08,5.97,35.84,Apple Pay,Delivery,5,9.24
+ORD00523,04-07-2025,15:44:27,July,Friday,CUST2833,New,Male,19,7,Emily,Drinks,Tea,1,2.49,2.49,0.05,0.49,2.93,Card,Delivery,3,0.62
+ORD00524,12-08-2025,00:56:30,August,Tuesday,CUST7912,New,Male,28,5,Emily,Main Course,Veg Biryani,3,12.99,38.97,4.5,6.89,41.36,Google Pay,Takeaway,3,9.38
+ORD00525,19-08-2025,06:38:13,August,Tuesday,CUST1834,Returning,Male,24,14,David,Main Course,Paneer Butter Masala,3,13.99,41.97,3.58,7.68,46.07,Google Pay,Delivery,5,14.4
+ORD00526,02-11-2025,12:41:16,November,Sunday,CUST8993,New,Male,51,1,David,Desserts,Ice Cream,4,4.99,19.96,1.2,3.75,22.51,Online,Takeaway,5,6.13
+ORD00527,02-02-2025,10:51:24,February,Sunday,CUST6681,Returning,Female,19,6,Michael,Desserts,Cheesecake,4,6.99,27.96,3.73,4.85,29.08,Card,Takeaway,4,6.48
+ORD00528,13-08-2025,03:20:47,August,Wednesday,CUST8675,New,Female,64,13,David,Main Course,Paneer Butter Masala,5,13.99,69.95,9.54,12.08,72.49,Apple Pay,Takeaway,3,18.18
+ORD00529,15-11-2025,19:11:31,November,Saturday,CUST4268,New,Female,24,14,Emily,Main Course,Pizza,1,16.99,16.99,1.7,3.06,18.35,Apple Pay,Dine-in,3,4.12
+ORD00530,13-10-2025,17:41:10,October,Monday,CUST3598,New,Male,22,11,David,Starters,Spring Rolls,3,6.99,20.97,2.77,3.64,21.84,Cash,Delivery,3,5.52
+ORD00531,03-03-2025,12:04:18,March,Monday,CUST1764,Returning,Male,62,17,Sophia,Main Course,Fish & Chips,3,17.99,53.97,8.04,9.19,55.12,Cash,Takeaway,4,16.89
+ORD00532,26-02-2025,00:18:49,February,Wednesday,CUST2934,New,Female,28,10,Emily,Starters,Spring Rolls,5,6.99,34.95,0.22,6.95,41.68,Online,Takeaway,5,9.23
+ORD00533,20-02-2025,15:33:48,February,Thursday,CUST4307,Returning,Female,18,8,Emily,Main Course,Burger,3,11.99,35.97,4.42,6.31,37.86,Apple Pay,Takeaway,5,8.47
+ORD00534,29-03-2025,10:54:47,March,Saturday,CUST5021,New,Female,32,5,David,Starters,Chicken Wings,3,8.99,26.97,2.89,4.82,28.9,Google Pay,Takeaway,4,7.52
+ORD00535,22-09-2025,15:39:28,September,Monday,CUST9476,New,Male,39,11,David,Desserts,Ice Cream,4,4.99,19.96,0.44,3.9,23.42,Card,Takeaway,3,4.91
+ORD00536,21-07-2025,16:53:18,July,Monday,CUST9516,Returning,Female,43,18,Michael,Starters,Garlic Bread,5,4.99,24.95,0.22,4.95,29.68,Apple Pay,Takeaway,3,8.53
+ORD00537,24-05-2025,21:01:35,May,Saturday,CUST8244,Returning,Female,30,10,Sophia,Main Course,Pasta,4,13.49,53.96,5.21,9.75,58.5,Cash,Delivery,4,18.68
+ORD00538,19-07-2025,19:51:52,July,Saturday,CUST9541,Returning,Male,19,1,Michael,Main Course,Pizza,2,16.99,33.98,0.47,6.7,40.21,Card,Takeaway,5,11.15
+ORD00539,05-08-2025,22:31:32,August,Tuesday,CUST3028,New,Male,46,10,James,Starters,Spring Rolls,3,6.99,20.97,0.82,4.03,24.18,Google Pay,Takeaway,3,6.57
+ORD00540,25-10-2025,18:36:45,October,Saturday,CUST3293,Returning,Male,24,11,Emma,Main Course,Burger,3,11.99,35.97,1.54,6.89,41.32,Apple Pay,Takeaway,3,12.66
+ORD00541,17-03-2025,20:35:29,March,Monday,CUST3130,Returning,Male,46,3,Olivia,Drinks,Fresh Juice,1,4.49,4.49,0.06,0.89,5.32,Online,Takeaway,5,1.39
+ORD00542,14-10-2025,17:29:22,October,Tuesday,CUST8210,Returning,Female,28,5,Daniel,Drinks,Tea,5,2.49,12.45,0.93,2.3,13.82,Google Pay,Delivery,4,3.61
+ORD00543,08-03-2025,05:07:05,March,Saturday,CUST7051,New,Female,25,4,Olivia,Starters,Garlic Bread,4,4.99,19.96,1.42,3.71,22.25,Online,Takeaway,3,6.71
+ORD00544,25-09-2025,16:26:52,September,Thursday,CUST5816,Returning,Male,27,5,David,Main Course,Veg Biryani,3,12.99,38.97,1.78,7.44,44.63,Cash,Takeaway,4,11.39
+ORD00545,21-04-2025,19:55:27,April,Monday,CUST1732,Returning,Female,54,10,Emily,Main Course,Fish & Chips,1,17.99,17.99,0.33,3.53,21.19,Apple Pay,Takeaway,4,5.34
+ORD00546,07-11-2025,04:52:39,November,Friday,CUST8357,New,Female,23,20,David,Main Course,Butter Chicken,5,15.99,79.95,7.63,14.46,86.78,Google Pay,Dine-in,4,26.34
+ORD00547,23-06-2025,06:11:30,June,Monday,CUST1406,Returning,Male,59,18,Sophia,Starters,Soup,3,5.99,17.97,1.74,3.25,19.48,Card,Delivery,5,6.17
+ORD00548,23-10-2025,21:42:42,October,Thursday,CUST9713,New,Male,35,7,Emma,Starters,Garlic Bread,4,4.99,19.96,1.5,3.69,22.15,Online,Takeaway,3,4.67
+ORD00549,01-10-2025,12:13:20,October,Wednesday,CUST1381,Returning,Female,29,14,James,Desserts,Brownie,5,5.99,29.95,0.2,5.95,35.7,Online,Takeaway,4,11.28
+ORD00550,12-05-2025,11:30:08,May,Monday,CUST3992,Returning,Male,27,10,David,Starters,Spring Rolls,1,6.99,6.99,0.57,1.28,7.7,Card,Dine-in,5,1.88
+ORD00551,16-06-2025,02:36:48,June,Monday,CUST3334,Returning,Female,34,13,Sophia,Main Course,Chicken Biryani,1,14.99,14.99,0.67,2.86,17.18,Cash,Dine-in,3,3.79
+ORD00552,02-11-2025,13:36:27,November,Sunday,CUST2885,Returning,Male,38,15,David,Main Course,Fish & Chips,5,17.99,89.95,10.15,15.96,95.76,Cash,Takeaway,3,24.56
+ORD00553,28-07-2025,09:01:10,July,Monday,CUST2663,New,Male,37,19,David,Main Course,Chicken Biryani,3,14.99,44.97,3.74,8.25,49.48,Google Pay,Dine-in,5,13.93
+ORD00554,14-09-2025,02:38:11,September,Sunday,CUST5016,Returning,Female,20,1,Emily,Main Course,Butter Chicken,3,15.99,47.97,3.89,8.82,52.9,Online,Takeaway,5,12.13
+ORD00555,27-03-2025,13:13:13,March,Thursday,CUST7228,Returning,Male,55,17,Michael,Starters,Spring Rolls,4,6.99,27.96,1.15,5.36,32.17,Cash,Dine-in,5,7.71
+ORD00556,01-10-2025,21:13:27,October,Wednesday,CUST3288,Returning,Female,31,20,Olivia,Starters,Chicken Wings,1,8.99,8.99,0.53,1.69,10.15,Apple Pay,Delivery,4,2.27
+ORD00557,29-12-2025,15:16:55,December,Monday,CUST4450,Returning,Female,19,5,James,Drinks,Tea,2,2.49,4.98,0.49,0.9,5.39,Online,Takeaway,3,1.34
+ORD00558,05-01-2025,23:14:38,January,Sunday,CUST7435,New,Male,52,1,Emily,Main Course,Pasta,5,13.49,67.45,9.06,11.68,70.07,Cash,Takeaway,4,20.76
+ORD00559,04-11-2025,13:19:12,November,Tuesday,CUST1138,New,Female,41,7,Emily,Desserts,Brownie,2,5.99,11.98,1.51,2.09,12.56,Cash,Dine-in,5,3.89
+ORD00560,11-01-2025,09:30:18,January,Saturday,CUST5967,New,Male,49,12,James,Desserts,Cheesecake,3,6.99,20.97,0.6,4.07,24.44,Apple Pay,Takeaway,5,7.59
+ORD00561,28-12-2025,08:04:43,December,Sunday,CUST2817,Returning,Female,28,18,Emma,Main Course,Chicken Biryani,2,14.99,29.98,4.43,5.11,30.66,Online,Delivery,5,8.83
+ORD00562,05-11-2025,15:35:17,November,Wednesday,CUST5253,New,Female,30,1,Michael,Main Course,Veg Biryani,5,12.99,64.95,1.25,12.74,76.44,Online,Takeaway,3,16.55
+ORD00563,07-08-2025,02:38:22,August,Thursday,CUST2994,Returning,Female,41,17,James,Starters,Chicken Wings,4,8.99,35.96,4.55,6.28,37.69,Card,Dine-in,4,9.77
+ORD00564,04-08-2025,22:20:15,August,Monday,CUST1415,New,Female,22,8,Emma,Drinks,Tea,1,2.49,2.49,0.15,0.47,2.81,Card,Takeaway,4,0.7
+ORD00565,02-02-2025,23:46:14,February,Sunday,CUST6477,Returning,Male,24,16,Emma,Starters,Spring Rolls,4,6.99,27.96,1.81,5.23,31.38,Apple Pay,Dine-in,4,6.63
+ORD00566,24-09-2025,04:25:45,September,Wednesday,CUST8314,New,Male,21,2,David,Main Course,Veg Biryani,5,12.99,64.95,6.04,11.78,70.69,Apple Pay,Delivery,3,21.48
+ORD00567,07-03-2025,22:53:09,March,Friday,CUST2077,New,Male,53,2,Michael,Starters,Soup,1,5.99,5.99,0.27,1.14,6.86,Google Pay,Takeaway,3,1.97
+ORD00568,13-11-2025,08:13:06,November,Thursday,CUST8428,Returning,Female,45,20,Sophia,Drinks,Coffee,5,3.99,19.95,2.36,3.52,21.11,Apple Pay,Delivery,5,6.04
+ORD00569,14-01-2025,03:04:59,January,Tuesday,CUST2106,New,Male,58,17,Michael,Drinks,Tea,5,2.49,12.45,0.36,2.42,14.51,Apple Pay,Takeaway,4,3.21
+ORD00570,14-11-2025,14:45:47,November,Friday,CUST3091,Returning,Female,50,12,Michael,Drinks,Coffee,2,3.99,7.98,0.16,1.56,9.38,Online,Delivery,3,2.01
+ORD00571,17-03-2025,21:26:34,March,Monday,CUST1132,New,Male,33,17,James,Drinks,Tea,5,2.49,12.45,0.64,2.36,14.17,Google Pay,Takeaway,3,3.61
+ORD00572,13-04-2025,04:27:09,April,Sunday,CUST8657,Returning,Female,57,10,David,Main Course,Veg Biryani,3,12.99,38.97,1.11,7.57,45.43,Apple Pay,Dine-in,3,12.17
+ORD00573,21-08-2025,13:20:55,August,Thursday,CUST4772,Returning,Male,33,16,Olivia,Starters,Soup,2,5.99,11.98,1.65,2.07,12.4,Google Pay,Dine-in,4,3.57
+ORD00574,05-04-2025,00:23:22,April,Saturday,CUST2887,New,Female,46,7,Olivia,Starters,Chicken Wings,1,8.99,8.99,0.1,1.78,10.67,Cash,Dine-in,3,2.26
+ORD00575,12-04-2025,00:24:58,April,Saturday,CUST6567,New,Male,30,1,Daniel,Desserts,Ice Cream,2,4.99,9.98,1.33,1.73,10.38,Apple Pay,Dine-in,3,3.1
+ORD00576,13-12-2025,10:40:02,December,Saturday,CUST8474,New,Female,41,6,David,Main Course,Pasta,1,13.49,13.49,0.68,2.56,15.37,Cash,Dine-in,3,3.61
+ORD00577,08-03-2025,13:30:08,March,Saturday,CUST8037,New,Male,57,19,Emma,Main Course,Paneer Butter Masala,5,13.99,69.95,3.97,13.2,79.18,Online,Takeaway,3,20.2
+ORD00578,17-06-2025,05:18:08,June,Tuesday,CUST9011,New,Male,48,20,Sophia,Main Course,Chicken Biryani,3,14.99,44.97,5.89,7.82,46.9,Card,Delivery,4,14.76
+ORD00579,27-11-2025,22:25:30,November,Thursday,CUST7125,Returning,Female,48,9,David,Desserts,Brownie,5,5.99,29.95,2.09,5.57,33.43,Online,Delivery,3,8.31
+ORD00580,17-04-2025,22:13:59,April,Thursday,CUST6013,Returning,Female,54,6,Olivia,Main Course,Paneer Butter Masala,4,13.99,55.96,7.25,9.74,58.45,Apple Pay,Delivery,3,15.07
+ORD00581,10-03-2025,05:50:27,March,Monday,CUST1674,Returning,Female,45,15,Emily,Starters,Chicken Wings,4,8.99,35.96,2.8,6.63,39.79,Google Pay,Takeaway,4,9.43
+ORD00582,12-09-2025,13:35:02,September,Friday,CUST5351,New,Female,23,10,Sophia,Desserts,Brownie,4,5.99,23.96,0.09,4.77,28.64,Apple Pay,Dine-in,3,7.55
+ORD00583,02-03-2025,20:24:35,March,Sunday,CUST6394,Returning,Female,65,9,Emma,Starters,Chicken Wings,1,8.99,8.99,0.74,1.65,9.9,Online,Dine-in,5,2.48
+ORD00584,06-10-2025,22:21:14,October,Monday,CUST7616,Returning,Male,48,17,Daniel,Desserts,Ice Cream,3,4.99,14.97,0.63,2.87,17.21,Google Pay,Dine-in,3,4.33
+ORD00585,18-04-2025,14:54:44,April,Friday,CUST8679,Returning,Female,23,11,Emma,Drinks,Coffee,5,3.99,19.95,1.76,3.64,21.83,Google Pay,Delivery,4,6.06
+ORD00586,18-04-2025,05:02:03,April,Friday,CUST3102,Returning,Male,49,12,Olivia,Drinks,Fresh Juice,5,4.49,22.45,0.1,4.47,26.82,Card,Takeaway,4,6.05
+ORD00587,18-12-2025,09:29:55,December,Thursday,CUST1527,New,Male,39,19,David,Drinks,Tea,3,2.49,7.47,0.66,1.36,8.17,Google Pay,Dine-in,4,2.28
+ORD00588,02-02-2025,06:35:35,February,Sunday,CUST8397,Returning,Male,28,4,Daniel,Drinks,Coffee,4,3.99,15.96,0.26,3.14,18.84,Cash,Delivery,5,5.27
+ORD00589,08-09-2025,01:21:30,September,Monday,CUST5650,New,Male,36,17,Sophia,Starters,Garlic Bread,2,4.99,9.98,0.1,1.98,11.86,Google Pay,Dine-in,4,3.9
+ORD00590,23-09-2025,00:09:45,September,Tuesday,CUST3572,New,Male,52,14,Emily,Starters,Garlic Bread,3,4.99,14.97,1.93,2.61,15.65,Cash,Takeaway,3,4.06
+ORD00591,08-03-2025,21:20:12,March,Saturday,CUST3601,Returning,Male,50,15,Michael,Main Course,Pizza,4,16.99,67.96,8.34,11.92,71.54,Card,Dine-in,3,20.85
+ORD00592,17-08-2025,02:43:15,August,Sunday,CUST9043,Returning,Female,54,2,Sophia,Starters,Soup,5,5.99,29.95,3.63,5.26,31.58,Apple Pay,Delivery,4,8.66
+ORD00593,27-06-2025,02:23:49,June,Friday,CUST7800,New,Male,57,14,Emily,Desserts,Brownie,5,5.99,29.95,3.7,5.25,31.5,Google Pay,Delivery,3,9.91
+ORD00594,24-12-2025,19:00:36,December,Wednesday,CUST5485,Returning,Male,62,7,Emily,Starters,Soup,1,5.99,5.99,0.22,1.15,6.92,Google Pay,Delivery,3,2.2
+ORD00595,08-07-2025,02:14:48,July,Tuesday,CUST8388,New,Female,31,17,James,Starters,Spring Rolls,5,6.99,34.95,4.02,6.19,37.12,Google Pay,Dine-in,3,9.25
+ORD00596,24-11-2025,10:49:41,November,Monday,CUST7499,New,Male,34,4,Daniel,Drinks,Fresh Juice,3,4.49,13.47,1.51,2.39,14.35,Apple Pay,Delivery,5,4.53
+ORD00597,26-08-2025,15:32:24,August,Tuesday,CUST8171,New,Female,35,6,Daniel,Drinks,Fresh Juice,1,4.49,4.49,0.06,0.89,5.32,Cash,Delivery,3,1.54
+ORD00598,01-04-2025,22:52:22,April,Tuesday,CUST1183,Returning,Male,46,12,Daniel,Desserts,Ice Cream,5,4.99,24.95,2.77,4.44,26.62,Card,Delivery,3,6.11
+ORD00599,12-12-2025,07:07:26,December,Friday,CUST2684,Returning,Female,46,2,James,Main Course,Fish & Chips,1,17.99,17.99,2.26,3.15,18.88,Cash,Takeaway,3,5.85
+ORD00600,08-05-2025,17:49:14,May,Thursday,CUST1238,Returning,Male,61,3,Emma,Desserts,Ice Cream,2,4.99,9.98,0.14,1.97,11.81,Cash,Delivery,3,3.08
+ORD00601,27-03-2025,10:31:47,March,Thursday,CUST4105,New,Female,45,4,Emma,Starters,Soup,5,5.99,29.95,0.48,5.89,35.36,Card,Dine-in,4,8.81
+ORD00602,15-06-2025,02:55:33,June,Sunday,CUST4485,Returning,Male,22,9,Olivia,Main Course,Chicken Biryani,4,14.99,59.96,5.88,10.82,64.9,Cash,Dine-in,3,13.62
+ORD00603,30-07-2025,10:22:17,July,Wednesday,CUST9784,New,Female,24,20,Olivia,Desserts,Cheesecake,4,6.99,27.96,4.12,4.77,28.61,Google Pay,Delivery,5,6.32
+ORD00604,10-03-2025,07:02:38,March,Monday,CUST2106,Returning,Male,56,19,Emily,Desserts,Ice Cream,3,4.99,14.97,2.2,2.55,15.32,Google Pay,Delivery,5,4.47
+ORD00605,30-04-2025,22:48:35,April,Wednesday,CUST6060,New,Female,33,20,Sophia,Starters,Garlic Bread,1,4.99,4.99,0.46,0.91,5.44,Cash,Dine-in,4,1.74
+ORD00606,13-09-2025,10:45:36,September,Saturday,CUST4900,Returning,Female,26,9,Olivia,Desserts,Ice Cream,2,4.99,9.98,0.56,1.88,11.3,Cash,Delivery,4,3.26
+ORD00607,28-11-2025,02:38:49,November,Friday,CUST4969,New,Male,60,8,Emma,Desserts,Ice Cream,2,4.99,9.98,1.27,1.74,10.45,Online,Takeaway,5,2.61
+ORD00608,14-06-2025,05:41:38,June,Saturday,CUST4153,New,Male,31,5,Sophia,Main Course,Fish & Chips,1,17.99,17.99,0.17,3.56,21.38,Card,Delivery,5,5.77
+ORD00609,15-04-2025,21:34:21,April,Tuesday,CUST4236,New,Female,29,20,Emma,Main Course,Veg Biryani,4,12.99,51.96,5.65,9.26,55.57,Apple Pay,Takeaway,5,13.74
+ORD00610,18-08-2025,03:50:12,August,Monday,CUST7524,Returning,Male,48,15,David,Main Course,Pizza,4,16.99,67.96,0.82,13.43,80.57,Online,Delivery,5,26.58
+ORD00611,10-08-2025,02:03:06,August,Sunday,CUST2363,Returning,Male,53,6,Michael,Main Course,Fish & Chips,1,17.99,17.99,2.06,3.19,19.12,Google Pay,Takeaway,4,5
+ORD00612,21-08-2025,15:49:13,August,Thursday,CUST3238,Returning,Male,27,7,James,Desserts,Brownie,5,5.99,29.95,2.72,5.45,32.68,Cash,Delivery,5,7.1
+ORD00613,11-07-2025,06:42:37,July,Friday,CUST7113,Returning,Female,37,19,Sophia,Drinks,Fresh Juice,4,4.49,17.96,2.53,3.09,18.52,Google Pay,Dine-in,3,6.1
+ORD00614,17-07-2025,10:33:35,July,Thursday,CUST6711,Returning,Female,62,2,David,Main Course,Paneer Butter Masala,4,13.99,55.96,8.03,9.59,57.52,Google Pay,Delivery,3,17.53
+ORD00615,05-05-2025,21:30:36,May,Monday,CUST3422,Returning,Female,61,5,Michael,Drinks,Coke,3,2.99,8.97,0.85,1.62,9.74,Card,Delivery,5,2.85
+ORD00616,06-12-2025,19:35:33,December,Saturday,CUST7297,Returning,Male,51,7,David,Main Course,Chicken Biryani,1,14.99,14.99,1.73,2.65,15.91,Card,Takeaway,4,4.6
+ORD00617,21-12-2025,13:40:44,December,Sunday,CUST6045,Returning,Male,24,19,Olivia,Desserts,Cheesecake,5,6.99,34.95,3.45,6.3,37.8,Card,Takeaway,5,9.68
+ORD00618,18-04-2025,21:33:48,April,Friday,CUST1025,New,Male,62,14,David,Drinks,Tea,1,2.49,2.49,0.37,0.42,2.54,Apple Pay,Delivery,4,0.79
+ORD00619,29-03-2025,12:42:00,March,Saturday,CUST3981,New,Female,54,7,Daniel,Main Course,Burger,2,11.99,23.98,2.53,4.29,25.74,Card,Dine-in,5,6
+ORD00620,04-04-2025,01:29:38,April,Friday,CUST2789,New,Male,36,3,David,Main Course,Pizza,4,16.99,67.96,4.49,12.69,76.16,Cash,Takeaway,3,24.56
+ORD00621,25-06-2025,04:58:12,June,Wednesday,CUST1155,New,Female,18,19,James,Starters,Garlic Bread,4,4.99,19.96,1.45,3.7,22.21,Cash,Dine-in,5,6.74
+ORD00622,04-01-2025,12:27:24,January,Saturday,CUST8036,Returning,Female,61,11,Olivia,Drinks,Tea,4,2.49,9.96,0.71,1.85,11.1,Card,Takeaway,5,2.78
+ORD00623,24-07-2025,00:14:34,July,Thursday,CUST1050,Returning,Female,64,5,James,Drinks,Coke,3,2.99,8.97,1.17,1.56,9.36,Online,Dine-in,5,2.89
+ORD00624,24-05-2025,21:27:41,May,Saturday,CUST8785,Returning,Male,18,11,James,Main Course,Burger,4,11.99,47.96,4.45,8.7,52.21,Apple Pay,Dine-in,5,15.18
+ORD00625,16-06-2025,14:18:02,June,Monday,CUST2333,Returning,Female,48,4,David,Drinks,Coffee,5,3.99,19.95,1.45,3.7,22.2,Apple Pay,Delivery,3,6.68
+ORD00626,31-12-2025,00:55:03,December,Wednesday,CUST9990,Returning,Male,46,4,Emily,Main Course,Chicken Biryani,2,14.99,29.98,2.24,5.55,33.29,Online,Dine-in,3,7.3
+ORD00627,19-04-2025,01:51:46,April,Saturday,CUST3625,Returning,Female,35,8,Michael,Main Course,Veg Biryani,1,12.99,12.99,0.85,2.43,14.57,Google Pay,Delivery,3,4.34
+ORD00628,07-12-2025,12:53:30,December,Sunday,CUST4666,New,Female,42,13,David,Main Course,Fish & Chips,1,17.99,17.99,2.15,3.17,19.01,Card,Dine-in,4,4.75
+ORD00629,01-03-2025,23:35:38,March,Saturday,CUST4082,New,Female,26,11,David,Desserts,Ice Cream,1,4.99,4.99,0.07,0.98,5.9,Online,Delivery,3,1.78
+ORD00630,09-06-2025,02:44:58,June,Monday,CUST6980,New,Male,24,13,James,Starters,Garlic Bread,4,4.99,19.96,2.93,3.41,20.44,Online,Takeaway,4,5.07
+ORD00631,16-03-2025,23:18:30,March,Sunday,CUST5643,New,Male,56,11,Michael,Desserts,Ice Cream,4,4.99,19.96,2.04,3.58,21.5,Online,Delivery,3,4.88
+ORD00632,21-05-2025,20:49:57,May,Wednesday,CUST1963,Returning,Male,63,7,Emma,Drinks,Coffee,4,3.99,15.96,0.7,3.05,18.31,Cash,Dine-in,4,6.03
+ORD00633,20-07-2025,12:09:24,July,Sunday,CUST6528,Returning,Female,40,13,David,Desserts,Cheesecake,2,6.99,13.98,2.08,2.38,14.28,Cash,Delivery,5,3.95
+ORD00634,25-05-2025,15:20:07,May,Sunday,CUST2594,New,Female,55,2,Michael,Desserts,Cheesecake,2,6.99,13.98,1.47,2.5,15.01,Google Pay,Delivery,3,4.16
+ORD00635,23-10-2025,03:32:32,October,Thursday,CUST4573,New,Male,41,19,Sophia,Main Course,Fish & Chips,4,17.99,71.96,3.14,13.76,82.58,Card,Takeaway,4,18.7
+ORD00636,14-12-2025,23:32:44,December,Sunday,CUST1859,New,Female,55,14,Daniel,Main Course,Chicken Biryani,1,14.99,14.99,0.8,2.84,17.03,Google Pay,Dine-in,3,4.56
+ORD00637,02-03-2025,16:56:26,March,Sunday,CUST3826,Returning,Male,47,13,Michael,Main Course,Pasta,4,13.49,53.96,2.45,10.3,61.81,Google Pay,Takeaway,3,17.48
+ORD00638,03-03-2025,08:45:07,March,Monday,CUST9351,New,Male,55,19,Emily,Starters,Spring Rolls,1,6.99,6.99,0.51,1.3,7.78,Apple Pay,Delivery,5,2.27
+ORD00639,18-02-2025,14:37:30,February,Tuesday,CUST5888,New,Male,38,3,Daniel,Main Course,Pasta,4,13.49,53.96,8.09,9.17,55.04,Google Pay,Delivery,3,16.3
+ORD00640,21-07-2025,15:37:35,July,Monday,CUST3033,New,Male,29,20,Daniel,Drinks,Coke,5,2.99,14.95,1.88,2.61,15.68,Cash,Delivery,4,4.32
+ORD00641,10-06-2025,04:51:17,June,Tuesday,CUST2438,Returning,Male,23,4,Michael,Starters,Spring Rolls,2,6.99,13.98,1.21,2.55,15.32,Apple Pay,Delivery,3,4.44
+ORD00642,05-08-2025,20:27:56,August,Tuesday,CUST5807,Returning,Male,54,16,Olivia,Starters,Garlic Bread,3,4.99,14.97,0.1,2.97,17.84,Online,Takeaway,5,5.83
+ORD00643,03-10-2025,18:45:47,October,Friday,CUST5910,New,Male,56,18,Emma,Main Course,Veg Biryani,1,12.99,12.99,0.46,2.51,15.04,Online,Takeaway,4,3.49
+ORD00644,07-03-2025,15:28:29,March,Friday,CUST3675,Returning,Female,23,9,David,Drinks,Coke,5,2.99,14.95,0.57,2.88,17.26,Card,Delivery,3,4.42
+ORD00645,06-02-2025,09:38:12,February,Thursday,CUST9379,New,Female,27,11,David,Desserts,Cheesecake,2,6.99,13.98,1.5,2.5,14.98,Google Pay,Dine-in,5,4.18
+ORD00646,07-05-2025,01:16:58,May,Wednesday,CUST7664,New,Female,58,3,Olivia,Starters,Chicken Wings,1,8.99,8.99,0.72,1.65,9.92,Apple Pay,Takeaway,3,2.92
+ORD00647,26-04-2025,21:45:15,April,Saturday,CUST7203,New,Male,29,17,Michael,Desserts,Ice Cream,1,4.99,4.99,0.28,0.94,5.65,Online,Takeaway,3,1.86
+ORD00648,28-09-2025,20:31:47,September,Sunday,CUST2623,New,Male,38,13,Daniel,Desserts,Cheesecake,5,6.99,34.95,4.54,6.08,36.49,Apple Pay,Delivery,5,10.12
+ORD00649,30-09-2025,23:26:26,September,Tuesday,CUST9414,New,Male,27,13,Michael,Drinks,Fresh Juice,5,4.49,22.45,0.43,4.4,26.42,Cash,Delivery,5,5.54
+ORD00650,09-07-2025,13:36:26,July,Wednesday,CUST8678,Returning,Female,45,17,Emma,Main Course,Pasta,4,13.49,53.96,1.48,10.5,62.98,Apple Pay,Delivery,3,20.88
+ORD00651,06-06-2025,00:47:26,June,Friday,CUST4932,New,Male,54,2,Sophia,Drinks,Tea,1,2.49,2.49,0.24,0.45,2.7,Apple Pay,Delivery,4,0.59
+ORD00652,06-01-2025,18:24:10,January,Monday,CUST9722,New,Female,18,20,Emma,Drinks,Coffee,4,3.99,15.96,1.19,2.95,17.72,Cash,Delivery,4,5.21
+ORD00653,26-12-2025,05:17:02,December,Friday,CUST8350,New,Male,29,3,Olivia,Desserts,Ice Cream,5,4.99,24.95,2.56,4.48,26.87,Card,Delivery,4,5.74
+ORD00654,27-01-2025,12:27:27,January,Monday,CUST6537,New,Male,36,10,Emily,Drinks,Fresh Juice,4,4.49,17.96,0.46,3.5,21,Apple Pay,Takeaway,3,6.92
+ORD00655,02-01-2025,06:53:11,January,Thursday,CUST9446,New,Female,57,16,James,Drinks,Coffee,3,3.99,11.97,1.67,2.06,12.36,Apple Pay,Dine-in,5,4.06
+ORD00656,24-08-2025,02:37:17,August,Sunday,CUST4050,Returning,Female,18,4,David,Desserts,Brownie,3,5.99,17.97,0.29,3.54,21.22,Google Pay,Dine-in,3,5.35
+ORD00657,28-09-2025,18:30:32,September,Sunday,CUST5098,New,Female,43,12,Michael,Main Course,Pasta,1,13.49,13.49,1.85,2.33,13.97,Apple Pay,Takeaway,3,2.92
+ORD00658,02-10-2025,14:17:13,October,Thursday,CUST3291,Returning,Female,18,12,Emma,Desserts,Ice Cream,4,4.99,19.96,1.96,3.6,21.6,Cash,Dine-in,4,5.69
+ORD00659,21-01-2025,17:35:24,January,Tuesday,CUST3626,New,Female,60,9,Sophia,Main Course,Pasta,4,13.49,53.96,6.02,9.59,57.53,Google Pay,Takeaway,5,18.46
+ORD00660,11-09-2025,02:03:50,September,Thursday,CUST7370,New,Male,24,1,Daniel,Main Course,Burger,4,11.99,47.96,3.61,8.87,53.22,Card,Takeaway,5,17.23
+ORD00661,07-01-2025,12:19:07,January,Tuesday,CUST1131,Returning,Female,36,10,Emily,Main Course,Chicken Biryani,3,14.99,44.97,2.9,8.41,50.48,Cash,Takeaway,3,14.29
+ORD00662,13-11-2025,16:15:19,November,Thursday,CUST5317,New,Female,30,16,Sophia,Main Course,Butter Chicken,2,15.99,31.98,1.35,6.13,36.76,Online,Delivery,3,8.19
+ORD00663,07-04-2025,07:16:34,April,Monday,CUST4148,New,Female,19,20,Emma,Main Course,Paneer Butter Masala,1,13.99,13.99,0.28,2.74,16.45,Cash,Dine-in,4,3.51
+ORD00664,28-07-2025,19:07:30,July,Monday,CUST2005,Returning,Male,37,4,Michael,Desserts,Cheesecake,2,6.99,13.98,0.47,2.7,16.21,Apple Pay,Takeaway,4,4.24
+ORD00665,31-12-2025,06:34:23,December,Wednesday,CUST1008,New,Female,31,10,Emily,Drinks,Coffee,3,3.99,11.97,1.61,2.07,12.43,Apple Pay,Delivery,3,2.87
+ORD00666,09-08-2025,17:38:45,August,Saturday,CUST2587,New,Male,39,12,Olivia,Main Course,Pizza,4,16.99,67.96,3.71,12.85,77.1,Online,Delivery,5,19
+ORD00667,10-07-2025,17:45:38,July,Thursday,CUST2742,New,Male,20,19,Emma,Main Course,Pizza,2,16.99,33.98,2.98,6.2,37.2,Card,Delivery,4,8.16
+ORD00668,20-02-2025,18:19:05,February,Thursday,CUST4309,New,Male,26,7,David,Starters,Chicken Wings,3,8.99,26.97,2.93,4.81,28.85,Online,Delivery,4,9.58
+ORD00669,14-10-2025,12:40:19,October,Tuesday,CUST8145,New,Female,44,17,James,Desserts,Brownie,4,5.99,23.96,2.26,4.34,26.04,Card,Delivery,4,5.81
+ORD00670,23-12-2025,11:42:42,December,Tuesday,CUST4116,Returning,Female,61,18,Sophia,Main Course,Pizza,1,16.99,16.99,2.44,2.91,17.46,Card,Takeaway,5,3.77
+ORD00671,16-07-2025,23:44:54,July,Wednesday,CUST3621,New,Male,50,15,Michael,Drinks,Fresh Juice,5,4.49,22.45,0.91,4.31,25.85,Apple Pay,Dine-in,4,5.98
+ORD00672,29-12-2025,01:31:56,December,Monday,CUST4902,Returning,Male,58,5,Michael,Desserts,Cheesecake,1,6.99,6.99,0.18,1.36,8.17,Card,Takeaway,3,1.75
+ORD00673,25-11-2025,01:23:17,November,Tuesday,CUST7047,Returning,Male,63,18,Michael,Main Course,Paneer Butter Masala,5,13.99,69.95,1.22,13.75,82.48,Card,Takeaway,5,23.87
+ORD00674,31-05-2025,04:33:40,May,Saturday,CUST5582,New,Female,19,18,Sophia,Desserts,Ice Cream,1,4.99,4.99,0.62,0.87,5.24,Google Pay,Delivery,4,1.24
+ORD00675,17-11-2025,07:36:41,November,Monday,CUST7479,New,Female,32,14,Olivia,Main Course,Fish & Chips,2,17.99,35.98,1.75,6.85,41.08,Card,Takeaway,3,9.6
+ORD00676,11-09-2025,17:44:57,September,Thursday,CUST9036,New,Female,19,10,Daniel,Main Course,Fish & Chips,2,17.99,35.98,4.4,6.32,37.9,Card,Takeaway,5,8.73
+ORD00677,08-11-2025,03:32:14,November,Saturday,CUST7594,New,Male,64,1,Sophia,Main Course,Veg Biryani,2,12.99,25.98,0.28,5.14,30.84,Google Pay,Takeaway,3,7.37
+ORD00678,26-02-2025,03:39:02,February,Wednesday,CUST3336,New,Male,24,18,Olivia,Starters,Spring Rolls,2,6.99,13.98,0.52,2.69,16.15,Cash,Dine-in,3,3.53
+ORD00679,03-09-2025,04:03:36,September,Wednesday,CUST1915,Returning,Male,19,2,Sophia,Drinks,Coffee,3,3.99,11.97,0.6,2.27,13.64,Online,Takeaway,3,3.11
+ORD00680,19-09-2025,00:17:19,September,Friday,CUST7998,Returning,Male,40,10,Emma,Drinks,Coffee,1,3.99,3.99,0.55,0.69,4.13,Google Pay,Delivery,5,0.87
+ORD00681,27-02-2025,06:16:11,February,Thursday,CUST5617,Returning,Male,57,11,Sophia,Drinks,Coffee,1,3.99,3.99,0.13,0.77,4.63,Apple Pay,Dine-in,3,1.52
+ORD00682,06-11-2025,22:01:37,November,Thursday,CUST7967,New,Female,57,10,Olivia,Main Course,Butter Chicken,4,15.99,63.96,5.09,11.77,70.64,Cash,Takeaway,4,20.01
+ORD00683,05-12-2025,15:29:38,December,Friday,CUST3435,New,Female,27,13,Emily,Desserts,Brownie,1,5.99,5.99,0.71,1.06,6.34,Google Pay,Dine-in,3,2
+ORD00684,23-10-2025,05:20:10,October,Thursday,CUST3979,Returning,Female,38,16,David,Drinks,Tea,2,2.49,4.98,0.07,0.98,5.89,Google Pay,Delivery,4,1.96
+ORD00685,05-11-2025,10:26:33,November,Wednesday,CUST9826,Returning,Male,42,3,David,Desserts,Ice Cream,2,4.99,9.98,0.57,1.88,11.29,Online,Delivery,5,3.13
+ORD00686,23-04-2025,05:53:05,April,Wednesday,CUST1281,Returning,Female,26,4,James,Starters,Garlic Bread,3,4.99,14.97,0.01,2.99,17.95,Apple Pay,Takeaway,3,5.97
+ORD00687,31-05-2025,11:38:20,May,Saturday,CUST4973,New,Male,21,5,Sophia,Drinks,Coffee,5,3.99,19.95,2.91,3.41,20.45,Card,Takeaway,5,6.59
+ORD00688,14-01-2025,15:58:41,January,Tuesday,CUST2208,Returning,Male,19,5,Olivia,Drinks,Tea,1,2.49,2.49,0.26,0.45,2.68,Card,Dine-in,3,0.78
+ORD00689,09-02-2025,05:51:01,February,Sunday,CUST3295,Returning,Female,44,11,Emily,Starters,Soup,2,5.99,11.98,1.38,2.12,12.72,Cash,Takeaway,3,3.4
+ORD00690,21-03-2025,05:38:33,March,Friday,CUST1178,Returning,Female,61,15,Michael,Starters,Spring Rolls,5,6.99,34.95,3.94,6.2,37.21,Online,Delivery,4,10.09
+ORD00691,30-12-2025,17:13:01,December,Tuesday,CUST7185,New,Male,43,20,James,Main Course,Pasta,2,13.49,26.98,1.1,5.18,31.06,Card,Takeaway,3,6.83
+ORD00692,14-10-2025,00:27:47,October,Tuesday,CUST7233,New,Male,41,14,Emma,Starters,Soup,4,5.99,23.96,1.13,4.57,27.4,Apple Pay,Dine-in,3,7.91
+ORD00693,09-02-2025,05:39:03,February,Sunday,CUST9873,New,Male,31,20,James,Desserts,Cheesecake,3,6.99,20.97,0.09,4.18,25.06,Apple Pay,Dine-in,5,6.1
+ORD00694,14-04-2025,01:15:00,April,Monday,CUST1735,Returning,Male,21,11,Sophia,Starters,Garlic Bread,3,4.99,14.97,0.19,2.96,17.74,Apple Pay,Dine-in,4,4.96
+ORD00695,25-05-2025,03:15:42,May,Sunday,CUST3122,New,Female,44,17,Sophia,Drinks,Coffee,3,3.99,11.97,1.35,2.12,12.74,Online,Dine-in,3,3.81
+ORD00696,28-10-2025,18:43:26,October,Tuesday,CUST3641,New,Female,23,3,Emma,Drinks,Fresh Juice,5,4.49,22.45,2.93,3.9,23.42,Card,Delivery,5,4.99
+ORD00697,14-03-2025,00:15:34,March,Friday,CUST6903,Returning,Male,63,13,Emma,Main Course,Burger,4,11.99,47.96,5.65,8.46,50.77,Card,Delivery,5,12.73
+ORD00698,08-02-2025,21:50:00,February,Saturday,CUST6071,New,Female,24,15,Olivia,Main Course,Fish & Chips,1,17.99,17.99,2.17,3.16,18.98,Card,Takeaway,3,4.29
+ORD00699,04-02-2025,13:34:19,February,Tuesday,CUST8548,Returning,Female,34,15,Daniel,Desserts,Cheesecake,3,6.99,20.97,1.11,3.97,23.83,Cash,Delivery,4,5.18
+ORD00700,21-01-2025,06:47:31,January,Tuesday,CUST3113,Returning,Female,50,20,Olivia,Desserts,Brownie,4,5.99,23.96,1.47,4.5,26.99,Apple Pay,Dine-in,5,7.71
+ORD00701,31-07-2025,20:19:57,July,Thursday,CUST5011,New,Male,24,10,David,Drinks,Tea,1,2.49,2.49,0.23,0.45,2.71,Card,Delivery,4,0.78
+ORD00702,07-02-2025,15:03:38,February,Friday,CUST8675,Returning,Male,23,6,Sophia,Main Course,Pasta,4,13.49,53.96,5.42,9.71,58.25,Google Pay,Takeaway,3,14.68
+ORD00703,25-07-2025,04:22:31,July,Friday,CUST4483,Returning,Male,35,15,James,Desserts,Ice Cream,3,4.99,14.97,0.77,2.84,17.04,Online,Dine-in,4,4.84
+ORD00704,16-03-2025,14:05:32,March,Sunday,CUST7230,New,Female,45,16,Emma,Main Course,Burger,5,11.99,59.95,0.28,11.93,71.6,Cash,Dine-in,3,20.3
+ORD00705,17-12-2025,11:36:41,December,Wednesday,CUST2134,Returning,Female,23,10,Emily,Drinks,Tea,3,2.49,7.47,0.71,1.35,8.11,Google Pay,Delivery,3,1.77
+ORD00706,09-12-2025,20:38:05,December,Tuesday,CUST6603,Returning,Male,30,12,David,Desserts,Ice Cream,1,4.99,4.99,0.07,0.98,5.9,Google Pay,Takeaway,5,1.9
+ORD00707,19-12-2025,15:50:55,December,Friday,CUST1162,New,Male,64,19,Daniel,Main Course,Pasta,3,13.49,40.47,5.54,6.99,41.92,Apple Pay,Delivery,5,11.72
+ORD00708,12-06-2025,23:30:16,June,Thursday,CUST6184,New,Female,34,17,James,Starters,Garlic Bread,4,4.99,19.96,2.8,3.43,20.59,Google Pay,Dine-in,5,5.58
+ORD00709,19-08-2025,11:55:46,August,Tuesday,CUST9947,New,Female,31,12,Emma,Starters,Spring Rolls,2,6.99,13.98,1.56,2.48,14.9,Card,Delivery,5,3.45
+ORD00710,08-01-2025,05:36:27,January,Wednesday,CUST3043,Returning,Female,44,14,Olivia,Desserts,Brownie,1,5.99,5.99,0.27,1.14,6.86,Apple Pay,Delivery,4,1.69
+ORD00711,25-09-2025,22:30:40,September,Thursday,CUST3664,Returning,Female,36,14,Michael,Desserts,Ice Cream,2,4.99,9.98,0.69,1.86,11.15,Online,Dine-in,3,2.84
+ORD00712,23-02-2025,03:28:29,February,Sunday,CUST9924,New,Female,50,19,James,Starters,Spring Rolls,5,6.99,34.95,4.89,6.01,36.07,Apple Pay,Takeaway,3,7.98
+ORD00713,25-04-2025,03:12:56,April,Friday,CUST3038,Returning,Female,44,13,James,Drinks,Fresh Juice,1,4.49,4.49,0.13,0.87,5.23,Apple Pay,Dine-in,5,1.4
+ORD00714,26-05-2025,10:45:25,May,Monday,CUST7794,New,Male,44,2,James,Desserts,Cheesecake,3,6.99,20.97,0.97,4,24,Cash,Dine-in,4,7.71
+ORD00715,23-09-2025,12:48:38,September,Tuesday,CUST4962,Returning,Male,57,13,James,Desserts,Brownie,2,5.99,11.98,1.72,2.05,12.31,Online,Takeaway,3,4.09
+ORD00716,22-11-2025,14:43:26,November,Saturday,CUST8166,New,Male,63,5,Sophia,Drinks,Coffee,4,3.99,15.96,2.16,2.76,16.56,Online,Takeaway,5,4.52
+ORD00717,14-05-2025,08:32:11,May,Wednesday,CUST1189,New,Male,57,18,Sophia,Main Course,Burger,2,11.99,23.98,0.34,4.73,28.37,Online,Takeaway,3,6
+ORD00718,08-03-2025,19:26:22,March,Saturday,CUST5864,New,Male,64,13,Michael,Drinks,Tea,2,2.49,4.98,0.18,0.96,5.76,Cash,Takeaway,3,1.85
+ORD00719,15-03-2025,09:05:35,March,Saturday,CUST2754,New,Female,34,6,Sophia,Starters,Spring Rolls,1,6.99,6.99,0.48,1.3,7.81,Cash,Takeaway,4,2.21
+ORD00720,17-04-2025,18:54:58,April,Thursday,CUST8971,New,Male,61,14,David,Drinks,Coke,4,2.99,11.96,1.43,2.11,12.64,Apple Pay,Delivery,4,3.29
+ORD00721,24-03-2025,17:32:23,March,Monday,CUST1515,New,Female,40,16,James,Main Course,Pizza,1,16.99,16.99,2.3,2.94,17.63,Card,Delivery,5,5.13
+ORD00722,11-05-2025,10:38:25,May,Sunday,CUST9384,New,Male,41,4,Emma,Starters,Garlic Bread,5,4.99,24.95,0.11,4.97,29.81,Cash,Takeaway,3,6.3
+ORD00723,23-04-2025,19:46:30,April,Wednesday,CUST2506,Returning,Female,47,16,David,Starters,Garlic Bread,3,4.99,14.97,0.61,2.87,17.23,Online,Takeaway,3,4.02
+ORD00724,09-05-2025,09:46:39,May,Friday,CUST6105,New,Male,64,16,David,Main Course,Paneer Butter Masala,3,13.99,41.97,6.06,7.18,43.09,Google Pay,Takeaway,5,9.53
+ORD00725,20-05-2025,03:28:29,May,Tuesday,CUST6782,Returning,Male,46,6,James,Desserts,Cheesecake,1,6.99,6.99,0.64,1.27,7.62,Online,Takeaway,5,2
+ORD00726,29-07-2025,09:10:43,July,Tuesday,CUST3947,Returning,Female,29,12,Emma,Desserts,Cheesecake,5,6.99,34.95,1.85,6.62,39.72,Cash,Dine-in,5,8.42
+ORD00727,10-07-2025,10:26:20,July,Thursday,CUST1178,Returning,Male,47,19,Olivia,Desserts,Ice Cream,3,4.99,14.97,0.27,2.94,17.64,Card,Delivery,3,4.38
+ORD00728,17-07-2025,21:54:07,July,Thursday,CUST5555,New,Female,61,14,Olivia,Desserts,Cheesecake,2,6.99,13.98,1.11,2.57,15.44,Apple Pay,Dine-in,3,3.42
+ORD00729,26-01-2025,11:17:24,January,Sunday,CUST3033,Returning,Male,56,11,David,Drinks,Fresh Juice,1,4.49,4.49,0.67,0.76,4.58,Card,Delivery,3,1.2
+ORD00730,26-05-2025,08:41:51,May,Monday,CUST7599,New,Male,39,1,Sophia,Starters,Spring Rolls,4,6.99,27.96,1.19,5.35,32.12,Google Pay,Dine-in,4,10.07
+ORD00731,04-06-2025,23:00:43,June,Wednesday,CUST6131,Returning,Male,43,10,Emily,Desserts,Brownie,3,5.99,17.97,1.08,3.38,20.27,Google Pay,Delivery,3,5.63
+ORD00732,11-07-2025,23:52:39,July,Friday,CUST2722,Returning,Female,32,6,Sophia,Starters,Spring Rolls,2,6.99,13.98,0.1,2.78,16.66,Card,Delivery,4,3.49
+ORD00733,03-10-2025,16:04:42,October,Friday,CUST1786,Returning,Male,34,11,David,Starters,Spring Rolls,3,6.99,20.97,2.78,3.64,21.83,Apple Pay,Delivery,3,4.67
+ORD00734,12-03-2025,15:00:02,March,Wednesday,CUST7771,Returning,Male,51,17,Emma,Drinks,Coke,2,2.99,5.98,0.29,1.14,6.83,Online,Takeaway,5,1.55
+ORD00735,08-09-2025,23:16:44,September,Monday,CUST5853,New,Female,53,8,Emma,Desserts,Brownie,4,5.99,23.96,0.81,4.63,27.78,Cash,Dine-in,4,6.7
+ORD00736,31-01-2025,14:36:44,January,Friday,CUST8989,New,Female,31,19,Olivia,Main Course,Chicken Biryani,2,14.99,29.98,2.11,5.57,33.44,Apple Pay,Delivery,4,8.58
+ORD00737,02-12-2025,15:08:54,December,Tuesday,CUST8412,New,Female,30,3,Michael,Main Course,Veg Biryani,2,12.99,25.98,0.85,5.03,30.16,Google Pay,Dine-in,5,7.65
+ORD00738,07-06-2025,17:34:54,June,Saturday,CUST4941,New,Female,29,9,James,Starters,Garlic Bread,4,4.99,19.96,2.62,3.47,20.81,Google Pay,Delivery,5,6.27
+ORD00739,20-08-2025,04:52:22,August,Wednesday,CUST8069,New,Male,43,17,David,Desserts,Brownie,1,5.99,5.99,0.83,1.03,6.19,Online,Takeaway,3,1.36
+ORD00740,14-08-2025,10:27:41,August,Thursday,CUST7923,New,Female,30,13,Daniel,Desserts,Brownie,1,5.99,5.99,0.04,1.19,7.14,Online,Takeaway,5,1.83
+ORD00741,08-11-2025,02:38:22,November,Saturday,CUST2819,New,Male,21,2,Michael,Drinks,Fresh Juice,1,4.49,4.49,0.46,0.81,4.84,Card,Dine-in,5,1.4
+ORD00742,21-02-2025,20:11:25,February,Friday,CUST7437,New,Male,64,9,Emily,Desserts,Ice Cream,5,4.99,24.95,2.62,4.47,26.8,Card,Dine-in,3,6.94
+ORD00743,27-06-2025,23:52:24,June,Friday,CUST4032,Returning,Female,62,8,Daniel,Desserts,Cheesecake,5,6.99,34.95,1.51,6.69,40.13,Apple Pay,Delivery,3,8.38
+ORD00744,27-03-2025,12:28:09,March,Thursday,CUST8775,Returning,Female,19,6,Michael,Main Course,Burger,4,11.99,47.96,1.02,9.39,56.33,Cash,Dine-in,5,11.82
+ORD00745,05-01-2025,11:16:15,January,Sunday,CUST8742,New,Male,19,19,Michael,Desserts,Brownie,5,5.99,29.95,0,5.99,35.94,Card,Delivery,5,11.41
+ORD00746,27-03-2025,17:42:45,March,Thursday,CUST8415,Returning,Female,52,9,Emily,Main Course,Veg Biryani,1,12.99,12.99,0.59,2.48,14.88,Apple Pay,Takeaway,4,4.47
+ORD00747,07-01-2025,07:25:23,January,Tuesday,CUST8935,New,Female,61,17,James,Desserts,Brownie,3,5.99,17.97,2.4,3.11,18.68,Card,Takeaway,3,5.7
+ORD00748,04-12-2025,03:42:08,December,Thursday,CUST8056,Returning,Male,65,3,Emma,Main Course,Burger,4,11.99,47.96,0.22,9.55,57.29,Google Pay,Delivery,3,16.07
+ORD00749,21-05-2025,13:59:17,May,Wednesday,CUST6426,Returning,Female,35,10,Emma,Drinks,Coffee,3,3.99,11.97,1.63,2.07,12.41,Cash,Delivery,5,3.13
+ORD00750,26-12-2025,04:30:57,December,Friday,CUST6685,Returning,Male,18,16,Daniel,Desserts,Cheesecake,1,6.99,6.99,0.45,1.31,7.85,Google Pay,Delivery,3,2.08
+ORD00751,25-09-2025,07:48:36,September,Thursday,CUST5722,New,Female,18,15,James,Desserts,Cheesecake,5,6.99,34.95,3.48,6.29,37.76,Card,Takeaway,5,9.3
+ORD00752,05-03-2025,06:28:06,March,Wednesday,CUST1010,New,Female,26,12,Michael,Starters,Soup,3,5.99,17.97,0.01,3.59,21.55,Online,Delivery,5,5.44
+ORD00753,21-03-2025,13:00:14,March,Friday,CUST2322,Returning,Male,20,16,Olivia,Starters,Chicken Wings,2,8.99,17.98,2.69,3.06,18.35,Card,Delivery,5,4.27
+ORD00754,17-07-2025,10:27:51,July,Thursday,CUST6091,New,Female,61,11,Daniel,Drinks,Fresh Juice,1,4.49,4.49,0.6,0.78,4.67,Card,Takeaway,3,1.51
+ORD00755,02-08-2025,14:06:04,August,Saturday,CUST8555,New,Female,45,4,Daniel,Main Course,Pizza,3,16.99,50.97,0.65,10.06,60.38,Online,Takeaway,5,16.86
+ORD00756,10-06-2025,16:46:34,June,Tuesday,CUST7721,Returning,Male,53,1,David,Desserts,Brownie,3,5.99,17.97,1.15,3.36,20.18,Cash,Dine-in,5,5.27
+ORD00757,04-06-2025,23:52:41,June,Wednesday,CUST5806,New,Female,26,13,James,Main Course,Burger,2,11.99,23.98,2.23,4.35,26.1,Google Pay,Delivery,4,8.37
+ORD00758,28-01-2025,08:23:52,January,Tuesday,CUST6463,New,Female,54,16,Olivia,Starters,Spring Rolls,3,6.99,20.97,2.61,3.67,22.03,Cash,Dine-in,5,6.38
+ORD00759,27-10-2025,22:43:00,October,Monday,CUST9115,New,Male,61,5,Michael,Starters,Garlic Bread,5,4.99,24.95,0.54,4.88,29.29,Apple Pay,Delivery,3,8.81
+ORD00760,06-09-2025,21:00:40,September,Saturday,CUST2983,New,Male,31,4,Emily,Main Course,Veg Biryani,1,12.99,12.99,0,2.6,15.59,Cash,Delivery,4,4.42
+ORD00761,20-07-2025,23:26:27,July,Sunday,CUST4849,Returning,Female,60,20,Sophia,Starters,Spring Rolls,3,6.99,20.97,1.27,3.94,23.64,Google Pay,Dine-in,5,7.83
+ORD00762,12-01-2025,09:35:07,January,Sunday,CUST9956,New,Female,48,10,Michael,Main Course,Butter Chicken,2,15.99,31.98,0.82,6.23,37.39,Cash,Delivery,4,11.26
+ORD00763,08-07-2025,19:40:08,July,Tuesday,CUST7830,Returning,Male,19,10,Emily,Desserts,Brownie,4,5.99,23.96,2.51,4.29,25.74,Cash,Delivery,4,5.71
+ORD00764,06-01-2025,16:24:15,January,Monday,CUST6811,New,Female,64,15,Michael,Desserts,Ice Cream,5,4.99,24.95,1.66,4.66,27.95,Cash,Dine-in,4,8.99
+ORD00765,14-09-2025,22:52:49,September,Sunday,CUST3480,Returning,Female,47,5,Michael,Main Course,Burger,5,11.99,59.95,3.51,11.29,67.73,Apple Pay,Takeaway,3,14.64
+ORD00766,27-11-2025,04:19:55,November,Thursday,CUST9306,Returning,Male,62,11,Olivia,Drinks,Fresh Juice,4,4.49,17.96,1.63,3.27,19.6,Online,Delivery,4,4.52
+ORD00767,04-02-2025,20:58:49,February,Tuesday,CUST9182,Returning,Female,32,8,Sophia,Starters,Spring Rolls,2,6.99,13.98,0.49,2.7,16.19,Card,Delivery,4,4.72
+ORD00768,04-08-2025,12:04:07,August,Monday,CUST2194,Returning,Female,56,1,Daniel,Starters,Spring Rolls,5,6.99,34.95,1.31,6.73,40.37,Apple Pay,Dine-in,5,8.6
+ORD00769,19-08-2025,18:37:22,August,Tuesday,CUST9046,Returning,Female,32,7,Daniel,Drinks,Coffee,5,3.99,19.95,1.67,3.66,21.94,Google Pay,Delivery,3,5.11
+ORD00770,14-02-2025,09:46:22,February,Friday,CUST1085,Returning,Female,54,18,Sophia,Starters,Spring Rolls,2,6.99,13.98,0.07,2.78,16.69,Apple Pay,Dine-in,5,3.77
+ORD00771,25-11-2025,17:12:23,November,Tuesday,CUST6768,Returning,Male,22,15,David,Drinks,Coffee,2,3.99,7.98,0.68,1.46,8.76,Google Pay,Dine-in,5,2.34
+ORD00772,10-02-2025,11:06:32,February,Monday,CUST9856,Returning,Male,32,10,Michael,Main Course,Pizza,1,16.99,16.99,0.3,3.34,20.03,Google Pay,Delivery,4,4.75
+ORD00773,04-02-2025,19:08:34,February,Tuesday,CUST9482,Returning,Female,57,2,Sophia,Main Course,Pizza,1,16.99,16.99,1.36,3.13,18.76,Online,Takeaway,4,4.47
+ORD00774,01-12-2025,13:41:26,December,Monday,CUST1973,New,Male,53,11,James,Starters,Spring Rolls,3,6.99,20.97,1.33,3.93,23.57,Card,Takeaway,3,5.5
+ORD00775,16-10-2025,05:10:43,October,Thursday,CUST2320,Returning,Male,35,2,Sophia,Starters,Chicken Wings,1,8.99,8.99,1.28,1.54,9.25,Cash,Takeaway,5,2.62
+ORD00776,26-04-2025,16:11:41,April,Saturday,CUST4731,New,Male,19,7,David,Desserts,Brownie,4,5.99,23.96,1.09,4.57,27.44,Cash,Delivery,4,8.63
+ORD00777,27-01-2025,08:15:18,January,Monday,CUST3257,New,Female,25,20,Olivia,Drinks,Fresh Juice,2,4.49,8.98,0.58,1.68,10.08,Apple Pay,Dine-in,4,2.64
+ORD00778,12-08-2025,02:37:33,August,Tuesday,CUST7767,New,Male,64,8,James,Starters,Garlic Bread,2,4.99,9.98,0.14,1.97,11.81,Cash,Dine-in,3,2.47
+ORD00779,13-08-2025,22:38:05,August,Wednesday,CUST5001,Returning,Male,56,13,Emily,Main Course,Pizza,1,16.99,16.99,0.8,3.24,19.43,Cash,Delivery,3,5.51
+ORD00780,09-02-2025,00:01:50,February,Sunday,CUST6848,New,Female,63,10,Olivia,Desserts,Cheesecake,2,6.99,13.98,1.04,2.59,15.53,Online,Takeaway,5,4.66
+ORD00781,06-05-2025,21:04:58,May,Tuesday,CUST7731,Returning,Female,23,7,Daniel,Desserts,Brownie,5,5.99,29.95,2.26,5.54,33.23,Online,Dine-in,4,7.15
+ORD00782,11-10-2025,17:59:01,October,Saturday,CUST1587,New,Female,59,15,Sophia,Main Course,Veg Biryani,3,12.99,38.97,4.24,6.95,41.68,Cash,Takeaway,3,12.79
+ORD00783,19-05-2025,17:30:07,May,Monday,CUST1978,Returning,Female,49,1,David,Desserts,Cheesecake,4,6.99,27.96,1.26,5.34,32.04,Google Pay,Takeaway,3,10.54
+ORD00784,25-04-2025,14:28:26,April,Friday,CUST5999,New,Female,19,20,Olivia,Main Course,Pasta,2,13.49,26.98,2.67,4.86,29.17,Apple Pay,Delivery,3,8.02
+ORD00785,15-01-2025,02:37:48,January,Wednesday,CUST1935,New,Female,64,10,Emily,Desserts,Cheesecake,5,6.99,34.95,2.28,6.53,39.2,Google Pay,Delivery,5,10.26
+ORD00786,18-10-2025,11:56:51,October,Saturday,CUST4903,New,Male,35,9,Sophia,Desserts,Ice Cream,4,4.99,19.96,1.4,3.71,22.27,Card,Delivery,4,7.4
+ORD00787,22-06-2025,07:25:39,June,Sunday,CUST5104,New,Male,37,19,Olivia,Drinks,Coke,5,2.99,14.95,0.62,2.87,17.2,Apple Pay,Dine-in,4,4.16
+ORD00788,25-08-2025,13:28:41,August,Monday,CUST8867,New,Female,21,19,Sophia,Starters,Soup,1,5.99,5.99,0.42,1.11,6.68,Apple Pay,Delivery,5,2.2
+ORD00789,10-06-2025,15:41:19,June,Tuesday,CUST5252,Returning,Male,32,6,Daniel,Starters,Soup,2,5.99,11.98,0.46,2.3,13.82,Online,Delivery,3,4.24
+ORD00790,30-04-2025,20:56:27,April,Wednesday,CUST6199,New,Male,21,9,Michael,Starters,Spring Rolls,2,6.99,13.98,1.44,2.51,15.05,Cash,Delivery,4,4.75
+ORD00791,04-10-2025,00:14:22,October,Saturday,CUST2854,New,Male,31,11,Olivia,Starters,Garlic Bread,3,4.99,14.97,0.25,2.94,17.66,Google Pay,Dine-in,5,4.8
+ORD00792,07-08-2025,21:19:36,August,Thursday,CUST6488,Returning,Female,48,10,James,Desserts,Ice Cream,1,4.99,4.99,0.24,0.95,5.7,Card,Takeaway,3,1.75
+ORD00793,29-05-2025,10:12:11,May,Thursday,CUST9368,Returning,Male,42,19,James,Main Course,Chicken Biryani,1,14.99,14.99,1.37,2.72,16.34,Card,Takeaway,5,5.06
+ORD00794,10-02-2025,13:15:13,February,Monday,CUST9982,Returning,Male,51,2,Emily,Starters,Garlic Bread,5,4.99,24.95,1.88,4.61,27.68,Online,Delivery,4,7.76
+ORD00795,12-06-2025,18:47:22,June,Thursday,CUST4982,Returning,Male,47,11,Sophia,Desserts,Ice Cream,5,4.99,24.95,1.1,4.77,28.62,Card,Takeaway,5,6.84
+ORD00796,29-07-2025,10:12:03,July,Tuesday,CUST6935,Returning,Male,46,14,Emma,Desserts,Ice Cream,3,4.99,14.97,1.26,2.74,16.45,Online,Dine-in,5,3.58
+ORD00797,06-05-2025,10:22:02,May,Tuesday,CUST6142,New,Male,44,14,Daniel,Drinks,Coffee,5,3.99,19.95,0.78,3.83,23,Online,Takeaway,5,5.62
+ORD00798,12-04-2025,18:17:01,April,Saturday,CUST8698,New,Male,20,14,James,Main Course,Fish & Chips,1,17.99,17.99,0.45,3.51,21.05,Card,Dine-in,3,5.49
+ORD00799,21-09-2025,04:12:56,September,Sunday,CUST4955,Returning,Male,39,11,Sophia,Drinks,Fresh Juice,3,4.49,13.47,0.26,2.64,15.85,Cash,Dine-in,5,4.68
+ORD00800,01-07-2025,17:20:37,July,Tuesday,CUST8816,New,Male,64,19,Sophia,Drinks,Fresh Juice,4,4.49,17.96,2,3.19,19.15,Card,Dine-in,5,5.03
+ORD00801,31-10-2025,04:01:12,October,Friday,CUST9334,Returning,Male,32,10,Emily,Desserts,Cheesecake,4,6.99,27.96,1.59,5.27,31.64,Apple Pay,Dine-in,5,8.33
+ORD00802,23-09-2025,05:12:36,September,Tuesday,CUST3346,New,Male,45,17,Michael,Drinks,Tea,3,2.49,7.47,0.43,1.41,8.45,Online,Delivery,4,2.56
+ORD00803,20-02-2025,20:10:12,February,Thursday,CUST8191,New,Male,36,9,Sophia,Desserts,Brownie,2,5.99,11.98,0.21,2.35,14.12,Card,Delivery,4,3.43
+ORD00804,14-03-2025,07:01:52,March,Friday,CUST1448,New,Male,18,16,James,Starters,Garlic Bread,5,4.99,24.95,3.14,4.36,26.17,Apple Pay,Dine-in,4,7.92
+ORD00805,20-10-2025,01:43:13,October,Monday,CUST2795,New,Female,45,16,Michael,Drinks,Fresh Juice,5,4.49,22.45,0.42,4.41,26.44,Cash,Dine-in,4,7.01
+ORD00806,09-12-2025,17:21:03,December,Tuesday,CUST2218,Returning,Male,50,11,Michael,Starters,Chicken Wings,1,8.99,8.99,1,1.6,9.59,Google Pay,Delivery,5,2.26
+ORD00807,20-09-2025,16:45:32,September,Saturday,CUST9540,Returning,Male,53,2,James,Starters,Chicken Wings,1,8.99,8.99,0.58,1.68,10.09,Card,Dine-in,5,3.28
+ORD00808,12-07-2025,02:45:34,July,Saturday,CUST4065,Returning,Female,26,7,Sophia,Main Course,Paneer Butter Masala,3,13.99,41.97,2.96,7.8,46.81,Online,Delivery,5,12.59
+ORD00809,20-04-2025,22:28:05,April,Sunday,CUST3918,New,Female,62,9,David,Starters,Soup,1,5.99,5.99,0.44,1.11,6.66,Online,Dine-in,5,1.9
+ORD00810,28-06-2025,11:45:58,June,Saturday,CUST8947,Returning,Female,56,12,Emily,Drinks,Coffee,3,3.99,11.97,1.51,2.09,12.55,Apple Pay,Dine-in,3,3.99
+ORD00811,27-02-2025,22:36:03,February,Thursday,CUST2897,New,Female,38,4,Olivia,Desserts,Brownie,4,5.99,23.96,1.17,4.56,27.35,Google Pay,Delivery,3,7.96
+ORD00812,05-09-2025,00:50:43,September,Friday,CUST4524,Returning,Male,53,11,Michael,Drinks,Fresh Juice,2,4.49,8.98,0.04,1.79,10.73,Apple Pay,Takeaway,4,2.59
+ORD00813,15-08-2025,22:20:29,August,Friday,CUST4587,Returning,Male,37,15,David,Drinks,Fresh Juice,3,4.49,13.47,1.84,2.33,13.96,Card,Delivery,3,3.38
+ORD00814,02-10-2025,14:52:50,October,Thursday,CUST9843,New,Male,42,3,Olivia,Main Course,Veg Biryani,5,12.99,64.95,5.95,11.8,70.8,Apple Pay,Delivery,3,15.89
+ORD00815,02-12-2025,00:12:10,December,Tuesday,CUST9776,Returning,Male,36,6,Olivia,Starters,Garlic Bread,3,4.99,14.97,1.2,2.75,16.52,Apple Pay,Takeaway,3,5.48
+ORD00816,11-10-2025,22:57:01,October,Saturday,CUST9627,New,Female,49,2,Daniel,Main Course,Chicken Biryani,1,14.99,14.99,1.9,2.62,15.71,Apple Pay,Takeaway,3,4.76
+ORD00817,28-04-2025,15:09:42,April,Monday,CUST7190,Returning,Male,65,9,Sophia,Main Course,Chicken Biryani,3,14.99,44.97,5.06,7.98,47.89,Cash,Dine-in,5,14.84
+ORD00818,27-12-2025,07:16:48,December,Saturday,CUST3487,New,Female,30,20,Michael,Drinks,Coke,1,2.99,2.99,0.33,0.53,3.19,Apple Pay,Takeaway,5,0.88
+ORD00819,12-01-2025,13:24:54,January,Sunday,CUST8723,Returning,Female,45,3,Emma,Desserts,Brownie,4,5.99,23.96,0.73,4.65,27.88,Google Pay,Delivery,4,6.73
+ORD00820,05-09-2025,01:24:39,September,Friday,CUST9143,Returning,Female,52,4,Emily,Desserts,Cheesecake,5,6.99,34.95,2.66,6.46,38.75,Card,Delivery,3,9.92
+ORD00821,23-07-2025,10:59:01,July,Wednesday,CUST6089,Returning,Male,58,3,Sophia,Main Course,Fish & Chips,3,17.99,53.97,3.86,10.02,60.13,Online,Dine-in,3,13.35
+ORD00822,08-09-2025,22:02:59,September,Monday,CUST9575,New,Male,49,9,David,Main Course,Veg Biryani,2,12.99,25.98,1.57,4.88,29.29,Apple Pay,Delivery,4,9.17
+ORD00823,19-03-2025,08:10:03,March,Wednesday,CUST5393,New,Female,52,16,Olivia,Starters,Chicken Wings,5,8.99,44.95,4.04,8.18,49.09,Card,Takeaway,4,15.58
+ORD00824,29-12-2025,06:25:56,December,Monday,CUST3085,New,Male,51,4,Daniel,Drinks,Coke,1,2.99,2.99,0.19,0.56,3.36,Card,Takeaway,3,0.73
+ORD00825,20-01-2025,01:10:07,January,Monday,CUST3291,Returning,Female,18,10,Sophia,Drinks,Fresh Juice,2,4.49,8.98,0.84,1.63,9.77,Google Pay,Takeaway,5,2.68
+ORD00826,13-12-2025,00:59:02,December,Saturday,CUST3718,New,Female,51,7,Olivia,Desserts,Cheesecake,3,6.99,20.97,1.93,3.81,22.85,Online,Delivery,4,5.82
+ORD00827,30-08-2025,21:21:24,August,Saturday,CUST3217,New,Female,18,11,David,Drinks,Coffee,3,3.99,11.97,1.66,2.06,12.37,Card,Dine-in,4,3.69
+ORD00828,04-02-2025,15:07:02,February,Tuesday,CUST8513,Returning,Male,21,20,Emily,Starters,Chicken Wings,2,8.99,17.98,0.54,3.49,20.93,Online,Dine-in,3,4.61
+ORD00829,29-06-2025,17:42:20,June,Sunday,CUST7982,Returning,Female,57,13,Michael,Main Course,Burger,1,11.99,11.99,1.67,2.06,12.38,Online,Delivery,5,3.01
+ORD00830,04-12-2025,09:44:35,December,Thursday,CUST5587,New,Female,54,4,Daniel,Main Course,Veg Biryani,5,12.99,64.95,1.48,12.69,76.16,Online,Delivery,5,22.82
+ORD00831,16-07-2025,02:36:03,July,Wednesday,CUST8756,New,Male,18,8,Emma,Desserts,Cheesecake,5,6.99,34.95,3.17,6.36,38.14,Cash,Delivery,3,12.55
+ORD00832,15-03-2025,13:17:31,March,Saturday,CUST1855,New,Female,45,16,Olivia,Main Course,Fish & Chips,1,17.99,17.99,0.87,3.42,20.54,Apple Pay,Delivery,3,6.58
+ORD00833,04-05-2025,05:10:37,May,Sunday,CUST9552,Returning,Male,56,7,Daniel,Drinks,Fresh Juice,4,4.49,17.96,1.9,3.21,19.27,Apple Pay,Delivery,3,4.87
+ORD00834,12-08-2025,23:09:30,August,Tuesday,CUST8133,Returning,Male,19,12,Emily,Drinks,Fresh Juice,3,4.49,13.47,1.38,2.42,14.51,Apple Pay,Delivery,4,4.03
+ORD00835,20-04-2025,13:46:55,April,Sunday,CUST1174,New,Female,41,17,Emma,Main Course,Pasta,3,13.49,40.47,1.09,7.88,47.26,Cash,Delivery,4,14.26
+ORD00836,18-06-2025,13:45:29,June,Wednesday,CUST5473,New,Female,59,16,David,Starters,Chicken Wings,3,8.99,26.97,2.03,4.99,29.93,Cash,Delivery,5,6.28
+ORD00837,10-05-2025,05:37:14,May,Saturday,CUST8713,Returning,Female,29,16,Sophia,Desserts,Cheesecake,1,6.99,6.99,1.02,1.19,7.16,Cash,Takeaway,3,2.23
+ORD00838,10-11-2025,05:35:41,November,Monday,CUST2956,New,Female,58,2,Olivia,Main Course,Butter Chicken,2,15.99,31.98,0.4,6.32,37.9,Cash,Delivery,4,11.85
+ORD00839,10-04-2025,03:37:08,April,Thursday,CUST7000,New,Female,44,2,Sophia,Starters,Chicken Wings,3,8.99,26.97,3.63,4.67,28.01,Card,Delivery,3,6.43
+ORD00840,17-05-2025,16:56:38,May,Saturday,CUST9281,Returning,Male,58,1,Michael,Starters,Garlic Bread,4,4.99,19.96,0.13,3.97,23.8,Apple Pay,Delivery,4,6.77
+ORD00841,02-03-2025,21:14:17,March,Sunday,CUST8585,New,Male,23,6,Sophia,Desserts,Brownie,5,5.99,29.95,3.76,5.24,31.43,Card,Takeaway,5,6.89
+ORD00842,17-11-2025,10:48:21,November,Monday,CUST2331,New,Female,61,7,Daniel,Starters,Garlic Bread,1,4.99,4.99,0.16,0.97,5.8,Apple Pay,Dine-in,4,1.48
+ORD00843,28-12-2025,08:12:11,December,Sunday,CUST4702,New,Female,30,6,Michael,Desserts,Ice Cream,3,4.99,14.97,0.32,2.93,17.58,Apple Pay,Delivery,4,4.36
+ORD00844,16-05-2025,17:51:49,May,Friday,CUST9569,Returning,Male,20,19,David,Starters,Soup,3,5.99,17.97,1.56,3.28,19.69,Card,Delivery,5,4.96
+ORD00845,18-04-2025,06:10:17,April,Friday,CUST9253,Returning,Male,50,7,Michael,Drinks,Tea,3,2.49,7.47,0.23,1.45,8.69,Card,Takeaway,4,2.57
+ORD00846,17-01-2025,17:53:06,January,Friday,CUST7099,Returning,Male,38,4,Olivia,Starters,Garlic Bread,4,4.99,19.96,0.42,3.91,23.45,Cash,Dine-in,4,6.6
+ORD00847,01-09-2025,20:43:29,September,Monday,CUST3666,Returning,Male,19,15,Emily,Desserts,Brownie,1,5.99,5.99,0.17,1.16,6.98,Online,Delivery,5,1.77
+ORD00848,11-08-2025,16:45:42,August,Monday,CUST6535,Returning,Female,37,2,Emma,Drinks,Fresh Juice,2,4.49,8.98,0.34,1.73,10.37,Online,Dine-in,4,2.64
+ORD00849,07-08-2025,15:30:26,August,Thursday,CUST3726,Returning,Male,54,5,Daniel,Desserts,Cheesecake,4,6.99,27.96,2.49,5.09,30.56,Apple Pay,Dine-in,3,6.99
+ORD00850,08-06-2025,11:38:05,June,Sunday,CUST3416,New,Male,37,10,Sophia,Main Course,Burger,4,11.99,47.96,2.85,9.02,54.13,Card,Dine-in,3,14.39
+ORD00851,12-08-2025,07:37:49,August,Tuesday,CUST7131,New,Female,28,12,Sophia,Starters,Garlic Bread,2,4.99,9.98,1.03,1.79,10.74,Google Pay,Delivery,5,3.37
+ORD00852,21-07-2025,09:30:55,July,Monday,CUST2569,Returning,Male,38,5,David,Main Course,Fish & Chips,4,17.99,71.96,8.97,12.6,75.59,Apple Pay,Takeaway,5,22.42
+ORD00853,06-08-2025,15:17:45,August,Wednesday,CUST1440,New,Male,33,12,Olivia,Drinks,Coke,3,2.99,8.97,0.66,1.66,9.97,Apple Pay,Delivery,3,3
+ORD00854,09-11-2025,19:29:04,November,Sunday,CUST4460,Returning,Female,23,11,David,Drinks,Coke,2,2.99,5.98,0.12,1.17,7.03,Card,Takeaway,3,1.63
+ORD00855,26-05-2025,05:21:27,May,Monday,CUST7909,New,Male,43,17,Sophia,Desserts,Brownie,4,5.99,23.96,0.13,4.77,28.6,Google Pay,Dine-in,4,9.38
+ORD00856,18-12-2025,18:06:27,December,Thursday,CUST9306,Returning,Female,18,16,David,Starters,Soup,1,5.99,5.99,0.14,1.17,7.02,Google Pay,Dine-in,4,1.58
+ORD00857,06-08-2025,11:46:28,August,Wednesday,CUST8377,Returning,Female,63,11,Olivia,Desserts,Cheesecake,1,6.99,6.99,0.63,1.27,7.63,Cash,Dine-in,4,2.36
+ORD00858,30-09-2025,21:30:41,September,Tuesday,CUST5224,New,Female,45,2,Emily,Drinks,Coke,2,2.99,5.98,0.01,1.19,7.16,Apple Pay,Dine-in,3,2.34
+ORD00859,08-09-2025,11:00:04,September,Monday,CUST5134,Returning,Female,61,10,James,Drinks,Tea,1,2.49,2.49,0.33,0.43,2.59,Online,Takeaway,3,0.76
+ORD00860,31-05-2025,14:25:46,May,Saturday,CUST1583,New,Female,64,2,David,Desserts,Brownie,1,5.99,5.99,0.4,1.12,6.71,Card,Dine-in,3,1.65
+ORD00861,01-10-2025,17:02:39,October,Wednesday,CUST5500,Returning,Female,62,20,Emma,Starters,Garlic Bread,2,4.99,9.98,0.95,1.81,10.84,Online,Delivery,4,2.84
+ORD00862,21-01-2025,16:52:45,January,Tuesday,CUST2656,Returning,Male,39,10,David,Starters,Chicken Wings,3,8.99,26.97,0.15,5.36,32.18,Google Pay,Dine-in,3,9.16
+ORD00863,12-05-2025,22:44:07,May,Monday,CUST5967,New,Male,41,19,Emily,Starters,Soup,1,5.99,5.99,0.71,1.06,6.34,Card,Takeaway,4,1.77
+ORD00864,19-12-2025,18:53:07,December,Friday,CUST3969,Returning,Female,18,14,Emma,Main Course,Pizza,5,16.99,84.95,8.56,15.28,91.67,Cash,Takeaway,5,26.03
+ORD00865,08-03-2025,19:25:39,March,Saturday,CUST6212,New,Male,32,1,Olivia,Desserts,Brownie,4,5.99,23.96,2.15,4.36,26.17,Card,Dine-in,5,8.65
+ORD00866,28-05-2025,09:01:22,May,Wednesday,CUST1205,Returning,Female,38,12,Emily,Drinks,Fresh Juice,5,4.49,22.45,1.11,4.27,25.61,Card,Takeaway,5,6.58
+ORD00867,13-09-2025,12:29:00,September,Saturday,CUST2287,Returning,Female,23,7,Olivia,Main Course,Butter Chicken,4,15.99,63.96,2.45,12.3,73.81,Apple Pay,Takeaway,4,15.68
+ORD00868,20-08-2025,22:56:15,August,Wednesday,CUST6761,Returning,Female,19,10,Emily,Drinks,Coke,2,2.99,5.98,0.56,1.08,6.5,Card,Takeaway,5,1.49
+ORD00869,09-03-2025,20:10:37,March,Sunday,CUST2812,Returning,Male,28,13,David,Drinks,Coke,1,2.99,2.99,0.18,0.56,3.37,Apple Pay,Dine-in,4,0.79
+ORD00870,03-11-2025,14:10:41,November,Monday,CUST6206,Returning,Male,43,16,Emily,Desserts,Brownie,3,5.99,17.97,1.7,3.25,19.52,Apple Pay,Takeaway,3,5.69
+ORD00871,01-04-2025,17:13:24,April,Tuesday,CUST8602,New,Male,42,19,David,Drinks,Tea,1,2.49,2.49,0.2,0.46,2.75,Google Pay,Takeaway,3,0.69
+ORD00872,22-11-2025,06:10:44,November,Saturday,CUST2319,Returning,Male,38,20,Emma,Starters,Garlic Bread,2,4.99,9.98,0.91,1.81,10.88,Card,Delivery,5,2.95
+ORD00873,30-08-2025,01:50:35,August,Saturday,CUST7378,New,Male,47,12,Emma,Starters,Chicken Wings,1,8.99,8.99,1,1.6,9.59,Card,Takeaway,5,3.06
+ORD00874,13-04-2025,21:33:40,April,Sunday,CUST8555,Returning,Male,61,20,Emily,Desserts,Ice Cream,3,4.99,14.97,0.15,2.96,17.78,Card,Dine-in,4,3.77
+ORD00875,14-09-2025,01:07:32,September,Sunday,CUST2144,New,Male,61,14,Emily,Starters,Chicken Wings,2,8.99,17.98,0.66,3.46,20.78,Google Pay,Dine-in,4,6.21
+ORD00876,14-05-2025,18:31:25,May,Wednesday,CUST5799,Returning,Male,41,13,Emily,Starters,Spring Rolls,4,6.99,27.96,2.02,5.19,31.13,Google Pay,Dine-in,3,9.31
+ORD00877,16-03-2025,03:12:49,March,Sunday,CUST6567,New,Male,48,7,Michael,Desserts,Cheesecake,1,6.99,6.99,0.76,1.25,7.48,Cash,Takeaway,5,1.9
+ORD00878,22-12-2025,22:03:24,December,Monday,CUST6610,Returning,Female,39,15,Michael,Starters,Soup,4,5.99,23.96,2.7,4.25,25.51,Online,Takeaway,5,7.73
+ORD00879,19-01-2025,22:14:27,January,Sunday,CUST7076,Returning,Female,37,6,Michael,Main Course,Butter Chicken,5,15.99,79.95,3.46,15.3,91.79,Google Pay,Delivery,4,21.66
+ORD00880,11-12-2025,03:32:28,December,Thursday,CUST7295,Returning,Male,19,7,Michael,Desserts,Ice Cream,2,4.99,9.98,0.22,1.95,11.71,Card,Delivery,3,2.87
+ORD00881,13-05-2025,08:15:01,May,Tuesday,CUST7649,Returning,Male,40,5,Olivia,Desserts,Cheesecake,5,6.99,34.95,3.91,6.21,37.25,Online,Takeaway,4,12.4
+ORD00882,06-09-2025,15:58:13,September,Saturday,CUST2060,Returning,Male,37,7,Emma,Main Course,Fish & Chips,2,17.99,35.98,2.61,6.67,40.04,Card,Takeaway,5,10.24
+ORD00883,03-03-2025,09:17:42,March,Monday,CUST1199,New,Male,41,2,David,Main Course,Burger,4,11.99,47.96,3.3,8.93,53.59,Cash,Takeaway,5,17.28
+ORD00884,04-02-2025,20:03:38,February,Tuesday,CUST2301,New,Female,54,17,Emma,Desserts,Cheesecake,5,6.99,34.95,4.44,6.1,36.61,Card,Takeaway,5,10.09
+ORD00885,04-04-2025,21:38:25,April,Friday,CUST5354,Returning,Male,65,7,Sophia,Main Course,Paneer Butter Masala,4,13.99,55.96,1.49,10.89,65.36,Card,Delivery,4,21.62
+ORD00886,01-02-2025,07:56:54,February,Saturday,CUST8606,New,Male,38,3,Emma,Main Course,Paneer Butter Masala,2,13.99,27.98,2.46,5.1,30.62,Google Pay,Dine-in,4,8.61
+ORD00887,12-02-2025,15:27:21,February,Wednesday,CUST8982,Returning,Male,55,14,Sophia,Drinks,Coffee,1,3.99,3.99,0.32,0.73,4.4,Google Pay,Delivery,3,1.04
+ORD00888,29-10-2025,04:17:45,October,Wednesday,CUST9070,New,Female,50,16,Michael,Drinks,Coke,3,2.99,8.97,1.02,1.59,9.54,Apple Pay,Takeaway,5,2.7
+ORD00889,08-05-2025,13:53:24,May,Thursday,CUST2826,New,Female,18,11,Emily,Desserts,Brownie,5,5.99,29.95,2.26,5.54,33.23,Google Pay,Dine-in,3,9.52
+ORD00890,03-02-2025,09:58:22,February,Monday,CUST9824,New,Male,24,8,Emma,Drinks,Tea,1,2.49,2.49,0.35,0.43,2.57,Apple Pay,Delivery,4,0.68
+ORD00891,13-06-2025,21:04:17,June,Friday,CUST3532,Returning,Male,30,13,Daniel,Drinks,Coke,3,2.99,8.97,1.25,1.54,9.26,Card,Delivery,5,2.17
+ORD00892,22-03-2025,12:00:06,March,Saturday,CUST5413,New,Female,48,10,Olivia,Desserts,Cheesecake,4,6.99,27.96,2.74,5.04,30.26,Card,Takeaway,4,9.29
+ORD00893,01-07-2025,15:48:39,July,Tuesday,CUST7834,New,Female,21,14,Olivia,Desserts,Brownie,3,5.99,17.97,1.15,3.36,20.18,Card,Takeaway,4,5.2
+ORD00894,10-01-2025,23:37:26,January,Friday,CUST6273,Returning,Female,38,18,Emma,Main Course,Paneer Butter Masala,3,13.99,41.97,1.86,8.02,48.13,Card,Delivery,5,12.27
+ORD00895,14-08-2025,08:01:16,August,Thursday,CUST8859,Returning,Male,60,13,Emily,Desserts,Ice Cream,1,4.99,4.99,0.18,0.96,5.77,Card,Takeaway,5,1.44
+ORD00896,28-10-2025,01:13:09,October,Tuesday,CUST9812,Returning,Female,36,4,Emily,Drinks,Coke,1,2.99,2.99,0.03,0.59,3.55,Card,Delivery,3,0.89
+ORD00897,16-06-2025,11:28:00,June,Monday,CUST2441,Returning,Male,38,19,Michael,Drinks,Coffee,2,3.99,7.98,0.71,1.45,8.72,Online,Delivery,4,2.44
+ORD00898,20-12-2025,02:57:16,December,Saturday,CUST6143,Returning,Female,65,7,Daniel,Starters,Garlic Bread,1,4.99,4.99,0.65,0.87,5.21,Apple Pay,Takeaway,3,1.54
+ORD00899,24-08-2025,10:14:01,August,Sunday,CUST5183,New,Male,25,14,David,Desserts,Brownie,2,5.99,11.98,1.22,2.15,12.91,Google Pay,Takeaway,3,3.83
+ORD00900,28-09-2025,01:25:31,September,Sunday,CUST9261,Returning,Female,36,19,Olivia,Starters,Chicken Wings,1,8.99,8.99,0.76,1.65,9.88,Cash,Delivery,3,3.29
+ORD00901,17-10-2025,08:59:36,October,Friday,CUST2437,Returning,Male,22,14,Michael,Starters,Spring Rolls,5,6.99,34.95,0.83,6.82,40.94,Google Pay,Takeaway,5,11.16
+ORD00902,19-03-2025,15:13:15,March,Wednesday,CUST9646,Returning,Male,43,19,Michael,Desserts,Ice Cream,2,4.99,9.98,0.97,1.8,10.81,Cash,Delivery,4,2.71
+ORD00903,10-01-2025,04:01:46,January,Friday,CUST4651,Returning,Female,59,7,Olivia,Starters,Garlic Bread,3,4.99,14.97,0.96,2.8,16.81,Online,Dine-in,3,4.05
+ORD00904,17-03-2025,18:55:17,March,Monday,CUST1646,New,Female,22,11,Olivia,Main Course,Pizza,2,16.99,33.98,0.51,6.69,40.16,Card,Delivery,3,11.05
+ORD00905,14-04-2025,18:20:52,April,Monday,CUST4559,Returning,Male,26,15,Sophia,Desserts,Ice Cream,4,4.99,19.96,2.97,3.4,20.39,Google Pay,Dine-in,4,4.84
+ORD00906,17-04-2025,15:07:08,April,Thursday,CUST7234,New,Male,29,17,Sophia,Drinks,Coke,4,2.99,11.96,0.79,2.23,13.4,Card,Dine-in,3,3.13
+ORD00907,08-09-2025,03:15:56,September,Monday,CUST2487,Returning,Female,34,17,Sophia,Desserts,Cheesecake,3,6.99,20.97,1.31,3.93,23.59,Google Pay,Dine-in,3,5.54
+ORD00908,14-07-2025,16:39:21,July,Monday,CUST2069,Returning,Female,32,3,David,Drinks,Fresh Juice,1,4.49,4.49,0.24,0.85,5.1,Google Pay,Dine-in,4,1.67
+ORD00909,28-11-2025,16:47:15,November,Friday,CUST1151,New,Male,26,16,James,Desserts,Ice Cream,2,4.99,9.98,1.27,1.74,10.45,Cash,Delivery,3,2.41
+ORD00910,05-12-2025,20:16:59,December,Friday,CUST3824,New,Male,65,6,Olivia,Desserts,Brownie,5,5.99,29.95,1.86,5.62,33.71,Cash,Dine-in,3,7.69
+ORD00911,12-09-2025,09:00:07,September,Friday,CUST5344,Returning,Male,19,11,James,Main Course,Pizza,4,16.99,67.96,6.37,12.32,73.91,Google Pay,Dine-in,5,23.8
+ORD00912,15-03-2025,05:53:21,March,Saturday,CUST9604,New,Male,24,1,Olivia,Drinks,Coke,5,2.99,14.95,0.85,2.82,16.92,Card,Dine-in,4,4.79
+ORD00913,03-02-2025,10:07:14,February,Monday,CUST9793,Returning,Male,56,1,Michael,Starters,Soup,4,5.99,23.96,3.53,4.09,24.52,Google Pay,Takeaway,4,7.73
+ORD00914,07-03-2025,12:08:19,March,Friday,CUST2579,Returning,Female,65,19,Emma,Desserts,Cheesecake,5,6.99,34.95,1.92,6.61,39.64,Card,Dine-in,5,11.3
+ORD00915,08-03-2025,01:49:54,March,Saturday,CUST5625,New,Male,32,9,Daniel,Main Course,Paneer Butter Masala,1,13.99,13.99,1.56,2.49,14.92,Apple Pay,Takeaway,5,4.44
+ORD00916,25-08-2025,01:22:37,August,Monday,CUST1560,Returning,Male,30,6,James,Desserts,Ice Cream,3,4.99,14.97,0.95,2.8,16.82,Card,Delivery,3,4.9
+ORD00917,02-05-2025,22:34:48,May,Friday,CUST6634,New,Female,46,7,Emily,Main Course,Pasta,3,13.49,40.47,0.07,8.08,48.48,Online,Takeaway,5,13.01
+ORD00918,14-08-2025,21:51:31,August,Thursday,CUST4052,Returning,Female,49,18,Emily,Starters,Chicken Wings,5,8.99,44.95,6.23,7.74,46.46,Cash,Delivery,4,11.64
+ORD00919,23-09-2025,05:24:34,September,Tuesday,CUST9901,New,Male,32,15,Sophia,Desserts,Ice Cream,3,4.99,14.97,0.96,2.8,16.81,Cash,Delivery,5,3.56
+ORD00920,01-06-2025,04:37:25,June,Sunday,CUST2359,New,Female,50,7,Daniel,Main Course,Burger,3,11.99,35.97,2.44,6.71,40.24,Card,Dine-in,3,11.17
+ORD00921,01-07-2025,18:59:45,July,Tuesday,CUST9697,New,Female,28,4,Daniel,Main Course,Chicken Biryani,5,14.99,74.95,4.08,14.17,85.04,Online,Dine-in,5,20.17
+ORD00922,19-03-2025,15:16:56,March,Wednesday,CUST7567,Returning,Female,51,14,Emily,Drinks,Coffee,3,3.99,11.97,0.09,2.38,14.26,Google Pay,Takeaway,3,4.7
+ORD00923,03-06-2025,08:53:32,June,Tuesday,CUST4420,New,Male,44,5,Daniel,Starters,Spring Rolls,3,6.99,20.97,2.23,3.75,22.49,Google Pay,Dine-in,3,6.56
+ORD00924,20-07-2025,11:23:39,July,Sunday,CUST6741,New,Male,35,5,David,Main Course,Pasta,4,13.49,53.96,4.79,9.83,59,Cash,Delivery,5,14.13
+ORD00925,27-10-2025,04:34:07,October,Monday,CUST6365,New,Male,51,10,Sophia,Main Course,Paneer Butter Masala,4,13.99,55.96,1.2,10.95,65.71,Online,Takeaway,3,15.95
+ORD00926,05-12-2025,11:16:53,December,Friday,CUST3517,New,Female,35,2,David,Drinks,Tea,1,2.49,2.49,0.2,0.46,2.75,Apple Pay,Dine-in,5,0.78
+ORD00927,27-08-2025,08:48:40,August,Wednesday,CUST2688,New,Female,33,16,David,Drinks,Coffee,4,3.99,15.96,1.82,2.83,16.97,Google Pay,Dine-in,5,4.01
+ORD00928,23-02-2025,03:44:13,February,Sunday,CUST6387,Returning,Female,40,3,James,Desserts,Cheesecake,3,6.99,20.97,2.85,3.62,21.74,Cash,Delivery,4,6.27
+ORD00929,05-05-2025,01:40:40,May,Monday,CUST8993,Returning,Female,20,20,Sophia,Drinks,Coffee,5,3.99,19.95,1.3,3.73,22.38,Online,Delivery,3,5.41
+ORD00930,22-10-2025,20:11:08,October,Wednesday,CUST7911,Returning,Male,40,15,Emily,Starters,Spring Rolls,2,6.99,13.98,0.76,2.64,15.86,Online,Delivery,3,4.64
+ORD00931,24-07-2025,22:37:09,July,Thursday,CUST6389,New,Female,44,1,Emily,Drinks,Coke,2,2.99,5.98,0.51,1.09,6.56,Apple Pay,Takeaway,5,1.39
+ORD00932,26-06-2025,14:16:09,June,Thursday,CUST8507,Returning,Male,31,18,Olivia,Desserts,Ice Cream,3,4.99,14.97,1,2.79,16.76,Google Pay,Takeaway,3,3.59
+ORD00933,13-09-2025,05:37:37,September,Saturday,CUST4728,Returning,Female,24,3,David,Starters,Chicken Wings,3,8.99,26.97,2.49,4.9,29.38,Apple Pay,Delivery,4,8.84
+ORD00934,24-11-2025,12:39:34,November,Monday,CUST6744,Returning,Female,41,6,Daniel,Main Course,Pasta,2,13.49,26.98,1.07,5.18,31.09,Apple Pay,Dine-in,3,9.23
+ORD00935,08-04-2025,07:28:02,April,Tuesday,CUST3914,Returning,Male,30,3,Sophia,Desserts,Cheesecake,5,6.99,34.95,1.55,6.68,40.08,Online,Delivery,4,11.16
+ORD00936,15-05-2025,20:52:48,May,Thursday,CUST7311,New,Female,57,19,Sophia,Main Course,Burger,5,11.99,59.95,3.18,11.35,68.12,Apple Pay,Dine-in,4,15.33
+ORD00937,21-01-2025,21:40:50,January,Tuesday,CUST4587,New,Male,46,7,Daniel,Main Course,Butter Chicken,3,15.99,47.97,0.19,9.56,57.34,Cash,Takeaway,3,13.55
+ORD00938,11-01-2025,10:43:45,January,Saturday,CUST4149,Returning,Male,51,19,David,Drinks,Fresh Juice,4,4.49,17.96,1.5,3.29,19.75,Online,Takeaway,5,6.58
+ORD00939,14-05-2025,07:11:19,May,Wednesday,CUST4845,Returning,Female,22,5,Olivia,Desserts,Brownie,4,5.99,23.96,1.33,4.53,27.16,Card,Delivery,5,8.71
+ORD00940,07-03-2025,15:59:40,March,Friday,CUST4732,Returning,Male,47,9,James,Starters,Soup,5,5.99,29.95,1.41,5.71,34.25,Google Pay,Delivery,4,10.59
+ORD00941,12-09-2025,14:10:35,September,Friday,CUST1942,Returning,Female,63,5,Sophia,Drinks,Coke,2,2.99,5.98,0.02,1.19,7.15,Apple Pay,Dine-in,5,1.89
+ORD00942,22-05-2025,00:08:44,May,Thursday,CUST3184,Returning,Male,60,15,Michael,Desserts,Cheesecake,1,6.99,6.99,0.75,1.25,7.49,Online,Delivery,5,2.02
+ORD00943,05-06-2025,20:09:49,June,Thursday,CUST7670,New,Female,18,20,James,Desserts,Ice Cream,5,4.99,24.95,2.99,4.39,26.35,Apple Pay,Delivery,3,7.16
+ORD00944,06-02-2025,17:34:24,February,Thursday,CUST3938,New,Male,59,16,Sophia,Starters,Soup,2,5.99,11.98,1.32,2.13,12.79,Apple Pay,Dine-in,3,3.06
+ORD00945,26-07-2025,04:10:28,July,Saturday,CUST6624,New,Male,37,12,Daniel,Drinks,Fresh Juice,4,4.49,17.96,1.88,3.22,19.3,Google Pay,Takeaway,4,4.35
+ORD00946,16-02-2025,22:58:19,February,Sunday,CUST2336,Returning,Female,24,17,Michael,Main Course,Pizza,4,16.99,67.96,2.04,13.18,79.1,Cash,Delivery,3,19.95
+ORD00947,13-10-2025,12:14:06,October,Monday,CUST9669,New,Male,38,13,Michael,Starters,Chicken Wings,1,8.99,8.99,0.23,1.75,10.51,Cash,Delivery,5,3.46
+ORD00948,11-07-2025,16:44:00,July,Friday,CUST9768,New,Female,24,5,Olivia,Starters,Garlic Bread,2,4.99,9.98,0.95,1.81,10.84,Online,Dine-in,4,2.93
+ORD00949,28-12-2025,07:45:00,December,Sunday,CUST9807,New,Female,36,4,Olivia,Main Course,Butter Chicken,4,15.99,63.96,0.29,12.73,76.4,Card,Delivery,5,16.29
+ORD00950,27-03-2025,08:24:22,March,Thursday,CUST6527,Returning,Female,46,4,Sophia,Starters,Soup,2,5.99,11.98,1.08,2.18,13.08,Apple Pay,Dine-in,4,4.36
+ORD00951,14-03-2025,11:40:57,March,Friday,CUST1960,Returning,Male,51,3,Olivia,Main Course,Fish & Chips,2,17.99,35.98,4.29,6.34,38.03,Online,Delivery,5,8.12
+ORD00952,26-12-2025,12:19:03,December,Friday,CUST4244,Returning,Female,43,14,David,Drinks,Coffee,3,3.99,11.97,0.58,2.28,13.67,Cash,Takeaway,3,3.61
+ORD00953,09-09-2025,15:30:37,September,Tuesday,CUST9152,Returning,Male,51,2,Emma,Starters,Chicken Wings,5,8.99,44.95,3.26,8.34,50.03,Cash,Takeaway,5,12.85
+ORD00954,20-10-2025,23:33:59,October,Monday,CUST5963,Returning,Male,40,18,James,Main Course,Burger,1,11.99,11.99,0.96,2.21,13.24,Google Pay,Delivery,5,2.84
+ORD00955,26-09-2025,09:53:46,September,Friday,CUST4042,New,Female,22,7,Emily,Main Course,Burger,1,11.99,11.99,1.64,2.07,12.42,Card,Delivery,5,2.74
+ORD00956,10-11-2025,21:29:12,November,Monday,CUST5758,New,Male,60,11,Daniel,Starters,Spring Rolls,4,6.99,27.96,0.86,5.42,32.52,Google Pay,Dine-in,4,9.58
+ORD00957,25-07-2025,20:41:09,July,Friday,CUST5230,Returning,Female,31,9,David,Starters,Garlic Bread,2,4.99,9.98,0.9,1.82,10.9,Cash,Takeaway,4,3.12
+ORD00958,13-07-2025,18:17:26,July,Sunday,CUST7479,New,Female,26,8,Sophia,Desserts,Ice Cream,4,4.99,19.96,0.76,3.84,23.04,Cash,Dine-in,3,4.83
+ORD00959,08-09-2025,16:43:12,September,Monday,CUST5202,Returning,Female,52,10,Michael,Starters,Garlic Bread,5,4.99,24.95,1.23,4.74,28.46,Online,Takeaway,3,9.29
+ORD00960,03-03-2025,15:09:06,March,Monday,CUST3082,New,Female,48,4,Sophia,Drinks,Coffee,1,3.99,3.99,0.33,0.73,4.39,Card,Dine-in,4,1.19
+ORD00961,05-04-2025,03:04:36,April,Saturday,CUST3338,Returning,Male,60,17,Emma,Starters,Spring Rolls,2,6.99,13.98,0.91,2.61,15.68,Card,Delivery,4,3.99
+ORD00962,23-01-2025,05:44:33,January,Thursday,CUST3875,Returning,Female,30,2,David,Starters,Garlic Bread,3,4.99,14.97,1.93,2.61,15.65,Google Pay,Dine-in,4,3.75
+ORD00963,16-09-2025,20:21:06,September,Tuesday,CUST8190,New,Female,22,8,Michael,Starters,Garlic Bread,2,4.99,9.98,0.94,1.81,10.85,Online,Dine-in,3,2.72
+ORD00964,08-10-2025,05:24:01,October,Wednesday,CUST9753,New,Male,64,11,Olivia,Desserts,Ice Cream,1,4.99,4.99,0.51,0.9,5.38,Cash,Dine-in,3,1.4
+ORD00965,17-12-2025,05:11:21,December,Wednesday,CUST7349,New,Male,58,2,Sophia,Main Course,Chicken Biryani,4,14.99,59.96,0.03,11.99,71.92,Cash,Delivery,4,15.51
+ORD00966,20-10-2025,12:49:40,October,Monday,CUST4893,Returning,Female,40,15,Emily,Drinks,Tea,5,2.49,12.45,0.72,2.35,14.08,Card,Takeaway,5,4.53
+ORD00967,04-07-2025,15:56:20,July,Friday,CUST7364,Returning,Male,41,1,David,Main Course,Butter Chicken,3,15.99,47.97,4.58,8.68,52.07,Apple Pay,Dine-in,3,11.98
+ORD00968,24-08-2025,04:52:26,August,Sunday,CUST4409,Returning,Female,44,15,Emily,Drinks,Coffee,4,3.99,15.96,0.3,3.13,18.79,Google Pay,Takeaway,4,5.39
+ORD00969,06-07-2025,21:26:33,July,Sunday,CUST5030,New,Male,54,7,Olivia,Desserts,Brownie,4,5.99,23.96,0.48,4.7,28.18,Google Pay,Delivery,4,7.74
+ORD00970,11-07-2025,03:00:59,July,Friday,CUST8410,Returning,Female,21,7,Emma,Desserts,Ice Cream,4,4.99,19.96,0.42,3.91,23.45,Apple Pay,Delivery,3,5.2
+ORD00971,04-12-2025,16:24:54,December,Thursday,CUST4382,Returning,Male,35,19,Daniel,Drinks,Fresh Juice,2,4.49,8.98,1.27,1.54,9.25,Google Pay,Delivery,3,1.96
+ORD00972,19-03-2025,16:20:45,March,Wednesday,CUST8973,Returning,Male,61,4,Sophia,Drinks,Tea,4,2.49,9.96,0.37,1.92,11.51,Cash,Dine-in,3,3.46
+ORD00973,28-01-2025,21:37:19,January,Tuesday,CUST3467,New,Female,22,12,Olivia,Desserts,Ice Cream,3,4.99,14.97,2.09,2.58,15.46,Online,Takeaway,4,3.91
+ORD00974,23-06-2025,13:32:05,June,Monday,CUST3490,New,Female,25,18,David,Main Course,Pizza,3,16.99,50.97,0.78,10.04,60.23,Card,Delivery,5,16.78
+ORD00975,18-11-2025,23:27:41,November,Tuesday,CUST3402,Returning,Male,20,5,David,Drinks,Tea,2,2.49,4.98,0.73,0.85,5.1,Google Pay,Takeaway,4,1.49
+ORD00976,29-03-2025,08:21:43,March,Saturday,CUST1325,Returning,Female,39,3,Olivia,Starters,Chicken Wings,4,8.99,35.96,3.15,6.56,39.37,Cash,Dine-in,3,9.1
+ORD00977,16-11-2025,20:06:53,November,Sunday,CUST4229,Returning,Female,63,3,Olivia,Desserts,Cheesecake,4,6.99,27.96,3.84,4.82,28.94,Online,Takeaway,3,6.43
+ORD00978,15-11-2025,08:47:26,November,Saturday,CUST5591,New,Female,38,6,James,Drinks,Coffee,3,3.99,11.97,1.53,2.09,12.53,Card,Delivery,4,2.91
+ORD00979,15-05-2025,02:33:38,May,Thursday,CUST8505,New,Female,53,2,Daniel,Drinks,Fresh Juice,3,4.49,13.47,0.08,2.68,16.07,Online,Dine-in,5,4.85
+ORD00980,21-10-2025,20:56:03,October,Tuesday,CUST7363,New,Female,62,13,Olivia,Starters,Chicken Wings,4,8.99,35.96,1.08,6.98,41.86,Apple Pay,Delivery,4,11.18
+ORD00981,28-07-2025,06:57:32,July,Monday,CUST9008,Returning,Female,23,15,Sophia,Desserts,Ice Cream,3,4.99,14.97,1.61,2.67,16.03,Apple Pay,Delivery,3,4.45
+ORD00982,12-01-2025,16:29:26,January,Sunday,CUST3523,New,Male,22,1,James,Main Course,Veg Biryani,2,12.99,25.98,0.29,5.14,30.83,Apple Pay,Delivery,3,7.86
+ORD00983,21-03-2025,14:58:19,March,Friday,CUST3272,New,Male,29,3,Sophia,Drinks,Tea,1,2.49,2.49,0.23,0.45,2.71,Cash,Takeaway,5,0.58
+ORD00984,30-04-2025,00:55:48,April,Wednesday,CUST4156,Returning,Male,63,16,Daniel,Main Course,Chicken Biryani,1,14.99,14.99,0.87,2.82,16.94,Google Pay,Takeaway,5,4.85
+ORD00985,13-12-2025,04:01:41,December,Saturday,CUST4239,Returning,Male,52,19,Emma,Starters,Soup,2,5.99,11.98,0.91,2.21,13.28,Cash,Delivery,3,2.9
+ORD00986,07-04-2025,03:40:49,April,Monday,CUST5861,Returning,Female,31,14,Michael,Main Course,Burger,2,11.99,23.98,0.58,4.68,28.08,Apple Pay,Delivery,3,8.08
+ORD00987,29-09-2025,02:21:08,September,Monday,CUST2028,Returning,Female,64,2,David,Starters,Chicken Wings,3,8.99,26.97,3.05,4.78,28.7,Cash,Delivery,5,6.21
+ORD00988,17-08-2025,23:09:06,August,Sunday,CUST6922,New,Female,64,11,Emily,Starters,Spring Rolls,3,6.99,20.97,1.85,3.82,22.94,Apple Pay,Delivery,4,7.41
+ORD00989,09-07-2025,23:30:35,July,Wednesday,CUST4117,New,Male,20,12,David,Drinks,Tea,4,2.49,9.96,0.47,1.9,11.39,Google Pay,Takeaway,4,3.79
+ORD00990,26-07-2025,15:04:51,July,Saturday,CUST7317,Returning,Male,26,11,David,Drinks,Fresh Juice,4,4.49,17.96,0.41,3.51,21.06,Card,Takeaway,4,6.33
+ORD00991,08-01-2025,14:12:32,January,Wednesday,CUST2553,New,Female,48,5,Michael,Drinks,Coffee,2,3.99,7.98,0.71,1.45,8.72,Apple Pay,Dine-in,3,2.02
+ORD00992,12-09-2025,19:59:14,September,Friday,CUST5549,New,Male,49,20,Emily,Drinks,Coffee,3,3.99,11.97,1.49,2.1,12.58,Google Pay,Takeaway,3,3.96
+ORD00993,07-09-2025,10:57:39,September,Sunday,CUST8810,Returning,Male,33,17,Emily,Starters,Chicken Wings,1,8.99,8.99,0.09,1.78,10.68,Card,Takeaway,4,2.66
+ORD00994,07-01-2025,13:21:04,January,Tuesday,CUST8028,New,Male,51,10,Olivia,Desserts,Cheesecake,2,6.99,13.98,0.71,2.65,15.92,Apple Pay,Delivery,3,3.94
+ORD00995,09-07-2025,12:49:01,July,Wednesday,CUST4431,Returning,Male,38,16,Michael,Drinks,Coke,1,2.99,2.99,0.2,0.56,3.35,Online,Takeaway,5,0.87
+ORD00996,19-06-2025,18:12:26,June,Thursday,CUST4750,New,Male,49,19,Emily,Main Course,Butter Chicken,3,15.99,47.97,5.62,8.47,50.82,Cash,Takeaway,5,14.22
+ORD00997,18-02-2025,10:40:49,February,Tuesday,CUST8580,Returning,Male,46,13,Emma,Drinks,Coffee,5,3.99,19.95,0.96,3.8,22.79,Apple Pay,Delivery,3,6.26
+ORD00998,06-07-2025,01:13:00,July,Sunday,CUST6835,Returning,Male,35,11,Emily,Starters,Soup,2,5.99,11.98,0.4,2.32,13.9,Apple Pay,Delivery,5,2.9
+ORD00999,13-04-2025,00:57:56,April,Sunday,CUST4193,Returning,Male,42,14,James,Main Course,Veg Biryani,3,12.99,38.97,4.29,6.94,41.62,Apple Pay,Takeaway,3,12.5
+ORD01000,15-03-2025,07:37:09,March,Saturday,CUST2289,Returning,Female,27,15,David,Desserts,Ice Cream,1,4.99,4.99,0.49,0.9,5.4,Online,Dine-in,5,1.64

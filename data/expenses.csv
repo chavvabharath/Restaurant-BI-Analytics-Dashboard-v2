@@ -1,0 +1,1001 @@
+Expense_ID,Date,Month,Day,Expense_Category,Supplier,Payment_Method,Amount
+1,24-11-2025,November,Monday,Staff Salary,ABC Suppliers,Bank Transfer,144.55
+2,25-04-2025,April,Friday,Rent,City Market,Credit Card,3687.63
+3,07-10-2025,October,Tuesday,Staff Salary,Fresh Foods Ltd,Bank Transfer,2960.65
+4,17-02-2025,February,Monday,Electricity,Utility Services,Bank Transfer,1178.65
+5,15-10-2025,October,Wednesday,Electricity,City Market,Credit Card,3585.78
+6,03-08-2025,August,Sunday,Electricity,ABC Suppliers,Bank Transfer,2257.06
+7,23-03-2025,March,Sunday,Packaging,ABC Suppliers,Bank Transfer,2124.62
+8,21-04-2025,April,Monday,Water,Kitchen World,Bank Transfer,529.01
+9,03-07-2025,July,Thursday,Water,Fresh Foods Ltd,Credit Card,3026.56
+10,24-08-2025,August,Sunday,Kitchen Equipment,Kitchen World,Bank Transfer,641.63
+11,10-10-2025,October,Friday,Gas,Utility Services,Cash,4150.44
+12,23-10-2025,October,Thursday,Electricity,Fresh Foods Ltd,Credit Card,3528.77
+13,27-04-2025,April,Sunday,Gas,Metro Wholesale,Bank Transfer,4926.4
+14,14-07-2025,July,Monday,Gas,ABC Suppliers,Bank Transfer,2277.98
+15,09-07-2025,July,Wednesday,Water,ABC Suppliers,Credit Card,1063.35
+16,16-12-2025,December,Tuesday,Maintenance,City Market,Bank Transfer,375.58
+17,01-10-2025,October,Wednesday,Packaging,Kitchen World,Cash,1239.16
+18,19-05-2025,May,Monday,Maintenance,Metro Wholesale,Credit Card,3447.05
+19,16-06-2025,June,Monday,Food Supplies,Fresh Foods Ltd,Cash,1160.66
+20,25-07-2025,July,Friday,Gas,Utility Services,Credit Card,349.62
+21,11-06-2025,June,Wednesday,Electricity,Kitchen World,Credit Card,3284.08
+22,23-08-2025,August,Saturday,Rent,Metro Wholesale,Credit Card,1339.1
+23,15-10-2025,October,Wednesday,Kitchen Equipment,Utility Services,Cash,1328.45
+24,26-10-2025,October,Sunday,Internet,Metro Wholesale,Credit Card,1822.74
+25,10-09-2025,September,Wednesday,Staff Salary,Fresh Foods Ltd,Bank Transfer,3783.8
+26,18-11-2025,November,Tuesday,Rent,Kitchen World,Credit Card,3964.56
+27,02-02-2025,February,Sunday,Internet,Kitchen World,Credit Card,1920.46
+28,09-05-2025,May,Friday,Kitchen Equipment,Fresh Foods Ltd,Credit Card,4306.68
+29,28-02-2025,February,Friday,Maintenance,ABC Suppliers,Credit Card,4426.25
+30,24-06-2025,June,Tuesday,Staff Salary,Metro Wholesale,Cash,1481.63
+31,02-01-2025,January,Thursday,Packaging,ABC Suppliers,Credit Card,4381.75
+32,02-04-2025,April,Wednesday,Kitchen Equipment,City Market,Cash,4564.89
+33,24-11-2025,November,Monday,Kitchen Equipment,Metro Wholesale,Cash,3052.67
+34,24-03-2025,March,Monday,Kitchen Equipment,Utility Services,Bank Transfer,4768.43
+35,03-11-2025,November,Monday,Water,Fresh Foods Ltd,Cash,2453.26
+36,07-06-2025,June,Saturday,Electricity,Utility Services,Bank Transfer,308.47
+37,13-02-2025,February,Thursday,Packaging,Fresh Foods Ltd,Credit Card,2440.23
+38,06-03-2025,March,Thursday,Rent,Utility Services,Bank Transfer,3305.56
+39,16-05-2025,May,Friday,Kitchen Equipment,Kitchen World,Bank Transfer,4364.72
+40,04-10-2025,October,Saturday,Packaging,City Market,Cash,3455.54
+41,24-07-2025,July,Thursday,Maintenance,Kitchen World,Credit Card,3256.39
+42,20-08-2025,August,Wednesday,Staff Salary,Fresh Foods Ltd,Cash,1254.57
+43,11-01-2025,January,Saturday,Cleaning,Utility Services,Bank Transfer,2778.53
+44,04-01-2025,January,Saturday,Staff Salary,Fresh Foods Ltd,Bank Transfer,3545.05
+45,04-02-2025,February,Tuesday,Food Supplies,Fresh Foods Ltd,Credit Card,4300.98
+46,02-05-2025,May,Friday,Gas,Metro Wholesale,Credit Card,3351.51
+47,09-03-2025,March,Sunday,Packaging,Utility Services,Credit Card,4678.86
+48,31-08-2025,August,Sunday,Electricity,Kitchen World,Bank Transfer,3927.4
+49,18-02-2025,February,Tuesday,Staff Salary,ABC Suppliers,Cash,3301.73
+50,30-07-2025,July,Wednesday,Marketing,Fresh Foods Ltd,Credit Card,4321.91
+51,01-12-2025,December,Monday,Maintenance,Kitchen World,Credit Card,510.12
+52,23-06-2025,June,Monday,Staff Salary,Metro Wholesale,Credit Card,1258.31
+53,18-08-2025,August,Monday,Rent,ABC Suppliers,Cash,2120.97
+54,08-05-2025,May,Thursday,Staff Salary,Utility Services,Bank Transfer,2226.79
+55,26-01-2025,January,Sunday,Maintenance,Fresh Foods Ltd,Bank Transfer,4996.43
+56,02-05-2025,May,Friday,Rent,Kitchen World,Bank Transfer,2043.94
+57,25-07-2025,July,Friday,Food Supplies,Fresh Foods Ltd,Cash,839.89
+58,16-05-2025,May,Friday,Marketing,City Market,Credit Card,1440.54
+59,12-10-2025,October,Sunday,Maintenance,Metro Wholesale,Bank Transfer,3597.67
+60,01-06-2025,June,Sunday,Electricity,Utility Services,Credit Card,4844.17
+61,05-10-2025,October,Sunday,Food Supplies,Fresh Foods Ltd,Bank Transfer,3744.92
+62,27-10-2025,October,Monday,Marketing,Utility Services,Bank Transfer,2524.19
+63,30-01-2025,January,Thursday,Kitchen Equipment,Metro Wholesale,Bank Transfer,418.96
+64,01-11-2025,November,Saturday,Staff Salary,Metro Wholesale,Cash,3382.56
+65,03-03-2025,March,Monday,Cleaning,Utility Services,Bank Transfer,1246.15
+66,14-11-2025,November,Friday,Staff Salary,Utility Services,Credit Card,2107.74
+67,25-09-2025,September,Thursday,Water,Metro Wholesale,Credit Card,4674.84
+68,10-06-2025,June,Tuesday,Electricity,Metro Wholesale,Credit Card,1342.76
+69,27-11-2025,November,Thursday,Gas,Fresh Foods Ltd,Bank Transfer,2296.98
+70,23-08-2025,August,Saturday,Cleaning,Fresh Foods Ltd,Bank Transfer,4992.3
+71,03-10-2025,October,Friday,Electricity,Metro Wholesale,Cash,2539.31
+72,05-02-2025,February,Wednesday,Electricity,Metro Wholesale,Cash,1860.24
+73,06-10-2025,October,Monday,Packaging,City Market,Credit Card,1526.54
+74,05-01-2025,January,Sunday,Maintenance,ABC Suppliers,Credit Card,4089.18
+75,23-02-2025,February,Sunday,Rent,Fresh Foods Ltd,Credit Card,1337.04
+76,11-10-2025,October,Saturday,Rent,Utility Services,Bank Transfer,1376.29
+77,25-06-2025,June,Wednesday,Electricity,ABC Suppliers,Credit Card,3443.74
+78,08-09-2025,September,Monday,Gas,Fresh Foods Ltd,Bank Transfer,4528.58
+79,21-11-2025,November,Friday,Internet,Fresh Foods Ltd,Bank Transfer,4150.15
+80,20-06-2025,June,Friday,Rent,ABC Suppliers,Bank Transfer,3192.82
+81,15-08-2025,August,Friday,Kitchen Equipment,Utility Services,Bank Transfer,3534.22
+82,27-02-2025,February,Thursday,Staff Salary,City Market,Bank Transfer,4726.35
+83,07-10-2025,October,Tuesday,Food Supplies,Utility Services,Credit Card,4176.28
+84,17-03-2025,March,Monday,Internet,ABC Suppliers,Cash,654.68
+85,21-01-2025,January,Tuesday,Water,Metro Wholesale,Credit Card,1066.18
+86,22-02-2025,February,Saturday,Water,Kitchen World,Credit Card,3904.98
+87,21-03-2025,March,Friday,Electricity,Metro Wholesale,Cash,4325.74
+88,13-01-2025,January,Monday,Rent,ABC Suppliers,Cash,3688.09
+89,09-12-2025,December,Tuesday,Packaging,ABC Suppliers,Bank Transfer,4057.53
+90,26-12-2025,December,Friday,Staff Salary,Fresh Foods Ltd,Cash,1925.06
+91,24-04-2025,April,Thursday,Electricity,Kitchen World,Cash,4086.6
+92,06-06-2025,June,Friday,Electricity,City Market,Bank Transfer,1130.16
+93,24-07-2025,July,Thursday,Water,Fresh Foods Ltd,Cash,1407.44
+94,29-06-2025,June,Sunday,Maintenance,City Market,Credit Card,2556.84
+95,19-06-2025,June,Thursday,Food Supplies,ABC Suppliers,Bank Transfer,594.4
+96,25-10-2025,October,Saturday,Gas,Utility Services,Cash,210.52
+97,26-06-2025,June,Thursday,Packaging,Kitchen World,Credit Card,3936.41
+98,19-09-2025,September,Friday,Staff Salary,Utility Services,Bank Transfer,1938.27
+99,11-05-2025,May,Sunday,Food Supplies,Fresh Foods Ltd,Credit Card,3549.75
+100,03-10-2025,October,Friday,Maintenance,City Market,Credit Card,3602.76
+101,10-12-2025,December,Wednesday,Electricity,Fresh Foods Ltd,Credit Card,1833.82
+102,19-06-2025,June,Thursday,Cleaning,Fresh Foods Ltd,Credit Card,1583.3
+103,03-06-2025,June,Tuesday,Kitchen Equipment,Kitchen World,Cash,1560.24
+104,26-07-2025,July,Saturday,Packaging,Metro Wholesale,Bank Transfer,1492.36
+105,04-08-2025,August,Monday,Maintenance,City Market,Credit Card,4703.01
+106,31-03-2025,March,Monday,Cleaning,Kitchen World,Credit Card,2854.14
+107,01-01-2025,January,Wednesday,Gas,Kitchen World,Credit Card,1448.83
+108,07-11-2025,November,Friday,Maintenance,Kitchen World,Cash,1624.8
+109,12-12-2025,December,Friday,Electricity,City Market,Bank Transfer,2565.65
+110,04-12-2025,December,Thursday,Staff Salary,City Market,Credit Card,1433.26
+111,14-11-2025,November,Friday,Water,Metro Wholesale,Credit Card,485.07
+112,08-06-2025,June,Sunday,Electricity,Metro Wholesale,Bank Transfer,4036.68
+113,24-01-2025,January,Friday,Electricity,Utility Services,Bank Transfer,4920
+114,22-08-2025,August,Friday,Internet,Utility Services,Bank Transfer,4432.96
+115,23-12-2025,December,Tuesday,Internet,Metro Wholesale,Bank Transfer,2482
+116,02-12-2025,December,Tuesday,Packaging,Fresh Foods Ltd,Cash,47.61
+117,23-04-2025,April,Wednesday,Rent,City Market,Credit Card,4024.47
+118,26-08-2025,August,Tuesday,Food Supplies,Fresh Foods Ltd,Cash,2795.88
+119,10-03-2025,March,Monday,Marketing,Utility Services,Credit Card,3344.54
+120,12-06-2025,June,Thursday,Marketing,City Market,Credit Card,3071.01
+121,07-08-2025,August,Thursday,Kitchen Equipment,Metro Wholesale,Credit Card,2240.65
+122,01-09-2025,September,Monday,Marketing,Metro Wholesale,Credit Card,1310.77
+123,22-05-2025,May,Thursday,Kitchen Equipment,Metro Wholesale,Cash,2433.29
+124,14-08-2025,August,Thursday,Staff Salary,Metro Wholesale,Cash,3573.45
+125,21-06-2025,June,Saturday,Water,Fresh Foods Ltd,Bank Transfer,4467.27
+126,19-03-2025,March,Wednesday,Electricity,Metro Wholesale,Credit Card,1927.52
+127,20-04-2025,April,Sunday,Staff Salary,ABC Suppliers,Credit Card,2086.04
+128,27-08-2025,August,Wednesday,Internet,Kitchen World,Cash,330.08
+129,27-10-2025,October,Monday,Packaging,Utility Services,Cash,117.27
+130,02-09-2025,September,Tuesday,Food Supplies,ABC Suppliers,Cash,4714.85
+131,03-08-2025,August,Sunday,Kitchen Equipment,Utility Services,Credit Card,3742.63
+132,23-04-2025,April,Wednesday,Marketing,Kitchen World,Cash,1112.72
+133,15-01-2025,January,Wednesday,Internet,City Market,Cash,1693.93
+134,26-03-2025,March,Wednesday,Marketing,Utility Services,Credit Card,4599.32
+135,14-01-2025,January,Tuesday,Internet,City Market,Bank Transfer,2967.63
+136,12-02-2025,February,Wednesday,Maintenance,Kitchen World,Bank Transfer,2154.49
+137,26-01-2025,January,Sunday,Gas,Metro Wholesale,Cash,1907.94
+138,17-06-2025,June,Tuesday,Water,Kitchen World,Cash,3810.92
+139,04-08-2025,August,Monday,Gas,Kitchen World,Bank Transfer,4177.86
+140,04-10-2025,October,Saturday,Food Supplies,ABC Suppliers,Bank Transfer,4999.54
+141,29-11-2025,November,Saturday,Staff Salary,City Market,Bank Transfer,3910.54
+142,16-01-2025,January,Thursday,Electricity,Fresh Foods Ltd,Credit Card,1012.82
+143,20-03-2025,March,Thursday,Electricity,City Market,Bank Transfer,648.58
+144,16-10-2025,October,Thursday,Electricity,ABC Suppliers,Cash,2335.87
+145,27-03-2025,March,Thursday,Cleaning,City Market,Credit Card,3044.09
+146,28-02-2025,February,Friday,Rent,Fresh Foods Ltd,Credit Card,4824.31
+147,14-01-2025,January,Tuesday,Gas,Kitchen World,Cash,2887.47
+148,12-04-2025,April,Saturday,Staff Salary,City Market,Bank Transfer,2968.65
+149,22-02-2025,February,Saturday,Packaging,City Market,Credit Card,3866.95
+150,03-03-2025,March,Monday,Cleaning,ABC Suppliers,Credit Card,3917.52
+151,08-08-2025,August,Friday,Maintenance,Utility Services,Credit Card,1865.44
+152,24-06-2025,June,Tuesday,Food Supplies,Kitchen World,Bank Transfer,4250.89
+153,10-08-2025,August,Sunday,Water,Kitchen World,Credit Card,3185.21
+154,20-03-2025,March,Thursday,Internet,Utility Services,Credit Card,897.16
+155,19-05-2025,May,Monday,Cleaning,Utility Services,Cash,4044.83
+156,27-08-2025,August,Wednesday,Internet,Utility Services,Cash,4132.16
+157,15-06-2025,June,Sunday,Electricity,Fresh Foods Ltd,Cash,4157.04
+158,19-08-2025,August,Tuesday,Electricity,Utility Services,Credit Card,3757.37
+159,09-12-2025,December,Tuesday,Internet,Kitchen World,Cash,1695.26
+160,04-04-2025,April,Friday,Marketing,ABC Suppliers,Cash,1076.36
+161,24-05-2025,May,Saturday,Cleaning,ABC Suppliers,Credit Card,3511.9
+162,06-01-2025,January,Monday,Kitchen Equipment,Fresh Foods Ltd,Bank Transfer,4741.35
+163,28-07-2025,July,Monday,Marketing,Metro Wholesale,Credit Card,2784.78
+164,01-09-2025,September,Monday,Maintenance,Kitchen World,Bank Transfer,3564.98
+165,17-02-2025,February,Monday,Gas,City Market,Bank Transfer,1123.55
+166,06-06-2025,June,Friday,Maintenance,Kitchen World,Credit Card,2916.15
+167,29-09-2025,September,Monday,Water,City Market,Credit Card,2139.01
+168,19-06-2025,June,Thursday,Water,ABC Suppliers,Cash,3520.22
+169,09-05-2025,May,Friday,Electricity,Metro Wholesale,Cash,620.87
+170,03-03-2025,March,Monday,Packaging,City Market,Bank Transfer,2688.6
+171,09-04-2025,April,Wednesday,Electricity,ABC Suppliers,Credit Card,3698.25
+172,29-10-2025,October,Wednesday,Kitchen Equipment,Fresh Foods Ltd,Bank Transfer,2992.02
+173,01-06-2025,June,Sunday,Electricity,ABC Suppliers,Bank Transfer,1817.19
+174,29-12-2025,December,Monday,Kitchen Equipment,Fresh Foods Ltd,Bank Transfer,650.38
+175,11-10-2025,October,Saturday,Gas,Metro Wholesale,Credit Card,3493.14
+176,09-09-2025,September,Tuesday,Staff Salary,Utility Services,Cash,4366.14
+177,29-08-2025,August,Friday,Marketing,Metro Wholesale,Bank Transfer,2213.53
+178,10-05-2025,May,Saturday,Marketing,Fresh Foods Ltd,Cash,588.15
+179,09-09-2025,September,Tuesday,Staff Salary,City Market,Bank Transfer,2893.57
+180,19-03-2025,March,Wednesday,Rent,ABC Suppliers,Bank Transfer,4059.49
+181,08-05-2025,May,Thursday,Staff Salary,Kitchen World,Credit Card,2799.2
+182,02-11-2025,November,Sunday,Cleaning,Utility Services,Cash,1143.92
+183,19-08-2025,August,Tuesday,Marketing,Utility Services,Cash,1500.82
+184,06-06-2025,June,Friday,Cleaning,Utility Services,Credit Card,3112.72
+185,20-02-2025,February,Thursday,Electricity,ABC Suppliers,Credit Card,3135.06
+186,11-02-2025,February,Tuesday,Rent,Utility Services,Bank Transfer,1214.53
+187,22-03-2025,March,Saturday,Food Supplies,City Market,Credit Card,2054.42
+188,29-08-2025,August,Friday,Gas,ABC Suppliers,Credit Card,182.55
+189,25-05-2025,May,Sunday,Packaging,Fresh Foods Ltd,Credit Card,4300.84
+190,30-04-2025,April,Wednesday,Gas,City Market,Credit Card,3943.38
+191,05-12-2025,December,Friday,Electricity,Utility Services,Bank Transfer,2137.19
+192,28-11-2025,November,Friday,Rent,Metro Wholesale,Bank Transfer,4543.89
+193,31-01-2025,January,Friday,Rent,Utility Services,Credit Card,3967.29
+194,19-10-2025,October,Sunday,Gas,Kitchen World,Credit Card,2206.98
+195,05-06-2025,June,Thursday,Packaging,ABC Suppliers,Credit Card,2024.49
+196,04-10-2025,October,Saturday,Marketing,Utility Services,Bank Transfer,2200.04
+197,10-08-2025,August,Sunday,Packaging,ABC Suppliers,Bank Transfer,1625.16
+198,16-02-2025,February,Sunday,Electricity,Utility Services,Credit Card,4810.32
+199,11-01-2025,January,Saturday,Maintenance,Utility Services,Bank Transfer,4110.68
+200,31-03-2025,March,Monday,Marketing,Kitchen World,Cash,2604.44
+201,03-04-2025,April,Thursday,Cleaning,Kitchen World,Bank Transfer,2190.71
+202,29-08-2025,August,Friday,Water,ABC Suppliers,Credit Card,2053.57
+203,23-02-2025,February,Sunday,Rent,City Market,Cash,1662.42
+204,28-05-2025,May,Wednesday,Maintenance,Utility Services,Bank Transfer,4727.06
+205,21-08-2025,August,Thursday,Staff Salary,ABC Suppliers,Bank Transfer,1586.3
+206,26-07-2025,July,Saturday,Kitchen Equipment,Fresh Foods Ltd,Credit Card,4128.14
+207,05-10-2025,October,Sunday,Marketing,Metro Wholesale,Credit Card,2077.97
+208,05-07-2025,July,Saturday,Cleaning,City Market,Cash,3787.09
+209,27-01-2025,January,Monday,Electricity,Metro Wholesale,Cash,1349.94
+210,13-08-2025,August,Wednesday,Packaging,Fresh Foods Ltd,Credit Card,2433.86
+211,08-11-2025,November,Saturday,Electricity,ABC Suppliers,Credit Card,3554.72
+212,08-01-2025,January,Wednesday,Kitchen Equipment,Metro Wholesale,Bank Transfer,2051.79
+213,25-08-2025,August,Monday,Staff Salary,Metro Wholesale,Cash,3245.59
+214,30-05-2025,May,Friday,Kitchen Equipment,Kitchen World,Cash,3532.95
+215,30-08-2025,August,Saturday,Electricity,Metro Wholesale,Cash,2294.8
+216,08-04-2025,April,Tuesday,Cleaning,Metro Wholesale,Bank Transfer,2551.04
+217,22-05-2025,May,Thursday,Internet,Utility Services,Cash,1712.58
+218,02-01-2025,January,Thursday,Gas,Utility Services,Credit Card,3635.73
+219,04-12-2025,December,Thursday,Marketing,Kitchen World,Credit Card,4329
+220,05-09-2025,September,Friday,Water,Utility Services,Cash,1675.55
+221,22-08-2025,August,Friday,Water,City Market,Bank Transfer,4350.62
+222,20-10-2025,October,Monday,Internet,Kitchen World,Bank Transfer,1183.14
+223,12-06-2025,June,Thursday,Packaging,Kitchen World,Cash,2375.42
+224,06-12-2025,December,Saturday,Maintenance,Kitchen World,Bank Transfer,4904.47
+225,06-03-2025,March,Thursday,Kitchen Equipment,ABC Suppliers,Bank Transfer,4827.46
+226,14-08-2025,August,Thursday,Staff Salary,Kitchen World,Bank Transfer,2639.24
+227,15-03-2025,March,Saturday,Internet,Metro Wholesale,Bank Transfer,4357.25
+228,29-08-2025,August,Friday,Gas,City Market,Cash,1706.03
+229,29-11-2025,November,Saturday,Staff Salary,City Market,Credit Card,4261.79
+230,14-07-2025,July,Monday,Water,Kitchen World,Credit Card,3141.46
+231,19-01-2025,January,Sunday,Cleaning,City Market,Credit Card,360.74
+232,28-05-2025,May,Wednesday,Electricity,Kitchen World,Bank Transfer,3738.9
+233,21-11-2025,November,Friday,Packaging,Kitchen World,Bank Transfer,4365.44
+234,22-12-2025,December,Monday,Gas,Fresh Foods Ltd,Cash,4519.05
+235,29-01-2025,January,Wednesday,Gas,Kitchen World,Bank Transfer,1805.15
+236,06-05-2025,May,Tuesday,Kitchen Equipment,City Market,Bank Transfer,2072.02
+237,29-03-2025,March,Saturday,Rent,Kitchen World,Credit Card,413.26
+238,16-12-2025,December,Tuesday,Electricity,Utility Services,Bank Transfer,2498.38
+239,29-04-2025,April,Tuesday,Marketing,Kitchen World,Cash,3196.77
+240,08-12-2025,December,Monday,Food Supplies,Kitchen World,Cash,4496.56
+241,13-12-2025,December,Saturday,Kitchen Equipment,Kitchen World,Cash,806.72
+242,28-10-2025,October,Tuesday,Gas,Kitchen World,Credit Card,3201.91
+243,09-05-2025,May,Friday,Marketing,Metro Wholesale,Cash,4229.61
+244,05-09-2025,September,Friday,Staff Salary,Utility Services,Cash,1201.28
+245,22-10-2025,October,Wednesday,Gas,ABC Suppliers,Bank Transfer,4963.61
+246,04-12-2025,December,Thursday,Internet,Utility Services,Credit Card,1386.91
+247,26-01-2025,January,Sunday,Cleaning,ABC Suppliers,Bank Transfer,3730.96
+248,07-11-2025,November,Friday,Water,Metro Wholesale,Credit Card,1110.64
+249,09-05-2025,May,Friday,Maintenance,City Market,Credit Card,3782.78
+250,12-03-2025,March,Wednesday,Maintenance,City Market,Credit Card,503.88
+251,21-01-2025,January,Tuesday,Gas,Fresh Foods Ltd,Credit Card,3947.28
+252,06-07-2025,July,Sunday,Packaging,ABC Suppliers,Cash,674.43
+253,01-08-2025,August,Friday,Rent,Utility Services,Cash,1019.96
+254,29-09-2025,September,Monday,Kitchen Equipment,Metro Wholesale,Cash,4569.17
+255,04-09-2025,September,Thursday,Gas,ABC Suppliers,Bank Transfer,3737.87
+256,28-08-2025,August,Thursday,Staff Salary,Metro Wholesale,Credit Card,720.97
+257,12-12-2025,December,Friday,Internet,Utility Services,Cash,4837
+258,16-02-2025,February,Sunday,Internet,Utility Services,Bank Transfer,89.31
+259,21-08-2025,August,Thursday,Water,City Market,Cash,3370.69
+260,27-10-2025,October,Monday,Internet,ABC Suppliers,Bank Transfer,4115.64
+261,12-12-2025,December,Friday,Electricity,Utility Services,Credit Card,2367.95
+262,17-06-2025,June,Tuesday,Cleaning,Fresh Foods Ltd,Credit Card,1122.41
+263,26-08-2025,August,Tuesday,Packaging,Kitchen World,Bank Transfer,1524.91
+264,13-03-2025,March,Thursday,Food Supplies,ABC Suppliers,Cash,4732.38
+265,01-03-2025,March,Saturday,Staff Salary,Utility Services,Bank Transfer,1189.3
+266,18-07-2025,July,Friday,Marketing,City Market,Credit Card,1867.64
+267,04-10-2025,October,Saturday,Internet,City Market,Bank Transfer,2944.95
+268,01-08-2025,August,Friday,Maintenance,Kitchen World,Credit Card,513.13
+269,28-07-2025,July,Monday,Gas,ABC Suppliers,Bank Transfer,182.93
+270,16-08-2025,August,Saturday,Marketing,ABC Suppliers,Bank Transfer,4753.76
+271,18-12-2025,December,Thursday,Water,City Market,Cash,2731.44
+272,01-02-2025,February,Saturday,Internet,Fresh Foods Ltd,Cash,1393.89
+273,16-02-2025,February,Sunday,Maintenance,City Market,Credit Card,1076.29
+274,11-01-2025,January,Saturday,Food Supplies,Metro Wholesale,Bank Transfer,3938.24
+275,17-10-2025,October,Friday,Electricity,Utility Services,Bank Transfer,361.68
+276,28-10-2025,October,Tuesday,Electricity,Metro Wholesale,Cash,4069
+277,17-03-2025,March,Monday,Cleaning,Metro Wholesale,Bank Transfer,34.12
+278,04-10-2025,October,Saturday,Gas,Fresh Foods Ltd,Credit Card,3996.6
+279,14-01-2025,January,Tuesday,Rent,Metro Wholesale,Credit Card,94
+280,15-06-2025,June,Sunday,Food Supplies,Fresh Foods Ltd,Bank Transfer,887.75
+281,04-08-2025,August,Monday,Kitchen Equipment,Fresh Foods Ltd,Cash,585.97
+282,18-08-2025,August,Monday,Water,Fresh Foods Ltd,Cash,2575.93
+283,15-09-2025,September,Monday,Electricity,Fresh Foods Ltd,Credit Card,4728.17
+284,04-12-2025,December,Thursday,Kitchen Equipment,City Market,Bank Transfer,1522.12
+285,01-02-2025,February,Saturday,Marketing,Kitchen World,Credit Card,4239.55
+286,25-02-2025,February,Tuesday,Marketing,Kitchen World,Bank Transfer,3567.76
+287,11-02-2025,February,Tuesday,Water,Fresh Foods Ltd,Bank Transfer,3049.32
+288,21-05-2025,May,Wednesday,Cleaning,Utility Services,Credit Card,3172.72
+289,16-06-2025,June,Monday,Internet,Utility Services,Cash,4973.25
+290,21-08-2025,August,Thursday,Kitchen Equipment,Fresh Foods Ltd,Credit Card,3035.03
+291,28-02-2025,February,Friday,Maintenance,Utility Services,Credit Card,3261.56
+292,21-04-2025,April,Monday,Internet,Metro Wholesale,Cash,2268.74
+293,23-06-2025,June,Monday,Marketing,City Market,Bank Transfer,2005.68
+294,10-06-2025,June,Tuesday,Internet,ABC Suppliers,Cash,1576.37
+295,20-03-2025,March,Thursday,Maintenance,Fresh Foods Ltd,Bank Transfer,4616.47
+296,13-02-2025,February,Thursday,Staff Salary,City Market,Credit Card,2170.75
+297,10-07-2025,July,Thursday,Rent,Utility Services,Credit Card,2790.73
+298,15-10-2025,October,Wednesday,Water,Kitchen World,Cash,3356.67
+299,07-12-2025,December,Sunday,Internet,City Market,Bank Transfer,4343.1
+300,28-05-2025,May,Wednesday,Cleaning,Fresh Foods Ltd,Credit Card,1576
+301,17-09-2025,September,Wednesday,Electricity,Kitchen World,Bank Transfer,790.56
+302,25-02-2025,February,Tuesday,Water,ABC Suppliers,Bank Transfer,4229.96
+303,23-05-2025,May,Friday,Cleaning,Kitchen World,Credit Card,1146.27
+304,15-11-2025,November,Saturday,Cleaning,Utility Services,Bank Transfer,3381.38
+305,08-11-2025,November,Saturday,Maintenance,ABC Suppliers,Bank Transfer,4150.71
+306,03-04-2025,April,Thursday,Gas,ABC Suppliers,Cash,3519.44
+307,29-06-2025,June,Sunday,Food Supplies,Metro Wholesale,Credit Card,923.4
+308,03-12-2025,December,Wednesday,Internet,City Market,Credit Card,366.54
+309,16-01-2025,January,Thursday,Staff Salary,Metro Wholesale,Cash,3735.64
+310,03-08-2025,August,Sunday,Marketing,ABC Suppliers,Cash,1717.66
+311,16-06-2025,June,Monday,Cleaning,Fresh Foods Ltd,Bank Transfer,2989.19
+312,22-03-2025,March,Saturday,Cleaning,Fresh Foods Ltd,Cash,267.82
+313,15-08-2025,August,Friday,Maintenance,Utility Services,Cash,2131.59
+314,01-08-2025,August,Friday,Gas,Utility Services,Bank Transfer,1093.53
+315,26-06-2025,June,Thursday,Internet,City Market,Credit Card,572.23
+316,31-10-2025,October,Friday,Marketing,ABC Suppliers,Bank Transfer,2644.13
+317,23-04-2025,April,Wednesday,Internet,Fresh Foods Ltd,Bank Transfer,4922.54
+318,15-04-2025,April,Tuesday,Gas,Metro Wholesale,Cash,4727.71
+319,29-05-2025,May,Thursday,Water,Kitchen World,Credit Card,617.52
+320,09-08-2025,August,Saturday,Rent,Utility Services,Credit Card,663.34
+321,28-04-2025,April,Monday,Kitchen Equipment,City Market,Cash,2802.44
+322,06-02-2025,February,Thursday,Internet,Fresh Foods Ltd,Cash,4311.59
+323,10-01-2025,January,Friday,Marketing,ABC Suppliers,Credit Card,4607.39
+324,08-08-2025,August,Friday,Cleaning,City Market,Cash,2034.03
+325,29-05-2025,May,Thursday,Staff Salary,ABC Suppliers,Bank Transfer,2037.06
+326,13-11-2025,November,Thursday,Marketing,ABC Suppliers,Bank Transfer,4163.49
+327,12-08-2025,August,Tuesday,Staff Salary,Utility Services,Cash,1231.72
+328,26-09-2025,September,Friday,Staff Salary,ABC Suppliers,Credit Card,1990.92
+329,23-06-2025,June,Monday,Electricity,Metro Wholesale,Bank Transfer,1678.68
+330,19-09-2025,September,Friday,Maintenance,Utility Services,Bank Transfer,587.85
+331,28-06-2025,June,Saturday,Water,City Market,Bank Transfer,3642.35
+332,01-05-2025,May,Thursday,Staff Salary,Metro Wholesale,Bank Transfer,749.29
+333,05-11-2025,November,Wednesday,Rent,City Market,Bank Transfer,3805.87
+334,01-04-2025,April,Tuesday,Maintenance,Utility Services,Credit Card,2480.7
+335,18-08-2025,August,Monday,Maintenance,Utility Services,Credit Card,4622.29
+336,22-11-2025,November,Saturday,Cleaning,City Market,Cash,1629.58
+337,19-03-2025,March,Wednesday,Marketing,Kitchen World,Credit Card,360.07
+338,05-06-2025,June,Thursday,Gas,ABC Suppliers,Credit Card,2965.27
+339,07-02-2025,February,Friday,Gas,Fresh Foods Ltd,Bank Transfer,2319.48
+340,08-07-2025,July,Tuesday,Gas,Fresh Foods Ltd,Credit Card,402.12
+341,01-11-2025,November,Saturday,Kitchen Equipment,Utility Services,Credit Card,1934.72
+342,22-01-2025,January,Wednesday,Marketing,Utility Services,Credit Card,4547.07
+343,07-04-2025,April,Monday,Water,Utility Services,Bank Transfer,3032.93
+344,01-02-2025,February,Saturday,Marketing,ABC Suppliers,Credit Card,535.44
+345,13-02-2025,February,Thursday,Kitchen Equipment,Fresh Foods Ltd,Bank Transfer,3237.71
+346,29-12-2025,December,Monday,Marketing,Utility Services,Credit Card,4955.11
+347,09-11-2025,November,Sunday,Rent,ABC Suppliers,Cash,1832.21
+348,29-07-2025,July,Tuesday,Water,Fresh Foods Ltd,Credit Card,3400.91
+349,28-11-2025,November,Friday,Water,Fresh Foods Ltd,Credit Card,348.24
+350,14-12-2025,December,Sunday,Internet,City Market,Credit Card,1435.05
+351,05-11-2025,November,Wednesday,Rent,Utility Services,Credit Card,1680.14
+352,14-03-2025,March,Friday,Water,City Market,Credit Card,1564.95
+353,06-12-2025,December,Saturday,Internet,City Market,Bank Transfer,662.18
+354,08-06-2025,June,Sunday,Kitchen Equipment,ABC Suppliers,Bank Transfer,1895.86
+355,10-12-2025,December,Wednesday,Packaging,City Market,Credit Card,4148.22
+356,27-09-2025,September,Saturday,Staff Salary,Kitchen World,Credit Card,3237.2
+357,05-07-2025,July,Saturday,Food Supplies,Metro Wholesale,Bank Transfer,1825.74
+358,24-06-2025,June,Tuesday,Marketing,Metro Wholesale,Bank Transfer,976.19
+359,09-02-2025,February,Sunday,Gas,Fresh Foods Ltd,Credit Card,4225.25
+360,04-10-2025,October,Saturday,Packaging,Fresh Foods Ltd,Credit Card,4420.74
+361,22-06-2025,June,Sunday,Cleaning,Kitchen World,Bank Transfer,672.62
+362,25-03-2025,March,Tuesday,Rent,Utility Services,Bank Transfer,4160.1
+363,13-08-2025,August,Wednesday,Food Supplies,City Market,Credit Card,2066.08
+364,02-05-2025,May,Friday,Marketing,City Market,Cash,3060.77
+365,30-04-2025,April,Wednesday,Kitchen Equipment,Kitchen World,Bank Transfer,1211.06
+366,08-07-2025,July,Tuesday,Maintenance,Kitchen World,Cash,4736.71
+367,25-05-2025,May,Sunday,Internet,Kitchen World,Bank Transfer,2524.48
+368,13-04-2025,April,Sunday,Cleaning,ABC Suppliers,Bank Transfer,709.22
+369,25-11-2025,November,Tuesday,Marketing,Utility Services,Bank Transfer,4373.1
+370,31-12-2025,December,Wednesday,Kitchen Equipment,ABC Suppliers,Bank Transfer,4258.81
+371,24-03-2025,March,Monday,Gas,Utility Services,Bank Transfer,2257.61
+372,12-08-2025,August,Tuesday,Staff Salary,Metro Wholesale,Cash,4733.14
+373,28-06-2025,June,Saturday,Food Supplies,Kitchen World,Credit Card,2086.19
+374,11-07-2025,July,Friday,Electricity,Fresh Foods Ltd,Cash,1943.11
+375,25-04-2025,April,Friday,Food Supplies,Fresh Foods Ltd,Credit Card,1607.05
+376,29-11-2025,November,Saturday,Water,Metro Wholesale,Bank Transfer,3961.08
+377,27-05-2025,May,Tuesday,Marketing,Metro Wholesale,Credit Card,3486.44
+378,29-08-2025,August,Friday,Marketing,Fresh Foods Ltd,Bank Transfer,3084.43
+379,12-05-2025,May,Monday,Electricity,Utility Services,Credit Card,4178.12
+380,08-11-2025,November,Saturday,Kitchen Equipment,ABC Suppliers,Bank Transfer,2127.81
+381,04-06-2025,June,Wednesday,Staff Salary,Kitchen World,Credit Card,257.79
+382,15-11-2025,November,Saturday,Marketing,Kitchen World,Credit Card,332.78
+383,02-10-2025,October,Thursday,Food Supplies,Utility Services,Bank Transfer,3167.14
+384,15-03-2025,March,Saturday,Gas,Utility Services,Cash,2157.61
+385,04-05-2025,May,Sunday,Cleaning,City Market,Credit Card,2094.51
+386,13-02-2025,February,Thursday,Kitchen Equipment,Fresh Foods Ltd,Credit Card,4873.78
+387,06-10-2025,October,Monday,Kitchen Equipment,Utility Services,Credit Card,3936.33
+388,11-01-2025,January,Saturday,Internet,Fresh Foods Ltd,Credit Card,4369.19
+389,18-07-2025,July,Friday,Water,Fresh Foods Ltd,Cash,1283.18
+390,04-02-2025,February,Tuesday,Water,City Market,Credit Card,1220.81
+391,23-02-2025,February,Sunday,Cleaning,ABC Suppliers,Bank Transfer,3681.23
+392,23-01-2025,January,Thursday,Water,City Market,Bank Transfer,2739.15
+393,17-12-2025,December,Wednesday,Marketing,Kitchen World,Credit Card,4904.48
+394,04-04-2025,April,Friday,Rent,Kitchen World,Bank Transfer,334.24
+395,31-05-2025,May,Saturday,Electricity,Metro Wholesale,Bank Transfer,238.16
+396,11-06-2025,June,Wednesday,Gas,Utility Services,Cash,2586.61
+397,10-05-2025,May,Saturday,Food Supplies,Metro Wholesale,Cash,3771.39
+398,02-07-2025,July,Wednesday,Food Supplies,ABC Suppliers,Cash,4331.68
+399,05-03-2025,March,Wednesday,Water,Kitchen World,Credit Card,2196.02
+400,14-08-2025,August,Thursday,Internet,Metro Wholesale,Cash,1708.4
+401,21-12-2025,December,Sunday,Marketing,Utility Services,Cash,1849.39
+402,12-02-2025,February,Wednesday,Packaging,Kitchen World,Credit Card,2134.01
+403,03-04-2025,April,Thursday,Kitchen Equipment,Fresh Foods Ltd,Bank Transfer,1482.96
+404,17-06-2025,June,Tuesday,Maintenance,Kitchen World,Credit Card,1492.29
+405,07-08-2025,August,Thursday,Rent,ABC Suppliers,Cash,3455.03
+406,22-01-2025,January,Wednesday,Packaging,ABC Suppliers,Credit Card,4352.79
+407,11-08-2025,August,Monday,Gas,Fresh Foods Ltd,Bank Transfer,3204.56
+408,10-12-2025,December,Wednesday,Maintenance,Utility Services,Credit Card,2042.93
+409,14-12-2025,December,Sunday,Rent,Metro Wholesale,Credit Card,4764.89
+410,14-12-2025,December,Sunday,Marketing,Fresh Foods Ltd,Bank Transfer,193.3
+411,27-11-2025,November,Thursday,Water,Utility Services,Bank Transfer,1823.51
+412,06-11-2025,November,Thursday,Rent,ABC Suppliers,Cash,3401.73
+413,16-08-2025,August,Saturday,Staff Salary,Utility Services,Cash,2878.13
+414,23-07-2025,July,Wednesday,Water,Metro Wholesale,Bank Transfer,3254.81
+415,14-01-2025,January,Tuesday,Packaging,Utility Services,Cash,946.52
+416,15-10-2025,October,Wednesday,Staff Salary,ABC Suppliers,Credit Card,1323.65
+417,17-08-2025,August,Sunday,Electricity,ABC Suppliers,Credit Card,4981.9
+418,09-09-2025,September,Tuesday,Electricity,Fresh Foods Ltd,Cash,630.73
+419,30-03-2025,March,Sunday,Packaging,Fresh Foods Ltd,Credit Card,2236.65
+420,13-06-2025,June,Friday,Maintenance,Fresh Foods Ltd,Credit Card,1750.18
+421,05-10-2025,October,Sunday,Gas,Metro Wholesale,Credit Card,4458.83
+422,30-12-2025,December,Tuesday,Packaging,ABC Suppliers,Credit Card,3195.75
+423,25-04-2025,April,Friday,Staff Salary,Metro Wholesale,Bank Transfer,4925.96
+424,10-09-2025,September,Wednesday,Food Supplies,Utility Services,Cash,1817.26
+425,28-08-2025,August,Thursday,Kitchen Equipment,Fresh Foods Ltd,Bank Transfer,666.26
+426,08-06-2025,June,Sunday,Internet,City Market,Cash,4997.98
+427,27-09-2025,September,Saturday,Internet,Utility Services,Bank Transfer,3850.44
+428,06-03-2025,March,Thursday,Water,Kitchen World,Cash,3218.85
+429,15-12-2025,December,Monday,Kitchen Equipment,Utility Services,Credit Card,1735.68
+430,28-10-2025,October,Tuesday,Rent,Metro Wholesale,Cash,3843.55
+431,15-09-2025,September,Monday,Food Supplies,Utility Services,Bank Transfer,4160.33
+432,05-06-2025,June,Thursday,Rent,City Market,Bank Transfer,826.6
+433,27-06-2025,June,Friday,Kitchen Equipment,Fresh Foods Ltd,Cash,4476.73
+434,11-04-2025,April,Friday,Maintenance,ABC Suppliers,Bank Transfer,4782.63
+435,17-11-2025,November,Monday,Gas,Fresh Foods Ltd,Credit Card,3079.85
+436,25-11-2025,November,Tuesday,Rent,Utility Services,Bank Transfer,2967.21
+437,29-03-2025,March,Saturday,Maintenance,Utility Services,Cash,3129.91
+438,16-10-2025,October,Thursday,Food Supplies,Fresh Foods Ltd,Bank Transfer,4129.68
+439,24-01-2025,January,Friday,Maintenance,ABC Suppliers,Credit Card,3859.69
+440,18-04-2025,April,Friday,Cleaning,City Market,Bank Transfer,2094.6
+441,12-09-2025,September,Friday,Maintenance,City Market,Cash,2736.98
+442,05-09-2025,September,Friday,Electricity,City Market,Cash,4027.35
+443,02-06-2025,June,Monday,Marketing,Fresh Foods Ltd,Bank Transfer,383.41
+444,14-08-2025,August,Thursday,Internet,Metro Wholesale,Cash,2431.57
+445,07-11-2025,November,Friday,Rent,City Market,Cash,1576.66
+446,26-06-2025,June,Thursday,Internet,ABC Suppliers,Credit Card,671.22
+447,15-10-2025,October,Wednesday,Staff Salary,Kitchen World,Bank Transfer,1609.2
+448,17-05-2025,May,Saturday,Marketing,Fresh Foods Ltd,Bank Transfer,1254.64
+449,29-05-2025,May,Thursday,Internet,Kitchen World,Bank Transfer,4323.54
+450,23-03-2025,March,Sunday,Water,City Market,Cash,4670.08
+451,08-04-2025,April,Tuesday,Rent,Utility Services,Cash,2501.36
+452,13-09-2025,September,Saturday,Gas,Fresh Foods Ltd,Cash,2496.9
+453,16-09-2025,September,Tuesday,Marketing,Metro Wholesale,Credit Card,4834.1
+454,30-06-2025,June,Monday,Food Supplies,Kitchen World,Credit Card,271.69
+455,01-12-2025,December,Monday,Maintenance,Utility Services,Bank Transfer,2363.52
+456,25-02-2025,February,Tuesday,Internet,ABC Suppliers,Credit Card,687
+457,07-07-2025,July,Monday,Internet,Kitchen World,Bank Transfer,1842.37
+458,19-10-2025,October,Sunday,Kitchen Equipment,Utility Services,Cash,989.38
+459,07-02-2025,February,Friday,Internet,Utility Services,Cash,2531.19
+460,16-11-2025,November,Sunday,Maintenance,Metro Wholesale,Bank Transfer,3062.99
+461,21-07-2025,July,Monday,Water,ABC Suppliers,Credit Card,3978.59
+462,07-07-2025,July,Monday,Rent,Utility Services,Cash,1011.31
+463,14-09-2025,September,Sunday,Food Supplies,Metro Wholesale,Credit Card,245.61
+464,20-06-2025,June,Friday,Marketing,Metro Wholesale,Credit Card,2606.28
+465,21-09-2025,September,Sunday,Rent,Utility Services,Cash,1653.27
+466,25-03-2025,March,Tuesday,Internet,City Market,Cash,4953.27
+467,31-10-2025,October,Friday,Water,Utility Services,Credit Card,2546.43
+468,08-09-2025,September,Monday,Packaging,Kitchen World,Bank Transfer,2823.36
+469,08-07-2025,July,Tuesday,Water,Kitchen World,Credit Card,3375.56
+470,07-06-2025,June,Saturday,Packaging,City Market,Bank Transfer,4363.05
+471,02-11-2025,November,Sunday,Marketing,City Market,Credit Card,1342.34
+472,23-10-2025,October,Thursday,Electricity,Utility Services,Cash,3612.57
+473,29-03-2025,March,Saturday,Kitchen Equipment,Utility Services,Cash,3152.55
+474,17-03-2025,March,Monday,Maintenance,Utility Services,Credit Card,1226.14
+475,26-02-2025,February,Wednesday,Electricity,ABC Suppliers,Cash,114.31
+476,19-03-2025,March,Wednesday,Internet,Kitchen World,Credit Card,3458.69
+477,10-11-2025,November,Monday,Marketing,City Market,Credit Card,4366.63
+478,01-02-2025,February,Saturday,Packaging,Metro Wholesale,Credit Card,707.65
+479,16-06-2025,June,Monday,Maintenance,Kitchen World,Cash,2402.29
+480,30-03-2025,March,Sunday,Marketing,ABC Suppliers,Credit Card,4562.38
+481,01-07-2025,July,Tuesday,Maintenance,City Market,Credit Card,3864.51
+482,26-11-2025,November,Wednesday,Packaging,Kitchen World,Bank Transfer,1336.52
+483,07-05-2025,May,Wednesday,Gas,Metro Wholesale,Cash,2799.27
+484,28-05-2025,May,Wednesday,Packaging,City Market,Cash,1052.24
+485,12-06-2025,June,Thursday,Marketing,City Market,Cash,1757.04
+486,28-05-2025,May,Wednesday,Staff Salary,Utility Services,Cash,2875.91
+487,22-07-2025,July,Tuesday,Water,Metro Wholesale,Cash,4773.95
+488,22-01-2025,January,Wednesday,Gas,Fresh Foods Ltd,Cash,4777.46
+489,15-08-2025,August,Friday,Maintenance,Kitchen World,Bank Transfer,1297.09
+490,14-04-2025,April,Monday,Kitchen Equipment,Utility Services,Credit Card,1370.24
+491,20-05-2025,May,Tuesday,Rent,City Market,Credit Card,563.95
+492,03-05-2025,May,Saturday,Electricity,Utility Services,Bank Transfer,272.81
+493,23-11-2025,November,Sunday,Electricity,Kitchen World,Cash,281.41
+494,30-08-2025,August,Saturday,Staff Salary,Metro Wholesale,Bank Transfer,3412.34
+495,09-10-2025,October,Thursday,Rent,Kitchen World,Cash,2046.4
+496,30-11-2025,November,Sunday,Electricity,ABC Suppliers,Cash,3784.44
+497,27-05-2025,May,Tuesday,Maintenance,Fresh Foods Ltd,Credit Card,314.63
+498,21-10-2025,October,Tuesday,Electricity,City Market,Bank Transfer,2685.06
+499,31-03-2025,March,Monday,Internet,Metro Wholesale,Bank Transfer,4413.58
+500,23-07-2025,July,Wednesday,Marketing,City Market,Cash,947.83
+501,20-01-2025,January,Monday,Food Supplies,Utility Services,Bank Transfer,1505.99
+502,21-06-2025,June,Saturday,Gas,City Market,Credit Card,2282.66
+503,26-09-2025,September,Friday,Marketing,Metro Wholesale,Credit Card,4448.51
+504,28-08-2025,August,Thursday,Gas,Fresh Foods Ltd,Cash,980.2
+505,25-03-2025,March,Tuesday,Packaging,ABC Suppliers,Credit Card,2305.39
+506,06-04-2025,April,Sunday,Food Supplies,ABC Suppliers,Credit Card,3688.36
+507,12-12-2025,December,Friday,Electricity,City Market,Cash,893.96
+508,07-08-2025,August,Thursday,Kitchen Equipment,Kitchen World,Credit Card,1653.07
+509,18-02-2025,February,Tuesday,Rent,Kitchen World,Cash,4908.79
+510,08-05-2025,May,Thursday,Food Supplies,Metro Wholesale,Cash,1318.71
+511,17-05-2025,May,Saturday,Water,City Market,Credit Card,1523.69
+512,06-01-2025,January,Monday,Gas,City Market,Bank Transfer,3275.34
+513,01-02-2025,February,Saturday,Maintenance,ABC Suppliers,Bank Transfer,608.76
+514,27-07-2025,July,Sunday,Maintenance,City Market,Cash,2522.55
+515,20-12-2025,December,Saturday,Staff Salary,ABC Suppliers,Cash,3200.78
+516,11-11-2025,November,Tuesday,Electricity,Metro Wholesale,Cash,1111.26
+517,20-03-2025,March,Thursday,Marketing,Utility Services,Cash,3743.72
+518,01-08-2025,August,Friday,Packaging,Kitchen World,Credit Card,2755.19
+519,07-12-2025,December,Sunday,Electricity,City Market,Credit Card,3814.06
+520,11-02-2025,February,Tuesday,Kitchen Equipment,City Market,Cash,2244.8
+521,09-02-2025,February,Sunday,Cleaning,Utility Services,Credit Card,578.8
+522,14-04-2025,April,Monday,Cleaning,Metro Wholesale,Cash,2692.57
+523,24-09-2025,September,Wednesday,Marketing,Metro Wholesale,Credit Card,598.88
+524,26-10-2025,October,Sunday,Marketing,Utility Services,Cash,472.89
+525,29-01-2025,January,Wednesday,Marketing,Kitchen World,Cash,677.08
+526,16-10-2025,October,Thursday,Food Supplies,City Market,Cash,2802.81
+527,12-01-2025,January,Sunday,Internet,Fresh Foods Ltd,Credit Card,1287.2
+528,22-04-2025,April,Tuesday,Cleaning,Kitchen World,Cash,383.69
+529,25-12-2025,December,Thursday,Staff Salary,Fresh Foods Ltd,Bank Transfer,2714.99
+530,30-08-2025,August,Saturday,Food Supplies,Metro Wholesale,Bank Transfer,1449.71
+531,25-11-2025,November,Tuesday,Packaging,Kitchen World,Cash,3236.49
+532,15-07-2025,July,Tuesday,Marketing,Kitchen World,Cash,4350.71
+533,11-02-2025,February,Tuesday,Maintenance,Utility Services,Bank Transfer,4821.44
+534,01-12-2025,December,Monday,Water,Utility Services,Cash,610.79
+535,28-09-2025,September,Sunday,Rent,Metro Wholesale,Bank Transfer,3644.73
+536,12-01-2025,January,Sunday,Gas,City Market,Credit Card,2325.76
+537,06-08-2025,August,Wednesday,Kitchen Equipment,Metro Wholesale,Bank Transfer,1908.8
+538,24-08-2025,August,Sunday,Water,Metro Wholesale,Credit Card,792.5
+539,27-02-2025,February,Thursday,Food Supplies,Kitchen World,Credit Card,4051.2
+540,09-01-2025,January,Thursday,Electricity,Fresh Foods Ltd,Credit Card,1046.29
+541,18-01-2025,January,Saturday,Marketing,City Market,Bank Transfer,2996.97
+542,06-05-2025,May,Tuesday,Packaging,Kitchen World,Bank Transfer,240.3
+543,04-10-2025,October,Saturday,Electricity,Fresh Foods Ltd,Bank Transfer,3776.84
+544,15-09-2025,September,Monday,Gas,City Market,Credit Card,1186.12
+545,13-06-2025,June,Friday,Cleaning,City Market,Cash,2997.63
+546,02-05-2025,May,Friday,Gas,City Market,Credit Card,4383.77
+547,24-04-2025,April,Thursday,Internet,Fresh Foods Ltd,Credit Card,1516.49
+548,30-10-2025,October,Thursday,Packaging,City Market,Credit Card,4559.66
+549,07-08-2025,August,Thursday,Kitchen Equipment,ABC Suppliers,Credit Card,2488.19
+550,10-12-2025,December,Wednesday,Internet,ABC Suppliers,Credit Card,3933.31
+551,02-08-2025,August,Saturday,Internet,Kitchen World,Bank Transfer,763.1
+552,03-10-2025,October,Friday,Marketing,Metro Wholesale,Cash,1220.02
+553,29-12-2025,December,Monday,Rent,Fresh Foods Ltd,Credit Card,4032.77
+554,31-07-2025,July,Thursday,Internet,Metro Wholesale,Cash,2795.29
+555,05-05-2025,May,Monday,Gas,City Market,Bank Transfer,1032.62
+556,19-08-2025,August,Tuesday,Water,City Market,Bank Transfer,480.47
+557,27-01-2025,January,Monday,Gas,Utility Services,Credit Card,1898.3
+558,21-01-2025,January,Tuesday,Staff Salary,Utility Services,Credit Card,957.05
+559,10-12-2025,December,Wednesday,Kitchen Equipment,Metro Wholesale,Cash,1100.74
+560,05-06-2025,June,Thursday,Food Supplies,Metro Wholesale,Credit Card,1074.8
+561,02-03-2025,March,Sunday,Packaging,Kitchen World,Bank Transfer,4997.87
+562,23-12-2025,December,Tuesday,Cleaning,Kitchen World,Bank Transfer,3524.77
+563,10-10-2025,October,Friday,Water,Kitchen World,Cash,3882.06
+564,01-10-2025,October,Wednesday,Maintenance,ABC Suppliers,Cash,1809.11
+565,20-09-2025,September,Saturday,Marketing,City Market,Cash,2340.7
+566,13-06-2025,June,Friday,Electricity,Kitchen World,Bank Transfer,1866.11
+567,16-10-2025,October,Thursday,Electricity,Fresh Foods Ltd,Cash,3711.44
+568,11-10-2025,October,Saturday,Cleaning,Kitchen World,Cash,2904.13
+569,20-03-2025,March,Thursday,Electricity,Kitchen World,Credit Card,1662.73
+570,06-05-2025,May,Tuesday,Marketing,City Market,Cash,2762.2
+571,12-05-2025,May,Monday,Marketing,City Market,Credit Card,4833.21
+572,09-09-2025,September,Tuesday,Marketing,ABC Suppliers,Bank Transfer,857.8
+573,13-03-2025,March,Thursday,Packaging,Metro Wholesale,Credit Card,2741.8
+574,25-11-2025,November,Tuesday,Food Supplies,Fresh Foods Ltd,Credit Card,2629.24
+575,25-01-2025,January,Saturday,Food Supplies,City Market,Bank Transfer,2073.71
+576,04-02-2025,February,Tuesday,Packaging,Metro Wholesale,Credit Card,772.13
+577,22-08-2025,August,Friday,Water,City Market,Credit Card,321.04
+578,12-11-2025,November,Wednesday,Marketing,Fresh Foods Ltd,Bank Transfer,3303.24
+579,30-09-2025,September,Tuesday,Kitchen Equipment,Fresh Foods Ltd,Credit Card,2068.47
+580,21-05-2025,May,Wednesday,Kitchen Equipment,Fresh Foods Ltd,Credit Card,4887.85
+581,24-12-2025,December,Wednesday,Maintenance,Metro Wholesale,Bank Transfer,2164.25
+582,19-02-2025,February,Wednesday,Kitchen Equipment,Metro Wholesale,Credit Card,761.51
+583,27-09-2025,September,Saturday,Gas,ABC Suppliers,Cash,4079.77
+584,10-02-2025,February,Monday,Water,Kitchen World,Credit Card,4797.3
+585,05-05-2025,May,Monday,Packaging,City Market,Bank Transfer,1144.77
+586,01-12-2025,December,Monday,Maintenance,Fresh Foods Ltd,Cash,3802.74
+587,14-07-2025,July,Monday,Internet,Fresh Foods Ltd,Credit Card,2772.45
+588,05-01-2025,January,Sunday,Packaging,Kitchen World,Cash,873.49
+589,27-11-2025,November,Thursday,Water,Fresh Foods Ltd,Credit Card,2837.97
+590,22-01-2025,January,Wednesday,Electricity,City Market,Credit Card,1072.86
+591,01-09-2025,September,Monday,Gas,Fresh Foods Ltd,Credit Card,251.88
+592,24-05-2025,May,Saturday,Kitchen Equipment,Fresh Foods Ltd,Bank Transfer,2826.28
+593,11-06-2025,June,Wednesday,Food Supplies,Utility Services,Bank Transfer,4808.12
+594,31-12-2025,December,Wednesday,Internet,ABC Suppliers,Bank Transfer,4645.8
+595,16-10-2025,October,Thursday,Electricity,Kitchen World,Credit Card,2842.15
+596,04-10-2025,October,Saturday,Water,City Market,Bank Transfer,1931.55
+597,19-12-2025,December,Friday,Packaging,City Market,Cash,410.57
+598,28-01-2025,January,Tuesday,Staff Salary,Fresh Foods Ltd,Cash,2196.7
+599,06-11-2025,November,Thursday,Cleaning,Kitchen World,Cash,4775.19
+600,16-01-2025,January,Thursday,Maintenance,Kitchen World,Cash,1381.17
+601,27-04-2025,April,Sunday,Water,Kitchen World,Cash,2774.13
+602,06-04-2025,April,Sunday,Maintenance,Kitchen World,Bank Transfer,2937.66
+603,13-11-2025,November,Thursday,Gas,City Market,Bank Transfer,3994.31
+604,12-02-2025,February,Wednesday,Gas,City Market,Credit Card,788.02
+605,20-03-2025,March,Thursday,Packaging,ABC Suppliers,Bank Transfer,1960.32
+606,16-02-2025,February,Sunday,Food Supplies,Kitchen World,Cash,4715.94
+607,19-05-2025,May,Monday,Staff Salary,Metro Wholesale,Cash,679.88
+608,18-08-2025,August,Monday,Kitchen Equipment,Kitchen World,Bank Transfer,2782.61
+609,14-01-2025,January,Tuesday,Staff Salary,Fresh Foods Ltd,Credit Card,1782.49
+610,03-11-2025,November,Monday,Water,Fresh Foods Ltd,Cash,4321.32
+611,31-07-2025,July,Thursday,Internet,City Market,Credit Card,3900.26
+612,05-05-2025,May,Monday,Cleaning,City Market,Cash,2615.1
+613,28-03-2025,March,Friday,Rent,ABC Suppliers,Cash,1359.22
+614,16-03-2025,March,Sunday,Staff Salary,ABC Suppliers,Cash,852.69
+615,03-06-2025,June,Tuesday,Marketing,ABC Suppliers,Cash,3917.68
+616,07-05-2025,May,Wednesday,Packaging,Utility Services,Credit Card,3132.67
+617,11-04-2025,April,Friday,Marketing,ABC Suppliers,Bank Transfer,552.72
+618,22-07-2025,July,Tuesday,Water,Kitchen World,Cash,4211.23
+619,14-08-2025,August,Thursday,Water,City Market,Credit Card,2164.47
+620,11-03-2025,March,Tuesday,Gas,City Market,Bank Transfer,1616.91
+621,03-09-2025,September,Wednesday,Water,Kitchen World,Cash,904.63
+622,30-05-2025,May,Friday,Packaging,Kitchen World,Credit Card,3480.89
+623,05-05-2025,May,Monday,Water,Kitchen World,Cash,1892.76
+624,28-02-2025,February,Friday,Cleaning,Utility Services,Bank Transfer,1015
+625,16-12-2025,December,Tuesday,Kitchen Equipment,City Market,Cash,154.04
+626,29-12-2025,December,Monday,Electricity,ABC Suppliers,Credit Card,2203.51
+627,05-02-2025,February,Wednesday,Internet,Metro Wholesale,Credit Card,3371.43
+628,05-06-2025,June,Thursday,Electricity,Metro Wholesale,Credit Card,1278.35
+629,05-08-2025,August,Tuesday,Internet,Utility Services,Cash,388.35
+630,26-10-2025,October,Sunday,Internet,City Market,Cash,2681.15
+631,06-10-2025,October,Monday,Food Supplies,ABC Suppliers,Credit Card,3957.79
+632,02-10-2025,October,Thursday,Cleaning,Fresh Foods Ltd,Bank Transfer,3198.14
+633,08-05-2025,May,Thursday,Maintenance,Metro Wholesale,Credit Card,3330.18
+634,10-11-2025,November,Monday,Food Supplies,City Market,Credit Card,2824.84
+635,28-11-2025,November,Friday,Internet,ABC Suppliers,Cash,4834.72
+636,24-02-2025,February,Monday,Food Supplies,Metro Wholesale,Credit Card,511.06
+637,23-09-2025,September,Tuesday,Kitchen Equipment,Utility Services,Bank Transfer,2910.98
+638,17-08-2025,August,Sunday,Water,City Market,Credit Card,1967.85
+639,20-12-2025,December,Saturday,Kitchen Equipment,Fresh Foods Ltd,Cash,770.71
+640,23-02-2025,February,Sunday,Gas,Fresh Foods Ltd,Bank Transfer,2091.56
+641,14-03-2025,March,Friday,Water,Kitchen World,Bank Transfer,1573.21
+642,24-09-2025,September,Wednesday,Marketing,Fresh Foods Ltd,Cash,1754.54
+643,23-12-2025,December,Tuesday,Marketing,ABC Suppliers,Bank Transfer,1608.17
+644,30-12-2025,December,Tuesday,Staff Salary,ABC Suppliers,Credit Card,132.47
+645,25-02-2025,February,Tuesday,Maintenance,City Market,Bank Transfer,4004.25
+646,22-09-2025,September,Monday,Rent,ABC Suppliers,Credit Card,2768.51
+647,07-08-2025,August,Thursday,Marketing,Kitchen World,Credit Card,1174.64
+648,05-04-2025,April,Saturday,Rent,Kitchen World,Cash,3209.58
+649,15-01-2025,January,Wednesday,Packaging,Metro Wholesale,Cash,3078.25
+650,31-10-2025,October,Friday,Internet,City Market,Bank Transfer,1956.4
+651,16-04-2025,April,Wednesday,Gas,Fresh Foods Ltd,Credit Card,3766.58
+652,22-02-2025,February,Saturday,Kitchen Equipment,ABC Suppliers,Bank Transfer,951.06
+653,23-08-2025,August,Saturday,Staff Salary,Kitchen World,Credit Card,1326.52
+654,24-11-2025,November,Monday,Water,Utility Services,Cash,2992.91
+655,28-10-2025,October,Tuesday,Staff Salary,Kitchen World,Credit Card,1752.66
+656,30-03-2025,March,Sunday,Maintenance,ABC Suppliers,Credit Card,3535.82
+657,30-10-2025,October,Thursday,Staff Salary,ABC Suppliers,Bank Transfer,3367.11
+658,03-05-2025,May,Saturday,Gas,ABC Suppliers,Credit Card,602.41
+659,14-03-2025,March,Friday,Kitchen Equipment,Utility Services,Bank Transfer,1954.55
+660,22-10-2025,October,Wednesday,Internet,Kitchen World,Credit Card,2126.73
+661,03-10-2025,October,Friday,Packaging,Metro Wholesale,Credit Card,4597.42
+662,27-03-2025,March,Thursday,Marketing,Metro Wholesale,Cash,1458.4
+663,19-08-2025,August,Tuesday,Cleaning,ABC Suppliers,Bank Transfer,286.98
+664,06-09-2025,September,Saturday,Rent,Kitchen World,Credit Card,991.74
+665,16-09-2025,September,Tuesday,Maintenance,City Market,Cash,2484.95
+666,01-08-2025,August,Friday,Packaging,Kitchen World,Bank Transfer,4202.66
+667,12-02-2025,February,Wednesday,Cleaning,Metro Wholesale,Cash,173.69
+668,17-01-2025,January,Friday,Gas,ABC Suppliers,Bank Transfer,1139.72
+669,23-08-2025,August,Saturday,Cleaning,Kitchen World,Credit Card,3717.74
+670,19-09-2025,September,Friday,Staff Salary,ABC Suppliers,Credit Card,2872.12
+671,07-07-2025,July,Monday,Kitchen Equipment,Fresh Foods Ltd,Credit Card,4116.6
+672,14-08-2025,August,Thursday,Kitchen Equipment,Kitchen World,Bank Transfer,1108.34
+673,01-12-2025,December,Monday,Electricity,Fresh Foods Ltd,Cash,1502.59
+674,15-05-2025,May,Thursday,Water,Fresh Foods Ltd,Cash,4313.75
+675,02-03-2025,March,Sunday,Electricity,City Market,Credit Card,1065.19
+676,19-12-2025,December,Friday,Water,Utility Services,Credit Card,4308.02
+677,08-08-2025,August,Friday,Rent,Metro Wholesale,Bank Transfer,3088.43
+678,31-01-2025,January,Friday,Cleaning,ABC Suppliers,Credit Card,1767.06
+679,03-10-2025,October,Friday,Rent,City Market,Cash,1631.8
+680,29-05-2025,May,Thursday,Cleaning,Utility Services,Credit Card,1351.37
+681,18-02-2025,February,Tuesday,Rent,Kitchen World,Bank Transfer,4814.6
+682,22-05-2025,May,Thursday,Maintenance,Metro Wholesale,Bank Transfer,651.9
+683,16-03-2025,March,Sunday,Packaging,Metro Wholesale,Credit Card,1624.04
+684,21-07-2025,July,Monday,Marketing,City Market,Cash,728.01
+685,18-11-2025,November,Tuesday,Internet,Fresh Foods Ltd,Credit Card,1888.36
+686,17-02-2025,February,Monday,Internet,ABC Suppliers,Credit Card,2587.76
+687,08-07-2025,July,Tuesday,Marketing,ABC Suppliers,Credit Card,4752.27
+688,02-01-2025,January,Thursday,Packaging,Kitchen World,Credit Card,483.85
+689,07-12-2025,December,Sunday,Packaging,Fresh Foods Ltd,Credit Card,1803.95
+690,23-07-2025,July,Wednesday,Electricity,Metro Wholesale,Cash,4841.28
+691,18-05-2025,May,Sunday,Water,ABC Suppliers,Credit Card,4145.15
+692,23-10-2025,October,Thursday,Rent,Kitchen World,Cash,2839.39
+693,16-12-2025,December,Tuesday,Food Supplies,City Market,Cash,248.8
+694,09-01-2025,January,Thursday,Staff Salary,Metro Wholesale,Cash,4648.58
+695,22-08-2025,August,Friday,Food Supplies,Kitchen World,Bank Transfer,4959.35
+696,19-12-2025,December,Friday,Rent,ABC Suppliers,Bank Transfer,4413.1
+697,21-05-2025,May,Wednesday,Staff Salary,ABC Suppliers,Bank Transfer,3279.85
+698,10-07-2025,July,Thursday,Maintenance,Metro Wholesale,Bank Transfer,4520.93
+699,22-07-2025,July,Tuesday,Maintenance,City Market,Bank Transfer,1541.44
+700,08-08-2025,August,Friday,Maintenance,Fresh Foods Ltd,Bank Transfer,474.17
+701,20-04-2025,April,Sunday,Marketing,Utility Services,Bank Transfer,408.13
+702,23-09-2025,September,Tuesday,Maintenance,Fresh Foods Ltd,Credit Card,2236.43
+703,25-06-2025,June,Wednesday,Staff Salary,Kitchen World,Credit Card,4941.01
+704,09-03-2025,March,Sunday,Marketing,Kitchen World,Bank Transfer,372.72
+705,22-02-2025,February,Saturday,Staff Salary,ABC Suppliers,Bank Transfer,1580.49
+706,15-07-2025,July,Tuesday,Rent,City Market,Bank Transfer,3215.05
+707,05-02-2025,February,Wednesday,Kitchen Equipment,Utility Services,Credit Card,2825.19
+708,26-03-2025,March,Wednesday,Marketing,Metro Wholesale,Credit Card,1768.91
+709,19-03-2025,March,Wednesday,Internet,Kitchen World,Bank Transfer,3088.06
+710,14-02-2025,February,Friday,Staff Salary,Fresh Foods Ltd,Credit Card,717.27
+711,16-07-2025,July,Wednesday,Water,ABC Suppliers,Bank Transfer,4816.98
+712,07-05-2025,May,Wednesday,Gas,Metro Wholesale,Credit Card,3230.21
+713,04-11-2025,November,Tuesday,Cleaning,ABC Suppliers,Credit Card,3611.47
+714,14-01-2025,January,Tuesday,Maintenance,Metro Wholesale,Credit Card,4381.62
+715,07-11-2025,November,Friday,Kitchen Equipment,Kitchen World,Cash,959.46
+716,27-11-2025,November,Thursday,Food Supplies,Metro Wholesale,Cash,3923.33
+717,17-07-2025,July,Thursday,Staff Salary,City Market,Credit Card,1220.59
+718,06-02-2025,February,Thursday,Kitchen Equipment,Fresh Foods Ltd,Cash,4445.85
+719,12-06-2025,June,Thursday,Rent,Utility Services,Cash,1946.45
+720,07-07-2025,July,Monday,Kitchen Equipment,Kitchen World,Bank Transfer,3421.05
+721,09-01-2025,January,Thursday,Cleaning,ABC Suppliers,Bank Transfer,356.31
+722,21-01-2025,January,Tuesday,Food Supplies,Kitchen World,Credit Card,4744.43
+723,27-05-2025,May,Tuesday,Maintenance,Kitchen World,Cash,3568.89
+724,26-12-2025,December,Friday,Internet,Utility Services,Credit Card,430.49
+725,12-11-2025,November,Wednesday,Rent,ABC Suppliers,Bank Transfer,1401.79
+726,19-09-2025,September,Friday,Electricity,Metro Wholesale,Credit Card,4872.08
+727,17-06-2025,June,Tuesday,Internet,City Market,Credit Card,2940.46
+728,26-11-2025,November,Wednesday,Staff Salary,Kitchen World,Credit Card,1564.64
+729,03-05-2025,May,Saturday,Food Supplies,Kitchen World,Bank Transfer,1237.51
+730,21-08-2025,August,Thursday,Cleaning,ABC Suppliers,Credit Card,3051.99
+731,03-12-2025,December,Wednesday,Packaging,Fresh Foods Ltd,Credit Card,894.72
+732,12-03-2025,March,Wednesday,Packaging,Kitchen World,Cash,76.53
+733,25-09-2025,September,Thursday,Kitchen Equipment,City Market,Cash,3919.28
+734,27-03-2025,March,Thursday,Water,ABC Suppliers,Credit Card,652.11
+735,02-03-2025,March,Sunday,Food Supplies,Kitchen World,Cash,1688.35
+736,26-09-2025,September,Friday,Staff Salary,Utility Services,Credit Card,1329.49
+737,09-02-2025,February,Sunday,Marketing,ABC Suppliers,Bank Transfer,2286.88
+738,13-09-2025,September,Saturday,Cleaning,Metro Wholesale,Cash,851.07
+739,22-02-2025,February,Saturday,Cleaning,Fresh Foods Ltd,Bank Transfer,3377.12
+740,18-09-2025,September,Thursday,Food Supplies,Fresh Foods Ltd,Bank Transfer,239.31
+741,24-01-2025,January,Friday,Marketing,Metro Wholesale,Bank Transfer,1832.6
+742,19-01-2025,January,Sunday,Kitchen Equipment,City Market,Credit Card,4019.52
+743,02-12-2025,December,Tuesday,Internet,Metro Wholesale,Cash,1138.09
+744,13-06-2025,June,Friday,Gas,Utility Services,Cash,4133.47
+745,03-03-2025,March,Monday,Kitchen Equipment,Fresh Foods Ltd,Bank Transfer,3373.16
+746,25-04-2025,April,Friday,Kitchen Equipment,Kitchen World,Bank Transfer,4907.44
+747,27-08-2025,August,Wednesday,Gas,ABC Suppliers,Cash,3872.17
+748,14-02-2025,February,Friday,Kitchen Equipment,ABC Suppliers,Bank Transfer,2294.6
+749,30-05-2025,May,Friday,Cleaning,City Market,Credit Card,3926.85
+750,05-05-2025,May,Monday,Marketing,Kitchen World,Bank Transfer,1854
+751,07-10-2025,October,Tuesday,Electricity,Kitchen World,Bank Transfer,769.82
+752,30-04-2025,April,Wednesday,Kitchen Equipment,City Market,Bank Transfer,1745.19
+753,21-06-2025,June,Saturday,Food Supplies,Kitchen World,Credit Card,3799.47
+754,07-06-2025,June,Saturday,Staff Salary,Metro Wholesale,Cash,1041.87
+755,09-09-2025,September,Tuesday,Food Supplies,Metro Wholesale,Credit Card,4863.34
+756,24-05-2025,May,Saturday,Staff Salary,Metro Wholesale,Credit Card,238.62
+757,31-07-2025,July,Thursday,Packaging,Kitchen World,Credit Card,4479.98
+758,13-02-2025,February,Thursday,Cleaning,Metro Wholesale,Credit Card,495.97
+759,21-07-2025,July,Monday,Staff Salary,Fresh Foods Ltd,Cash,2967.64
+760,06-12-2025,December,Saturday,Rent,ABC Suppliers,Cash,1199.12
+761,21-07-2025,July,Monday,Packaging,ABC Suppliers,Cash,4162.86
+762,20-08-2025,August,Wednesday,Gas,Metro Wholesale,Bank Transfer,1183.38
+763,27-10-2025,October,Monday,Staff Salary,Metro Wholesale,Cash,793.94
+764,27-08-2025,August,Wednesday,Water,Utility Services,Cash,2044.43
+765,17-04-2025,April,Thursday,Marketing,ABC Suppliers,Bank Transfer,1555.37
+766,16-02-2025,February,Sunday,Rent,ABC Suppliers,Credit Card,4041.83
+767,23-12-2025,December,Tuesday,Cleaning,ABC Suppliers,Bank Transfer,220.84
+768,16-02-2025,February,Sunday,Packaging,ABC Suppliers,Cash,1256.13
+769,20-09-2025,September,Saturday,Food Supplies,ABC Suppliers,Bank Transfer,3392.37
+770,16-01-2025,January,Thursday,Internet,Utility Services,Credit Card,4275.91
+771,09-10-2025,October,Thursday,Electricity,Fresh Foods Ltd,Bank Transfer,491.73
+772,04-03-2025,March,Tuesday,Food Supplies,Metro Wholesale,Bank Transfer,327.11
+773,12-04-2025,April,Saturday,Internet,City Market,Credit Card,1873.75
+774,13-02-2025,February,Thursday,Cleaning,Fresh Foods Ltd,Bank Transfer,2938.87
+775,03-02-2025,February,Monday,Electricity,Kitchen World,Bank Transfer,4514.43
+776,17-02-2025,February,Monday,Water,Kitchen World,Bank Transfer,630.19
+777,28-03-2025,March,Friday,Cleaning,City Market,Cash,2177.12
+778,12-09-2025,September,Friday,Food Supplies,Kitchen World,Bank Transfer,1925.99
+779,01-07-2025,July,Tuesday,Electricity,ABC Suppliers,Cash,4543.35
+780,17-08-2025,August,Sunday,Rent,Utility Services,Credit Card,192.55
+781,06-05-2025,May,Tuesday,Maintenance,Kitchen World,Credit Card,1489.62
+782,03-09-2025,September,Wednesday,Food Supplies,Kitchen World,Bank Transfer,456.85
+783,03-08-2025,August,Sunday,Electricity,Utility Services,Bank Transfer,3220.41
+784,19-11-2025,November,Wednesday,Kitchen Equipment,Kitchen World,Credit Card,3978.33
+785,03-07-2025,July,Thursday,Marketing,Kitchen World,Cash,2731.7
+786,17-10-2025,October,Friday,Kitchen Equipment,ABC Suppliers,Bank Transfer,1621.59
+787,14-01-2025,January,Tuesday,Water,Fresh Foods Ltd,Cash,2993.64
+788,30-01-2025,January,Thursday,Marketing,Utility Services,Bank Transfer,2656.57
+789,23-03-2025,March,Sunday,Staff Salary,Metro Wholesale,Cash,1254.33
+790,01-10-2025,October,Wednesday,Packaging,Metro Wholesale,Credit Card,298.43
+791,18-07-2025,July,Friday,Water,Metro Wholesale,Bank Transfer,4677.33
+792,02-05-2025,May,Friday,Cleaning,City Market,Credit Card,1603.66
+793,03-07-2025,July,Thursday,Cleaning,City Market,Cash,160.47
+794,18-10-2025,October,Saturday,Cleaning,Metro Wholesale,Cash,727.67
+795,05-10-2025,October,Sunday,Gas,Fresh Foods Ltd,Bank Transfer,894.27
+796,29-01-2025,January,Wednesday,Electricity,Fresh Foods Ltd,Credit Card,3016.28
+797,02-09-2025,September,Tuesday,Food Supplies,Utility Services,Bank Transfer,1672.04
+798,08-03-2025,March,Saturday,Water,ABC Suppliers,Bank Transfer,3590.35
+799,12-01-2025,January,Sunday,Rent,Metro Wholesale,Bank Transfer,2941.31
+800,27-09-2025,September,Saturday,Water,ABC Suppliers,Credit Card,4803.58
+801,06-12-2025,December,Saturday,Internet,ABC Suppliers,Cash,2938.36
+802,15-06-2025,June,Sunday,Rent,City Market,Cash,4879.79
+803,24-11-2025,November,Monday,Marketing,Metro Wholesale,Credit Card,3252.92
+804,15-10-2025,October,Wednesday,Packaging,Utility Services,Cash,4450.21
+805,25-04-2025,April,Friday,Maintenance,Metro Wholesale,Cash,2952.97
+806,07-06-2025,June,Saturday,Packaging,Metro Wholesale,Bank Transfer,3448.72
+807,01-01-2025,January,Wednesday,Packaging,Kitchen World,Credit Card,4744.52
+808,17-01-2025,January,Friday,Rent,Utility Services,Bank Transfer,3019.9
+809,24-11-2025,November,Monday,Cleaning,Kitchen World,Bank Transfer,538.47
+810,19-06-2025,June,Thursday,Packaging,ABC Suppliers,Cash,407.48
+811,27-03-2025,March,Thursday,Maintenance,Fresh Foods Ltd,Credit Card,4428.89
+812,10-12-2025,December,Wednesday,Maintenance,ABC Suppliers,Cash,3651.84
+813,06-01-2025,January,Monday,Gas,City Market,Bank Transfer,1064.23
+814,29-06-2025,June,Sunday,Gas,City Market,Bank Transfer,3939.36
+815,25-01-2025,January,Saturday,Internet,Kitchen World,Bank Transfer,2202.34
+816,31-07-2025,July,Thursday,Marketing,ABC Suppliers,Credit Card,4411.22
+817,12-07-2025,July,Saturday,Staff Salary,Utility Services,Credit Card,4147.46
+818,18-12-2025,December,Thursday,Electricity,Fresh Foods Ltd,Bank Transfer,830.03
+819,31-05-2025,May,Saturday,Food Supplies,Fresh Foods Ltd,Bank Transfer,1607.21
+820,25-06-2025,June,Wednesday,Rent,Metro Wholesale,Credit Card,4441.9
+821,08-02-2025,February,Saturday,Kitchen Equipment,Fresh Foods Ltd,Cash,4710.33
+822,01-11-2025,November,Saturday,Cleaning,City Market,Bank Transfer,4468.27
+823,09-08-2025,August,Saturday,Maintenance,Kitchen World,Bank Transfer,841.69
+824,28-01-2025,January,Tuesday,Staff Salary,Metro Wholesale,Cash,1668.85
+825,23-12-2025,December,Tuesday,Kitchen Equipment,City Market,Credit Card,3615.75
+826,16-05-2025,May,Friday,Maintenance,Metro Wholesale,Bank Transfer,1421.98
+827,26-01-2025,January,Sunday,Internet,Kitchen World,Bank Transfer,2867.41
+828,28-01-2025,January,Tuesday,Water,Fresh Foods Ltd,Cash,39
+829,05-12-2025,December,Friday,Maintenance,Metro Wholesale,Bank Transfer,3009.07
+830,14-01-2025,January,Tuesday,Electricity,ABC Suppliers,Bank Transfer,870.74
+831,31-08-2025,August,Sunday,Staff Salary,Kitchen World,Cash,1555.6
+832,08-09-2025,September,Monday,Maintenance,City Market,Credit Card,1339.72
+833,18-07-2025,July,Friday,Rent,Kitchen World,Cash,1867.68
+834,06-04-2025,April,Sunday,Marketing,Kitchen World,Cash,242.19
+835,15-05-2025,May,Thursday,Electricity,Utility Services,Bank Transfer,4188.65
+836,19-03-2025,March,Wednesday,Packaging,Fresh Foods Ltd,Credit Card,3343.99
+837,26-06-2025,June,Thursday,Kitchen Equipment,Utility Services,Bank Transfer,2081.65
+838,11-10-2025,October,Saturday,Food Supplies,Utility Services,Cash,4207.17
+839,02-10-2025,October,Thursday,Maintenance,Kitchen World,Credit Card,4337.13
+840,01-05-2025,May,Thursday,Marketing,Kitchen World,Credit Card,1508.28
+841,18-01-2025,January,Saturday,Kitchen Equipment,Utility Services,Credit Card,2864.68
+842,13-12-2025,December,Saturday,Cleaning,Kitchen World,Bank Transfer,754.29
+843,27-03-2025,March,Thursday,Electricity,Metro Wholesale,Bank Transfer,4046.13
+844,05-08-2025,August,Tuesday,Staff Salary,Kitchen World,Bank Transfer,4941.63
+845,18-11-2025,November,Tuesday,Rent,ABC Suppliers,Cash,4173.86
+846,04-02-2025,February,Tuesday,Staff Salary,Kitchen World,Credit Card,1952.73
+847,16-06-2025,June,Monday,Gas,Fresh Foods Ltd,Credit Card,2608.05
+848,16-11-2025,November,Sunday,Cleaning,Kitchen World,Bank Transfer,2622.36
+849,01-08-2025,August,Friday,Rent,Utility Services,Credit Card,758.03
+850,21-02-2025,February,Friday,Staff Salary,Fresh Foods Ltd,Cash,2822.17
+851,02-10-2025,October,Thursday,Water,ABC Suppliers,Cash,4391.91
+852,02-12-2025,December,Tuesday,Marketing,Kitchen World,Bank Transfer,2868.68
+853,30-03-2025,March,Sunday,Gas,Utility Services,Credit Card,2026.81
+854,15-12-2025,December,Monday,Packaging,Kitchen World,Cash,2020.57
+855,20-12-2025,December,Saturday,Electricity,Kitchen World,Cash,265.47
+856,10-07-2025,July,Thursday,Food Supplies,ABC Suppliers,Cash,1702.57
+857,24-05-2025,May,Saturday,Marketing,City Market,Bank Transfer,4294.01
+858,27-04-2025,April,Sunday,Rent,City Market,Cash,1516.39
+859,14-06-2025,June,Saturday,Gas,Utility Services,Credit Card,3649.42
+860,15-02-2025,February,Saturday,Electricity,Kitchen World,Credit Card,2219.75
+861,06-09-2025,September,Saturday,Kitchen Equipment,Fresh Foods Ltd,Credit Card,4338.6
+862,23-03-2025,March,Sunday,Staff Salary,Utility Services,Cash,1569.39
+863,11-03-2025,March,Tuesday,Kitchen Equipment,Fresh Foods Ltd,Bank Transfer,4399.08
+864,09-04-2025,April,Wednesday,Electricity,Metro Wholesale,Bank Transfer,4188.14
+865,22-08-2025,August,Friday,Food Supplies,City Market,Bank Transfer,4591.79
+866,21-05-2025,May,Wednesday,Water,Utility Services,Cash,4121.06
+867,22-11-2025,November,Saturday,Staff Salary,Metro Wholesale,Cash,3412.25
+868,08-09-2025,September,Monday,Cleaning,Kitchen World,Credit Card,2241.6
+869,10-10-2025,October,Friday,Water,ABC Suppliers,Credit Card,1734.36
+870,19-12-2025,December,Friday,Staff Salary,Kitchen World,Bank Transfer,1439.65
+871,25-03-2025,March,Tuesday,Cleaning,Metro Wholesale,Bank Transfer,3903.55
+872,28-11-2025,November,Friday,Electricity,ABC Suppliers,Credit Card,3394.92
+873,29-07-2025,July,Tuesday,Kitchen Equipment,City Market,Bank Transfer,119.86
+874,31-08-2025,August,Sunday,Rent,Utility Services,Bank Transfer,3243.91
+875,25-04-2025,April,Friday,Gas,ABC Suppliers,Credit Card,3049.55
+876,30-12-2025,December,Tuesday,Maintenance,Kitchen World,Cash,1391.39
+877,24-08-2025,August,Sunday,Gas,ABC Suppliers,Credit Card,1106.68
+878,24-09-2025,September,Wednesday,Cleaning,Fresh Foods Ltd,Bank Transfer,1997.82
+879,19-09-2025,September,Friday,Maintenance,ABC Suppliers,Credit Card,4833.1
+880,28-11-2025,November,Friday,Cleaning,ABC Suppliers,Credit Card,3053.07
+881,25-02-2025,February,Tuesday,Marketing,ABC Suppliers,Credit Card,337.91
+882,16-06-2025,June,Monday,Gas,City Market,Credit Card,1320.51
+883,02-06-2025,June,Monday,Electricity,Metro Wholesale,Bank Transfer,766.65
+884,04-11-2025,November,Tuesday,Internet,City Market,Bank Transfer,3309.44
+885,14-01-2025,January,Tuesday,Maintenance,ABC Suppliers,Cash,2496.92
+886,03-08-2025,August,Sunday,Internet,Fresh Foods Ltd,Credit Card,1953.61
+887,29-12-2025,December,Monday,Cleaning,ABC Suppliers,Credit Card,4083.75
+888,24-04-2025,April,Thursday,Maintenance,Kitchen World,Credit Card,2682.48
+889,03-07-2025,July,Thursday,Kitchen Equipment,Metro Wholesale,Credit Card,1514.97
+890,13-10-2025,October,Monday,Rent,Kitchen World,Bank Transfer,1483.04
+891,13-05-2025,May,Tuesday,Packaging,Metro Wholesale,Credit Card,4045.55
+892,21-06-2025,June,Saturday,Maintenance,ABC Suppliers,Bank Transfer,464.71
+893,07-06-2025,June,Saturday,Internet,ABC Suppliers,Cash,3944.69
+894,14-05-2025,May,Wednesday,Cleaning,Fresh Foods Ltd,Cash,1484.37
+895,28-01-2025,January,Tuesday,Maintenance,Utility Services,Bank Transfer,2926.2
+896,30-08-2025,August,Saturday,Electricity,City Market,Cash,2512.38
+897,29-09-2025,September,Monday,Gas,Metro Wholesale,Bank Transfer,2077.27
+898,13-04-2025,April,Sunday,Water,Utility Services,Cash,2057.78
+899,15-03-2025,March,Saturday,Water,Metro Wholesale,Bank Transfer,4314.72
+900,07-09-2025,September,Sunday,Water,Metro Wholesale,Cash,3162.54
+901,21-11-2025,November,Friday,Food Supplies,ABC Suppliers,Bank Transfer,43.47
+902,28-03-2025,March,Friday,Cleaning,Kitchen World,Bank Transfer,3827.13
+903,08-03-2025,March,Saturday,Cleaning,Kitchen World,Cash,2179.88
+904,08-08-2025,August,Friday,Marketing,Fresh Foods Ltd,Credit Card,1928.92
+905,13-04-2025,April,Sunday,Packaging,Fresh Foods Ltd,Cash,1878.04
+906,29-09-2025,September,Monday,Electricity,Fresh Foods Ltd,Credit Card,109.22
+907,08-05-2025,May,Thursday,Electricity,ABC Suppliers,Cash,3473.75
+908,08-03-2025,March,Saturday,Staff Salary,Utility Services,Cash,1930.08
+909,27-03-2025,March,Thursday,Staff Salary,ABC Suppliers,Cash,4122.74
+910,22-08-2025,August,Friday,Packaging,Utility Services,Cash,2611.04
+911,11-08-2025,August,Monday,Maintenance,ABC Suppliers,Cash,4977.45
+912,03-07-2025,July,Thursday,Electricity,Kitchen World,Bank Transfer,841.12
+913,27-04-2025,April,Sunday,Electricity,Metro Wholesale,Bank Transfer,3641.3
+914,12-01-2025,January,Sunday,Cleaning,Fresh Foods Ltd,Cash,2533.08
+915,31-12-2025,December,Wednesday,Maintenance,Kitchen World,Credit Card,3964.79
+916,11-05-2025,May,Sunday,Kitchen Equipment,Utility Services,Bank Transfer,3123.21
+917,05-12-2025,December,Friday,Staff Salary,Fresh Foods Ltd,Bank Transfer,3274.77
+918,20-12-2025,December,Saturday,Staff Salary,Kitchen World,Bank Transfer,2095.54
+919,08-10-2025,October,Wednesday,Gas,Metro Wholesale,Bank Transfer,2382.49
+920,22-12-2025,December,Monday,Maintenance,ABC Suppliers,Cash,3158.95
+921,05-12-2025,December,Friday,Staff Salary,ABC Suppliers,Credit Card,3319.17
+922,07-11-2025,November,Friday,Packaging,Fresh Foods Ltd,Credit Card,703.07
+923,13-11-2025,November,Thursday,Staff Salary,Fresh Foods Ltd,Cash,1427.88
+924,12-04-2025,April,Saturday,Cleaning,ABC Suppliers,Credit Card,1014.75
+925,14-04-2025,April,Monday,Water,ABC Suppliers,Bank Transfer,3523.12
+926,21-01-2025,January,Tuesday,Kitchen Equipment,Metro Wholesale,Credit Card,2491.85
+927,04-09-2025,September,Thursday,Water,Fresh Foods Ltd,Credit Card,1187.84
+928,15-02-2025,February,Saturday,Staff Salary,City Market,Cash,4179.46
+929,18-03-2025,March,Tuesday,Staff Salary,Fresh Foods Ltd,Credit Card,3902.04
+930,21-02-2025,February,Friday,Gas,Kitchen World,Cash,3228.8
+931,16-05-2025,May,Friday,Marketing,Metro Wholesale,Bank Transfer,269.4
+932,29-05-2025,May,Thursday,Water,ABC Suppliers,Cash,4011.95
+933,01-03-2025,March,Saturday,Staff Salary,Fresh Foods Ltd,Bank Transfer,4259.2
+934,12-03-2025,March,Wednesday,Maintenance,ABC Suppliers,Cash,3243.05
+935,13-08-2025,August,Wednesday,Cleaning,City Market,Bank Transfer,1356.18
+936,10-07-2025,July,Thursday,Water,Kitchen World,Cash,930.69
+937,22-08-2025,August,Friday,Gas,City Market,Cash,4181.83
+938,04-08-2025,August,Monday,Maintenance,Metro Wholesale,Bank Transfer,4432.9
+939,09-03-2025,March,Sunday,Packaging,Metro Wholesale,Bank Transfer,3637.53
+940,02-08-2025,August,Saturday,Cleaning,Utility Services,Credit Card,2423.72
+941,13-08-2025,August,Wednesday,Rent,ABC Suppliers,Credit Card,3064.39
+942,15-01-2025,January,Wednesday,Maintenance,City Market,Bank Transfer,4402.15
+943,05-09-2025,September,Friday,Marketing,Kitchen World,Cash,582.43
+944,24-01-2025,January,Friday,Staff Salary,ABC Suppliers,Bank Transfer,1322.83
+945,27-12-2025,December,Saturday,Maintenance,City Market,Credit Card,2633.59
+946,17-10-2025,October,Friday,Electricity,City Market,Cash,4889.92
+947,23-09-2025,September,Tuesday,Kitchen Equipment,Utility Services,Bank Transfer,3447.44
+948,10-08-2025,August,Sunday,Maintenance,Kitchen World,Cash,3638.73
+949,06-12-2025,December,Saturday,Maintenance,Metro Wholesale,Credit Card,3214.19
+950,10-11-2025,November,Monday,Food Supplies,Metro Wholesale,Credit Card,77.99
+951,29-08-2025,August,Friday,Marketing,Fresh Foods Ltd,Cash,4349.69
+952,14-06-2025,June,Saturday,Electricity,ABC Suppliers,Bank Transfer,1667.86
+953,17-09-2025,September,Wednesday,Electricity,Kitchen World,Cash,2761.47
+954,01-05-2025,May,Thursday,Staff Salary,Utility Services,Cash,2306.29
+955,15-02-2025,February,Saturday,Marketing,Fresh Foods Ltd,Cash,2246.4
+956,01-12-2025,December,Monday,Food Supplies,Kitchen World,Bank Transfer,531.16
+957,13-10-2025,October,Monday,Kitchen Equipment,Fresh Foods Ltd,Credit Card,20.85
+958,13-11-2025,November,Thursday,Maintenance,Utility Services,Credit Card,1536.9
+959,16-04-2025,April,Wednesday,Maintenance,ABC Suppliers,Cash,3363.94
+960,28-01-2025,January,Tuesday,Electricity,ABC Suppliers,Credit Card,4224.7
+961,14-11-2025,November,Friday,Cleaning,City Market,Cash,2376.21
+962,20-08-2025,August,Wednesday,Staff Salary,City Market,Bank Transfer,505.24
+963,02-01-2025,January,Thursday,Water,City Market,Cash,1788.59
+964,08-10-2025,October,Wednesday,Kitchen Equipment,Fresh Foods Ltd,Bank Transfer,1881.97
+965,26-03-2025,March,Wednesday,Marketing,City Market,Credit Card,719.44
+966,29-07-2025,July,Tuesday,Staff Salary,Metro Wholesale,Bank Transfer,1286.36
+967,03-03-2025,March,Monday,Internet,Metro Wholesale,Credit Card,1093.64
+968,23-06-2025,June,Monday,Staff Salary,Fresh Foods Ltd,Credit Card,3790.6
+969,11-12-2025,December,Thursday,Cleaning,Kitchen World,Cash,633.63
+970,04-12-2025,December,Thursday,Cleaning,Metro Wholesale,Cash,4781.83
+971,03-01-2025,January,Friday,Kitchen Equipment,Utility Services,Cash,3686.35
+972,27-10-2025,October,Monday,Marketing,Metro Wholesale,Credit Card,4623.37
+973,24-10-2025,October,Friday,Rent,Metro Wholesale,Bank Transfer,3657.86
+974,18-07-2025,July,Friday,Maintenance,ABC Suppliers,Credit Card,3010.72
+975,16-07-2025,July,Wednesday,Internet,City Market,Bank Transfer,4897.91
+976,21-05-2025,May,Wednesday,Internet,ABC Suppliers,Cash,4818.7
+977,10-03-2025,March,Monday,Rent,City Market,Credit Card,2075.47
+978,20-09-2025,September,Saturday,Gas,Utility Services,Cash,4218.51
+979,31-12-2025,December,Wednesday,Packaging,City Market,Bank Transfer,4678.85
+980,13-04-2025,April,Sunday,Electricity,ABC Suppliers,Credit Card,3128.35
+981,26-06-2025,June,Thursday,Maintenance,City Market,Credit Card,680.71
+982,02-04-2025,April,Wednesday,Kitchen Equipment,City Market,Cash,2721.61
+983,30-12-2025,December,Tuesday,Staff Salary,Utility Services,Cash,3808.66
+984,26-10-2025,October,Sunday,Cleaning,City Market,Cash,4714.51
+985,12-12-2025,December,Friday,Packaging,Utility Services,Cash,4471.45
+986,05-08-2025,August,Tuesday,Food Supplies,Fresh Foods Ltd,Cash,2623.2
+987,16-03-2025,March,Sunday,Food Supplies,Metro Wholesale,Cash,3357.87
+988,24-03-2025,March,Monday,Gas,Metro Wholesale,Bank Transfer,3423.28
+989,20-12-2025,December,Saturday,Gas,Utility Services,Bank Transfer,1035.92
+990,03-07-2025,July,Thursday,Marketing,City Market,Credit Card,530.35
+991,15-10-2025,October,Wednesday,Electricity,Utility Services,Cash,3717.22
+992,02-05-2025,May,Friday,Kitchen Equipment,City Market,Cash,3925.85
+993,21-12-2025,December,Sunday,Maintenance,Kitchen World,Cash,253.96
+994,02-08-2025,August,Saturday,Maintenance,Utility Services,Bank Transfer,1577.02
+995,07-01-2025,January,Tuesday,Packaging,Utility Services,Cash,1271.68
+996,26-04-2025,April,Saturday,Maintenance,City Market,Cash,3529.05
+997,29-10-2025,October,Wednesday,Kitchen Equipment,Metro Wholesale,Credit Card,3697.48
+998,10-04-2025,April,Thursday,Gas,City Market,Bank Transfer,2255.1
+999,06-04-2025,April,Sunday,Rent,Fresh Foods Ltd,Cash,3680.7
+1000,21-01-2025,January,Tuesday,Internet,ABC Suppliers,Bank Transfer,1409.98

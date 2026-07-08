@@ -1,0 +1,6 @@
+#customer analysis ana employee analysis
+streamlit
+pandas
+plotly
+scikit-learn
+numpy
